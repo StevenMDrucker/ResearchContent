@@ -1,0 +1,2811 @@
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_01C66DD4.B29FCFB0"
+
+This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive, such as Microsoft Internet Explorer.
+
+------=_NextPart_01C66DD4.B29FCFB0
+Content-Location: file:///C:/B1644598/oousenix.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 11">
+<meta name=3DOriginator content=3D"Microsoft Word 11">
+<link rel=3DFile-List href=3D"oousenix_files/filelist.xml">
+<link rel=3DEdit-Time-Data href=3D"oousenix_files/editdata.mso">
+<link rel=3DOLE-Object-Data href=3D"oousenix_files/oledata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Title for USENIX Conference Paper: Sample First Page</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Eileen Cohen</o:Author>
+  <o:LastAuthor>Steven M. Drucker</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>5002</o:TotalTime>
+  <o:LastPrinted>1998-03-14T00:32:00Z</o:LastPrinted>
+  <o:Created>2006-05-02T17:39:00Z</o:Created>
+  <o:LastSaved>2006-05-02T17:39:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>5421</o:Words>
+  <o:Characters>30904</o:Characters>
+  <o:Company>MSFT</o:Company>
+  <o:Lines>257</o:Lines>
+  <o:Paragraphs>72</o:Paragraphs>
+  <o:CharactersWithSpaces>36253</o:CharactersWithSpaces>
+  <o:Version>11.6408</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>80</w:Zoom>
+  <w:AutoHyphenation/>
+  <w:ConsecutiveHyphensLimit>4</w:ConsecutiveHyphensLimit>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEve=
+ry>
+  <w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:UsePrinterMetrics/>
+   <w:WW6BorderRules/>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+   <w:UseWord97LineBreakingRules/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" LatentStyleCount=3D"156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Courier;
+	panose-1:2 7 4 9 2 2 5 2 4 4;
+	mso-font-charset:0;
+	mso-generic-font-family:modern;
+	mso-font-format:other;
+	mso-font-pitch:fixed;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:Times;
+	panose-1:2 2 6 3 5 4 5 2 3 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:536902279 -2147483648 8 0 511 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Times;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+h1
+	{mso-style-next:Normal;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Times;
+	mso-bidi-font-family:"Times New Roman";
+	mso-font-kerning:14.0pt;
+	mso-bidi-font-weight:normal;}
+p.MsoCaption, li.MsoCaption, div.MsoCaption
+	{mso-style-noshow:yes;
+	mso-style-next:Normal;
+	margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:Times;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{margin:0in;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:widow-orphan;
+	font-size:14.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:Times;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.25in;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-.25in;
+	mso-pagination:widow-orphan;
+	mso-list:l0 level1 lfo2;
+	tab-stops:list .25in;
+	font-size:10.0pt;
+	font-family:Times;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p.Text, li.Text, div.Text
+	{mso-style-name:Text;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:0in;
+	text-align:justify;
+	line-height:12.0pt;
+	mso-line-height-rule:exactly;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:Times;
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+p.code, li.code, div.code
+	{mso-style-name:code;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-bidi-font-family:"Times New Roman";}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+@page Section2
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-columns:2 even .25in;
+	mso-paper-source:0;}
+div.Section2
+	{page:Section2;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:1050962491;
+	mso-list-type:simple;
+	mso-list-template-ids:303982316;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-style-link:"Body Text";
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.25in;
+	mso-level-number-position:left;
+	margin-left:.25in;
+	text-indent:-.25in;
+	font-family:Symbol;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US style=3D'tab-interval:.5in'>
+
+<div class=3DSection1>
+
+<p class=3DMsoTitle>The Architecture of a Distributed Virtual Worlds System=
+<span
+style=3D'color:black'><o:p></o:p></span></p>
+
+<p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+style=3D'color:black'>Manny Vellon, Kirk Marple, Don Mitchell, Steven Druck=
+er<o:p></o:p></span></p>
+
+<p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><i style=3D=
+'mso-bidi-font-style:
+normal'><span style=3D'color:black'>Virtual Worlds Group<o:p></o:p></span><=
+/i></p>
+
+<p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><i style=3D=
+'mso-bidi-font-style:
+normal'><span style=3D'color:black'>Microsoft Research<o:p></o:p></span></i=
+></p>
+
+<p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><i style=3D=
+'mso-bidi-font-style:
+normal'><span style=3D'color:black'>Microsoft Corporation<o:p></o:p></span>=
+</i></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+<b style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:12.0pt;
+mso-bidi-font-size:10.0pt;font-family:Times;mso-fareast-font-family:"Times =
+New Roman";
+mso-bidi-font-family:"Times New Roman";mso-ansi-language:EN-US;mso-fareast-=
+language:
+ZH-CN;mso-bidi-language:AR-SA'><br clear=3Dall style=3D'page-break-before:a=
+uto;
+mso-break-type:section-break'>
+</span></b>
+
+<div class=3DSection2>
+
+<h1>Abstract</h1>
+
+<p class=3DText>We have developed an object model that facilitates the deve=
+lopment
+of shared virtual environments.<span style=3D'mso-spacerun:yes'>&nbsp; </sp=
+an>We
+have implemented our object model on top of COM and OLE Automation and
+facilitated access from Active Scripting enabled languages. This paper prov=
+ides
+a brief description of the work we have done on the <i style=3D'mso-bidi-fo=
+nt-style:
+normal'>V-Worlds</i> project.</p>
+
+<h1>1. Introduction</h1>
+
+<p class=3DText><i style=3D'mso-bidi-font-style:normal'>Virtual reality</i>=
+ is a
+user-interface paradigm in which the user feels immersed in a
+computer-generated space.<span style=3D'mso-spacerun:yes'>&nbsp; </span>Two
+aspects of this feeling of immersion have been discussed: simulating the
+sensory experience of being in a space, and the non-sensory aspect of
+presenting the user with consistent structure and action [Mitchell94].<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>The sensory aspect has been pursue=
+d by
+research and development in 3D computer graphics and display technology
+[Sutherland65, Sutherland68, Brooks86, Brooks88].<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Some currently popular computer ga=
+mes
+have demonstrated immersive 3D graphical interfaces on personal computers
+available to the general public [DOOM93, QUAKE97].</p>
+
+<p class=3DText>We use the term <i style=3D'mso-bidi-font-style:normal'>vir=
+tual
+world </i>for virtual reality systems that allow multiple users to interact=
+ in
+the same space.<span style=3D'mso-spacerun:yes'>&nbsp; </span>Adding multip=
+le
+users to VR creates a number of interesting new problems.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Networking with multiple clients is
+obviously necessary, and in some cases the technology of distributed databa=
+ses
+may be required to support a multi-user VR system.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>The interface now requires social
+functionality for talking and gesturing.<span style=3D'mso-spacerun:yes'>&n=
+bsp;
+</span>The graphical presentation of the space must allow a group of people=
+ to
+interact socially and see one another&#8217;s actions and responses.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Security is an issue, especially i=
+f the
+system allows users to build and program within the world. </p>
+
+<p class=3DText>Current work on multi-user VR systems can be divided into
+graphical chat systems, characterized by static spaces and transient user i=
+dentity
+and persistent worlds with dynamic spaces, movable objects and permanent us=
+er
+identities. Two very different kinds of systems have pioneered the developm=
+ent
+of large-scale virtual worlds: military simulation networks [Thorpe87, Zyda=
+92],
+and text-based multi-user worlds known as MUDs [Reid94].<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>SIMNET is based on vehicle and fli=
+ght
+simulators that generate real-time 3D images of a virtual world.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>A peer-to-peer network protocol al=
+lows
+these simulators to display other users&#8217; vehicles and projectiles dur=
+ing
+virtual battle simulations.</p>
+
+<p class=3DText>MUDs maintain long-term persistent worlds in a central obje=
+ct
+server; these worlds are accessed via clients similar in appearance to the =
+old
+text adventure computer games.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>Having existed for almost twenty years, MUDs are a rich source of
+experience about the structural aspects of virtual worlds.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Some MUDs have been in continuous
+operation for ten years and have on the order of 10,000 subscribed users
+[FurryMUCK, LambdaMOO], so there is also considerable experience about the
+sociology of on-line worlds.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>We&#8217;ve drawn more extensively from the technology of MUDs than =
+from
+graphical VR systems and standards, because we are explicitly interested in
+supporting the structural and social mechanisms found in MUDs.</p>
+
+<p class=3DText>Elizabeth Reid&#8217;s thesis gives a well-researched histo=
+ry and
+analysis of MUDs [Reid94].<span style=3D'mso-spacerun:yes'>&nbsp; </span>Ea=
+rly
+multi-user combat/adventure games appeared in the late 1970s, and by the mid
+1980s, some of them had abandoned actual game play and enhanced user
+communication and self-expression, becoming what are now called social
+MUDs.<span style=3D'mso-spacerun:yes'>&nbsp; </span>Jim Aspnes&#8217; <i
+style=3D'mso-bidi-font-style:normal'>TinyMUD</i> and the <i style=3D'mso-bi=
+di-font-style:
+normal'>Habitat</i> system by Farmer and Morningstar [Morningstar91] were g=
+ood
+examples of purely social MUDs.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>Habitat was distinguished by a 2D graphical interface, and TinyMUD w=
+as
+the first system to give users extensive abilities to build new places and
+objects in the world.<span style=3D'mso-spacerun:yes'>&nbsp; </span>Stephen=
+ White
+developed the TinyMUCK and the MOO systems, extensions to TinyMUD that allo=
+wed
+users to write scripts controlling objects.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>The MOO was developed further by r=
+esearchers
+at Xerox PARC [Curtis92].<span style=3D'mso-spacerun:yes'>&nbsp; </span>In =
+the meantime,
+combat/adventure MUDs have also evolved, and servers like the LPMUD have
+essentially the same technical capabilities as the most advanced social MUD=
+s.</p>
+
+<p class=3DText>An object-oriented MUD, like White and Curtis&#8217; MOO, i=
+s a
+network database server which stores objects having properties and
+methods.<span style=3D'mso-spacerun:yes'>&nbsp; </span>The topology of the =
+space
+is defined by &#8220;room&#8221; objects, representing discrete locations,
+interconnected by portal objects.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>Each room has descriptive text which users read to situate themselve=
+s in
+the location.<span style=3D'mso-spacerun:yes'>&nbsp; </span>Portals with na=
+mes
+like &#8220;north&#8221;, &#8220;climb&#8221;, &#8220;trapdoor&#8221;, conn=
+ect
+one location to another and may print text to embellish the user&#8217;s
+experience of movement and/or announce someone&#8217;s entrance or exit to
+others.<span style=3D'mso-spacerun:yes'>&nbsp; </span>MUDs are <i
+style=3D'mso-bidi-font-style:normal'>non-Cartesian</i>, meaning they are not
+limited by any geometric constraint on the spatial arrangement of rooms.<sp=
+an
+style=3D'mso-spacerun:yes'>&nbsp; </span>For example, a portal named
+&#8220;sleep&#8221; could connect a bedroom to a collection of dream-world
+locations.</p>
+
+<p class=3DText>Objects in a MOO can also represent things located in a roo=
+m, and
+objects called &#8220;players&#8221; or &#8220;avatars&#8221; represent the
+user&#8217;s character in the world.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>Users in the same room are able to talk by typing text and reading t=
+he
+text that others type.<span style=3D'mso-spacerun:yes'>&nbsp; </span>Each M=
+UD
+room is superficially similar to an Internet chat room or IRC channel, but =
+the
+description of structure and actions repeatedly suggest to the user that th=
+ey
+are the avatar, acting in a virtual space.</p>
+
+<p class=3DText>Our most fundamental departure from MUDs is the support of a
+graphical view of the virtual world. The medium of text is certainly not
+inferior to graphics, and in fact many types of MUD experiences would be
+difficult to reproduce visually.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>However, the textual descriptions of MUDs limit the speed with which=
+ a
+large amount of interesting information about the world&#8217;s structure c=
+an
+be conveyed.<span style=3D'mso-spacerun:yes'>&nbsp;&nbsp; </span>A graphical
+world is simply a different user experience, in the same way that a movie i=
+s a
+different way of seeing a story than reading a book.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>We believe it will be a more acces=
+sible
+experience, and we want to explore the possibilities of this new medium.</p>
+
+<p class=3DMsoBodyText style=3D'margin-left:0in;text-indent:0in;mso-list:no=
+ne;
+tab-stops:.5in'>Our basic requirements posed several technical challenges:<=
+/p>
+
+<p class=3DMsoBodyText><![if !supportLists]><span style=3D'font-family:Symb=
+ol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>A distributed architecture needs to be
+supported. </p>
+
+<p class=3DMsoBodyText><![if !supportLists]><span style=3D'font-family:Symb=
+ol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Objects need to persist over time. </p>
+
+<p class=3DMsoBodyText><![if !supportLists]><span style=3D'font-family:Symb=
+ol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>End users should be able to easily extend the
+system.</p>
+
+<p class=3DMsoBodyText><![if !supportLists]><span style=3D'font-family:Symb=
+ol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>End users should be able to make changes to =
+the
+system while the system in running. </p>
+
+<p class=3DMsoBodyText style=3D'margin-bottom:8.0pt'><![if !supportLists]><=
+span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "=
+Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Finally, since end users are modifying the
+system, security is of great concern. </p>
+
+<p class=3DMsoBodyText style=3D'margin-left:0in;text-indent:0in;mso-list:no=
+ne;
+tab-stops:.5in'>These are explored in further detail in the sections that
+follow. </p>
+
+<p class=3DMsoBodyText style=3D'margin-left:0in;text-indent:0in;mso-list:no=
+ne;
+tab-stops:.5in'><o:p>&nbsp;</o:p></p>
+
+<h1>2. Ease of Development</h1>
+
+<p class=3DText>V-Worlds is a platform for developing shared virtual enviro=
+nments.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>It is intended that content develo=
+pers
+create specific environments with their own artwork and programmed behavior=
+. It
+is our objective that, ultimately, V-Worlds allow even end-users to be able=
+ to
+create interesting content.<span style=3D'mso-spacerun:yes'>&nbsp; </span>S=
+ome of
+V-Worlds&#8217; design is influenced by ideas from text MUDs &#8211; especi=
+ally
+from LambdaMOO.<span style=3D'mso-spacerun:yes'>&nbsp; </span>LambdaMOO is
+notable for its features that allow end-users to create Artifacts, Rooms and
+other objects with programmed behavior.</p>
+
+<p class=3DText>Programming behavior in V-Worlds is accomplished by defining
+methods on objects in the environment.<span style=3D'mso-spacerun:yes'>&nbs=
+p;
+</span>These methods can respond to activity in the environments (e.g. users
+talking or moving) and can be exposed through the user-interface (through
+context menus).</p>
+
+<p class=3DText>In order to facilitate the development of new types of obje=
+cts,
+V-Worlds implements object <i style=3D'mso-bidi-font-style:normal'>inherita=
+nce</i>.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>A V-Worlds object has a property t=
+hat
+references its <i style=3D'mso-bidi-font-style:normal'>exemplar</i>.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>The object&#8217;s exemplar is sim=
+ilar
+(but not identical) to the <i style=3D'mso-bidi-font-style:normal'>class </=
+i>of a
+C++ or Smalltalk object.<span style=3D'mso-spacerun:yes'>&nbsp; </span>When
+V-Worlds accesses a property or a method of an object, it first looks in the
+object itself for that property or method.<span style=3D'mso-spacerun:yes'>=
+&nbsp;
+</span>If it does not find it there, it then looks in the object&#8217;s
+exemplar.<span style=3D'mso-spacerun:yes'>&nbsp; </span>The search continue=
+s up
+the exemplar hierarchy until the property or method is found or the top of =
+the
+hierarchy is reached (in which case an error results).<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>This mechanism differs from C++&#8=
+217;s
+in several ways:</p>
+
+<p class=3DMsoBodyText><![if !supportLists]><span style=3D'font-family:Symb=
+ol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>The search is done by <i style=3D'mso-bidi-f=
+ont-style:
+normal'>name</i>, at run-time (i.e. <i style=3D'mso-bidi-font-style:normal'=
+>late-bound</i>)</p>
+
+<p class=3DMsoBodyText><![if !supportLists]><span style=3D'font-family:Symb=
+ol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>An object instance can have methods and
+properties attached to it (beyond those introduced by its exemplar)</p>
+
+<p class=3DMsoBodyText><![if !supportLists]><span style=3D'font-family:Symb=
+ol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>An object&#8217;s exemplar is, itself, anoth=
+er
+object instance</p>
+
+<p class=3DMsoBodyText><![if !supportLists]><span style=3D'font-family:Symb=
+ol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>An object&#8217;s exemplar can be changed at
+run-time</p>
+
+<p class=3DMsoBodyText style=3D'margin-bottom:8.0pt'><![if !supportLists]><=
+span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "=
+Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>V-Worlds does not support multiple inheritan=
+ce</p>
+
+<p class=3DText>Inheritance facilitates development because it allows conte=
+nt
+authors to create new objects by specializing existing ones.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Having created a new object, the a=
+uthor
+can allow others to further specialize by declaring his object an exemplar =
+and
+allowing others to instantiate it or create additional exemplars that inher=
+it
+from it.</p>
+
+<p class=3DText>V-Worlds does not support multiple inheritance, mostly, to =
+keep
+the programming model simple.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>Supporting multiple inheritance requires that users be prepared to
+handle unintentional name collisions and classes encountered multiple times
+through different base classes (the C++ &#8220;virtual base class&#8221;
+problem).</p>
+
+<h1>3. Basic Object Model</h1>
+
+<p class=3DText>Similar to MOO&#8217;s, a few basic objects are provided, s=
+uch as
+&#8220;Rooms&#8221;, &#8220;Avatars&#8221;, &#8220;Portals&#8221;, and
+&#8220;Artifacts&#8221;. These in fact, are all based on the single generic
+object &#8220;Thing&#8221;. Users of the system can add properties and meth=
+ods
+to instances of the objects, or change the inheritance chain dynamically.</=
+p>
+
+<p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+style=3D'mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype id=3D"_x0000_t75"
+ coordsize=3D"21600,21600" o:spt=3D"75" o:preferrelative=3D"t" path=3D"m@4@=
+5l@4@11@9@11@9@5xe"
+ filled=3D"f" stroked=3D"f">
+ <v:stroke joinstyle=3D"miter"/>
+ <v:formulas>
+  <v:f eqn=3D"if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn=3D"sum @0 1 0"/>
+  <v:f eqn=3D"sum 0 0 @1"/>
+  <v:f eqn=3D"prod @2 1 2"/>
+  <v:f eqn=3D"prod @3 21600 pixelWidth"/>
+  <v:f eqn=3D"prod @3 21600 pixelHeight"/>
+  <v:f eqn=3D"sum @0 0 1"/>
+  <v:f eqn=3D"prod @6 1 2"/>
+  <v:f eqn=3D"prod @7 21600 pixelWidth"/>
+  <v:f eqn=3D"sum @8 21600 0"/>
+  <v:f eqn=3D"prod @7 21600 pixelHeight"/>
+  <v:f eqn=3D"sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok=3D"f" gradientshapeok=3D"t" o:connecttype=3D"rect"/>
+ <o:lock v:ext=3D"edit" aspectratio=3D"t"/>
+</v:shapetype><v:shape id=3D"_x0000_i1025" type=3D"#_x0000_t75" style=3D'wi=
+dth:228.75pt;
+ height:102pt' o:ole=3D"" fillcolor=3D"window">
+ <v:imagedata src=3D"oousenix_files/image001.wmz" o:title=3D""/>
+</v:shape><![endif]--><![if !vml]><img width=3D305 height=3D136
+src=3D"oousenix_files/image002.gif" v:shapes=3D"_x0000_i1025"><![endif]><!-=
+-[if gte mso 9]><xml>
+ <o:OLEObject Type=3D"Embed" ProgID=3D"Visio.Drawing.11" ShapeID=3D"_x0000_=
+i1025"
+  DrawAspect=3D"Content" ObjectID=3D"_1208071526">
+ </o:OLEObject>
+</xml><![endif]--></span><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:10.0pt'>Figure 1.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>The core exemplars</span></b></p>
+
+<p class=3DMsoBodyText style=3D'margin-left:0in;text-indent:0in;mso-list:no=
+ne;
+tab-stops:.5in'><o:p>&nbsp;</o:p></p>
+
+<p class=3DText>The Thing exemplar is the parent of all objects and defines
+properties and methods shared by all.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>These include properties such as the name, a reference to the exempl=
+ar
+parent object, a reference to the owner (an avatar object), a text descript=
+ion,
+and the geometrical model associated with the object.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>It also defines a container object=
+ and a
+contents list of objects, defining a containment relationship that is used =
+for
+a variety of purposes&#8212;the contents of an avatar is its inventory of
+carried objects, the artifacts and avatars in a room are contained in its
+contents list.<span style=3D'mso-spacerun:yes'>&nbsp; </span>This is an exa=
+mple
+of logical structure that makes the world more accessible to scripting. Thi=
+ng
+also defines methods like MoveInto, which changes the container the object =
+is
+located in.</p>
+
+<p class=3DText>Artifact is not much different from Thing, but its version =
+of the
+MoveInto method allows users to pick up and drop objects, while objects, in
+general, can only be moved by their owners.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>There are numerous in-world securi=
+ty
+policies that define a balance between freedom of action and protecting the
+topological integrity of the database.<span style=3D'mso-spacerun:yes'>&nbs=
+p;
+</span></p>
+
+<p class=3DText>Room and Portal define the topology of the world in much th=
+e same
+way as rooms and portals in MUDs do.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>Rooms have entrances and exits properties that give a list of portals
+leading to or from that location.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>Rooms can be locked or a list of friends can be specified, allowing
+users to own private personal space in a world.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Portals have source and destination
+properties referring to the rooms they connect.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Each room represents a discrete 3D=
+ or 2D
+place with interior and exterior geometry (e.g., vehicles are subclasses of
+rooms which may have different graphical presentations to users inside them=
+ and
+users outside) and collision-detection structures, to be discussed below.<s=
+pan
+style=3D'mso-spacerun:yes'>&nbsp; </span>Portals may also have some scripts=
+ and
+data to present a graphical transition to users, and to others around them,
+when they leave a room.<span style=3D'mso-spacerun:yes'>&nbsp; </span>Our v=
+irtual
+worlds are made up of these discrete rooms, within which a continuous 2D or=
+ 3D
+region is defined.<span style=3D'mso-spacerun:yes'>&nbsp; </span>Users move=
+ their
+avatars continuously in a room or make discrete transitions to other rooms.=
+</p>
+
+<p class=3DText>Avatar has a variety of properties and methods to specify t=
+he
+object representing the user in the world.<span style=3D'mso-spacerun:yes'>=
+&nbsp;
+</span>These include properties such as gender (of the avatar, not necessar=
+ily
+of the user), list of friends, list of users being muted, its home room,
+optional user information, log-in password, etc.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Avatar methods include a Tell func=
+tion
+that allows strings of text to be transmitted to the user&#8217;s client, a=
+nd
+an IsConnected property, allowing scripts to determine if the avatar is act=
+ively
+attached to a logged-in user.</p>
+
+<p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><!--[if gte=
+ vml 1]><v:shape
+ id=3D"_x0000_i1026" type=3D"#_x0000_t75" style=3D'width:227.25pt;height:25=
+7.25pt'
+ o:ole=3D"" fillcolor=3D"window">
+ <v:imagedata src=3D"oousenix_files/image003.wmz" o:title=3D""/>
+</v:shape><![endif]--><![if !vml]><img width=3D303 height=3D343
+src=3D"oousenix_files/image004.gif" v:shapes=3D"_x0000_i1026"><![endif]><!-=
+-[if gte mso 9]><xml>
+ <o:OLEObject Type=3D"Embed" ProgID=3D"Visio.Drawing.11" ShapeID=3D"_x0000_=
+i1026"
+  DrawAspect=3D"Content" ObjectID=3D"_1208071527">
+ </o:OLEObject>
+</xml><![endif]--></p>
+
+<p class=3DMsoCaption>Figure 2.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>Property and Method Inheritance</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DText>Figure 2 illustrates the mechanism for dispatching a refere=
+nce to
+an object&#8217;s properties and methods.<span style=3D'mso-spacerun:yes'>&=
+nbsp;
+</span>It is a straightforward implementation of dynamic inheritance. </p>
+
+<p class=3DText>In addition to providing inheritance, V-Worlds also provide=
+s an <i
+style=3D'mso-bidi-font-style:normal'>event</i> mechanism that facilitates w=
+riting
+methods that respond to actions in the environment.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>V-Worlds objects support a method =
+called
+<i style=3D'mso-bidi-font-style:normal'>FireEvent</i>.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>This method is passed an event <i
+style=3D'mso-bidi-font-style:normal'>name</i> and results in a prescribed
+sequence of method invocations. When <span style=3D'font-family:"Courier Ne=
+w";
+mso-bidi-font-family:"Times New Roman"'>Bob.FireEvent(&#8220;Foo&#8221;)</s=
+pan>
+is called, the following methods are invoked:</p>
+
+<p class=3DMsoBodyText><![if !supportLists]><span style=3D'font-family:Symb=
+ol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Each of the objects in Bob&#8217;s contents =
+has
+its OnContainerFoo method called</p>
+
+<p class=3DMsoBodyText><![if !supportLists]><span style=3D'font-family:Symb=
+ol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Bob&#8217;s container object has its
+OnContentFoo method called</p>
+
+<p class=3DMsoBodyText><![if !supportLists]><span style=3D'font-family:Symb=
+ol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Bob&#8217;s OnFoo method is called</p>
+
+<p class=3DMsoBodyText style=3D'margin-bottom:6.0pt'><![if !supportLists]><=
+span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "=
+Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Each of the other objects in Bob&#8217;s
+container has its OnPeerFoo method called</p>
+
+<p class=3DText>Events are fired for all key V-Worlds activities: connectin=
+g and disconnecting,
+talking, moving, entering and exiting Rooms, crossing collision-detection
+boundaries, etc. This event routing mechanism allows objects to sense key
+activities in the environment and to respond to them.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>It allows &#8216;bots, agents and =
+other
+interesting artifacts to be implemented without having to make other object=
+s in
+the world aware of them.</p>
+
+<h1>4. Distributed Architecture</h1>
+
+<p class=3DText>V-Worlds is a multi-user multimedia system. Users can
+&#8220;enter&#8221; a world and interact with other users in the world.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>To facilitate the coordination of
+activity and the implementation of persistent world state, we chose a
+client/server architecture for V-Worlds.<span style=3D'mso-spacerun:yes'>&n=
+bsp;
+</span>Although this paper will not detail the advantages and disadvantages=
+ of
+client/server versus peer-to-peer architectures, we note that while early w=
+ork
+in this area used a peer-to-peer approach, most recent work has used a
+client/server architecture.<span style=3D'mso-spacerun:yes'>&nbsp; </span><=
+/p>
+
+<p class=3DText>V-Worlds does <i style=3D'mso-bidi-font-style:normal'>not</=
+i> use
+DCOM (or RPC) for its client-server communications.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>There are two reasons for this.<sp=
+an
+style=3D'mso-spacerun:yes'>&nbsp; </span></p>
+
+<p class=3DText>First, DCOM is <i style=3D'mso-bidi-font-style:normal'>one-=
+to-one</i>
+oriented whereas V-Worlds needs a <i style=3D'mso-bidi-font-style:normal'>o=
+ne-to-many</i>
+communication solution.<span style=3D'mso-spacerun:yes'>&nbsp; </span>In the
+usual DCOM scenario, a client-side object invokes a server-side object by
+calling a client-side proxy object.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>The call is automatically remoted and performed on the server.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>In V-Worlds, however, the scenario=
+ is a
+bit different.<span style=3D'mso-spacerun:yes'>&nbsp; </span>Each client ke=
+eps a
+locally cached copy of the objects that it needs to render the virtual
+environment and to handle user interface operations.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Changes made to the &#8220;master
+copy&#8221; at the server have to be reflected to all the clients that have
+local copies of the object.<span style=3D'mso-spacerun:yes'>&nbsp; </span>W=
+hile
+DCOM custom marshaling provides the mechanism needed to have smarter locally
+cached copies of server objects (i.e. smarter local proxy objects), it prov=
+ides
+no simple mechanism for updating all of the copies of a server object.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>It might be possible to have each =
+server
+object keep a list of the client-side proxies and iterate through them when=
+ever
+it needs to update the clients, but this would cause O(n<sup>2</sup>) object
+growth (every new client would require <i style=3D'mso-bidi-font-style:norm=
+al'>n</i>
+additional client proxy objects to be maintained at the server.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>In contrast, the V-Worlds mechanism
+keeps a single <i style=3D'mso-bidi-font-style:normal'>connection </i>objec=
+t for
+each client and iterates through all these objects when it needs to inform
+clients of a server-side change.</p>
+
+<p class=3DText>Second, DCOM&#8217;s benefits are best realized when using
+early-bound (compile-time), static interfaces whereas V-Worlds needs a very=
+ dynamic
+object model (one that supports the ability to add methods and properties at
+run-time).<span style=3D'mso-spacerun:yes'>&nbsp; </span>It would be unacce=
+ptable
+to have to stop V-Worlds, update IDL files, and rebuild the system every ti=
+me
+new functionality needed to be added to V-Worlds.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>V-Worlds needs a mechanism that al=
+lows
+for late-bound remote procedure calls.</p>
+
+<p class=3DText>V-Worlds support for client-server programming is inherently
+built into its object model:</p>
+
+<p class=3DMsoBodyText><![if !supportLists]><span style=3D'font-family:Symb=
+ol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Client-side V-Worlds objects &#8220;know&#82=
+21;
+that they are proxies of server objects</p>
+
+<p class=3DMsoBodyText><![if !supportLists]><span style=3D'font-family:Symb=
+ol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Client-side changes to object properties are
+automatically propagated to the server and to other clients</p>
+
+<p class=3DMsoBodyText><![if !supportLists]><span style=3D'font-family:Symb=
+ol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Server-side changes to object properties are
+automatically propagated to clients</p>
+
+<p class=3DMsoBodyText><![if !supportLists]><span style=3D'font-family:Symb=
+ol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>V-Worlds object methods can be marked as
+&#8220;client-side&#8221; or &#8220;server-side&#8221;</p>
+
+<p class=3DMsoBodyText><![if !supportLists]><span style=3D'font-family:Symb=
+ol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Client-side invocations of server-side metho=
+ds
+are automatically remoted to the server</p>
+
+<p class=3DMsoBodyText style=3D'margin-bottom:8.0pt'><![if !supportLists]><=
+span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "=
+Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Server-side invocations of client-side metho=
+ds
+are automatically remoted to clients </p>
+
+<p class=3DText>From the V-Worlds user&#8217;s perspective (&#8220;user&#82=
+21;
+here referring to a content developer using the V-Worlds SDK) the client-se=
+rver
+communication is invisible.<span style=3D'mso-spacerun:yes'>&nbsp; </span>O=
+nce
+the client has been connected to the server, modifications to properties are
+automatically replicated (to the server and other clients) and methods
+automatically run on the designated machine.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>The only awareness that is require=
+d of
+the user is that remoted methods are executed asynchronously (there is a wa=
+y to
+perform synchronous client-to-server communications, but it requires explic=
+it
+coding).</p>
+
+<p class=3DText>Because client-server communications are handled automatica=
+lly,
+it&#8217;s important that unintended and unnecessary communications be
+avoided.<span style=3D'mso-spacerun:yes'>&nbsp; </span>V-Worlds provides se=
+veral
+mechanisms for this purpose.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>Properties, for example, can be marked as <i style=3D'mso-bidi-font-=
+style:
+normal'>local</i> indicating that changes to them should not be automatical=
+ly
+propagated.<span style=3D'mso-spacerun:yes'>&nbsp; </span></p>
+
+<p class=3DText>The most important mechanism that V-Worlds provides for lim=
+iting
+communication needs is its <i style=3D'mso-bidi-font-style:normal'>bystande=
+r</i>
+algorithm.<span style=3D'mso-spacerun:yes'>&nbsp; </span>This algorithm det=
+ermines
+what information needs to be provided to clients and only updates this
+information when necessary.<span style=3D'mso-spacerun:yes'>&nbsp; </span>T=
+he
+bystander algorithm relies on a hierarchy of <i style=3D'mso-bidi-font-styl=
+e:
+normal'>containment</i> of V-Worlds objects.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span></p>
+
+<p class=3DText>All V-Worlds objects have a <i style=3D'mso-bidi-font-style=
+:normal'>container</i>
+property that references the object that contains it and a <i style=3D'mso-=
+bidi-font-style:
+normal'>contents</i> property (a list of all the objects that it
+contains).<span style=3D'mso-spacerun:yes'>&nbsp; </span>This maps well to =
+the
+&#8220;physical&#8221; nature of V-Worlds objects. V-Worlds has objects for
+Avatars (people), Rooms (a section of a shared environment) and Artifacts
+(miscellaneous things, for example, Portals to other Rooms).<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Room objects may contain Avatar ob=
+jects
+that, in turn, may contain Artifact objects (the &#8220;inventory&#8221; of
+objects being carried by the Avatar).<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>Artifacts can also be contained in Rooms or in other Artifacts (for
+example, an object within a box object).<span style=3D'mso-spacerun:yes'>&n=
+bsp;
+</span>Room objects can also contain Room objects.</p>
+
+<h1>5. Bystander Updating</h1>
+
+<p class=3DText>The V-Worlds bystander algorithm assumes that a client will=
+ have
+a typical working set of locally cached objects.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>These objects are:</p>
+
+<p class=3DMsoBodyText><![if !supportLists]><span style=3D'font-family:Symb=
+ol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>The user&#8217;s Avatar</p>
+
+<p class=3DMsoBodyText><![if !supportLists]><span style=3D'font-family:Symb=
+ol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>The Artifact objects contained in the
+user&#8217;s Avatar</p>
+
+<p class=3DMsoBodyText><![if !supportLists]><span style=3D'font-family:Symb=
+ol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>The Room that contains the user&#8217;s Avat=
+ar</p>
+
+<p class=3DMsoBodyText style=3D'margin-bottom:8.0pt'><![if !supportLists]><=
+span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "=
+Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>The other objects in that Room (Avatars,
+Artifacts, Rooms, etc.)</p>
+
+<p class=3DText>The client-side object cache is established when the user (=
+or,
+more precisely, the user&#8217;s Avatar) &#8220;enters a Room&#8221;.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>At that time, the client releases =
+any
+old objects in its cache and receives its new working set of objects from t=
+he
+server. </p>
+
+<p class=3DText>Note that some objects are explicitly excluded from the wor=
+king
+set (for example, the contents of the other Avatars in the Room).<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>V-Worlds content authors have to be
+aware of what objects are present in the client machine and have to avoid
+client-side access to those objects (namely, they have to avoid client-side
+methods that access objects which are not available on the client).</p>
+
+<p class=3DText>Note also that since the objects in the cache are determine=
+d by
+the user&#8217;s location (the Room containing the user&#8217;s Avatar) that
+the user can only manipulate the objects associated with his location.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>An Avatar cannot &#8220;be in two =
+places
+at once&#8221; and, thus, the user must move his Avatar into the appropriate
+Room before manipulating the objects inside it.</p>
+
+<p class=3DText>The benefit of the bystander algorithm is that it simplifie=
+s the
+logic that governs the updating of client caches. Given the knowledge of wh=
+at
+objects a client has cached, the server can determine what clients need to =
+be
+informed of changes.<span style=3D'mso-spacerun:yes'>&nbsp; </span>If a pro=
+perty
+is changed on an Avatar, for example, and that Avatar was in the &#8220;Game
+Lobby&#8221; Room, then the server must inform all of the clients associated
+with the Avatar objects in the Game Lobby.<span style=3D'mso-spacerun:yes'>=
+&nbsp;
+</span>Clients whose associated Avatars are in other Rooms are not informed=
+ of
+the change.<span style=3D'mso-spacerun:yes'>&nbsp; </span>If a property is
+changed on an Artifact, the server informs all of the clients associated wi=
+th
+Avatars in the container of the Artifact.<span style=3D'mso-spacerun:yes'>&=
+nbsp;
+</span>Note that if the Artifact is contained by an Avatar (in other words,=
+ the
+Artifact is in an Avatar&#8217;s inventory), then only the containing Avatar
+needs to be informed of the change.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>If the Artifact is contained by a Room, however, then the change nee=
+ds
+to be communicated to all of the clients associated with the Avatars in that
+Room.<span style=3D'mso-spacerun:yes'>&nbsp; </span>In general, when a prop=
+erty
+is changed, the server determines &#8220;who the bystanders&#8221; are and
+informs only those machines of the change.</p>
+
+<p class=3DText>There are occasions when it is useful to cache additional o=
+bjects
+on the client.<span style=3D'mso-spacerun:yes'>&nbsp; </span>For example, i=
+t is
+desirable to have a &#8220;closed&#8221; box Artifact in a Room that can be
+&#8220;opened&#8221; revealing its contents.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>The standard working set, however,=
+ would
+contain the box object, but not its contents.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>To support this and other scenario=
+s,
+V-Worlds provides several ways of including additional objects in the
+client-side cache.<span style=3D'mso-spacerun:yes'>&nbsp; </span></p>
+
+<p class=3DText>First, objects can be marked (with a property) as <i
+style=3D'mso-bidi-font-style:normal'>closed</i> or <i style=3D'mso-bidi-fon=
+t-style:
+normal'>opened</i>.<span style=3D'mso-spacerun:yes'>&nbsp; </span>When a
+container is opened, the V-Worlds server will send local copies of its cont=
+ents
+to all of the bystander clients.<span style=3D'mso-spacerun:yes'>&nbsp; </s=
+pan>In
+the case of the box example, the box object is originally marked as closed =
+and
+clients do not cache its contents.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>When the box is opened, however, the server automatically marshals i=
+ts
+contents to all of the bystander clients so that the clients can render the
+contents of the box and allow users to interact with them.</p>
+
+<p class=3DText>Second, V-Worlds allows objects to be marked as <i
+style=3D'mso-bidi-font-style:normal'>noticeable</i>.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>A noticeable object is
+&#8220;visible&#8221; even if its immediate container is closed.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>In the box example of the previous
+paragraph, if all of the box&#8217;s contents were marked noticeable, then =
+it
+would not have been necessary to use the opened/closed mechanism as the
+contents would be present in all clients even if the box remained closed.</=
+p>
+
+<p class=3DText>Finally, V-Worlds provides an explicit mechanism for regist=
+ering
+explicit <i style=3D'mso-bidi-font-style:normal'>interest</i> in an object.=
+<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>If a client registers interest in =
+an
+object, it is informed of changes to that object regardless of the containm=
+ent
+hierarchy and other mechanisms.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>This registration technique is discouraged as it requires clients to
+keep track of registered objects and to remember to deregister interest when
+the object is no longer needed.</p>
+
+<h1>6. Persistence</h1>
+
+<p class=3DText>The ability to create and change objects is a fundamental
+advantage of V-Worlds over graphical chat products.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>While both V-Worlds and chat produ=
+cts
+provide shared virtual environments, chat products do not typically provide=
+ a
+way to change the environment in a persistent fashion (other than, perhaps,
+changing Avatar characteristics).<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>Mostly, this is because chat products are usually implemented atop
+simple messaging server software &#8211; for example, IRC servers.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>These servers provide a mechanism =
+for
+the real-time dissemination of data, but no mechanism for long-term storage=
+ of
+world state.<span style=3D'mso-spacerun:yes'>&nbsp; </span>V-Worlds provide=
+s its
+own server software that allows for persistent, changeable, world state.</p>
+
+<p class=3DText>V-Worlds implements persistence by allowing entire objects =
+to be
+serialized and by automatically <i style=3D'mso-bidi-font-style:normal'>log=
+ging</i>
+changes to object properties.<span style=3D'mso-spacerun:yes'>&nbsp; </span=
+></p>
+
+<p class=3DText>Storing the state of an entire object is relatively
+straightforward &#8211; V-Worlds stores the values of its properties and a
+record of what methods it has. </p>
+
+<p class=3DText>V-Worlds automatically logs changes to object properties.<s=
+pan
+style=3D'mso-spacerun:yes'>&nbsp; </span>When a property value is changed o=
+n the
+server, the server automatically records the change in a log file.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>This file is a simple sequential
+file.<span style=3D'mso-spacerun:yes'>&nbsp; </span>To restore the state of=
+ an
+environment, V-Worlds reads this log, reapplying the property changes.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>If the server crashes, only the
+unwritten change records are lost (although expensive, the server can be to=
+ld
+to immediately write changes out to the log file in order to provide the
+maximum robustness).</p>
+
+<p class=3DText>To avoid unnecessary logging, V-Worlds allows properties to=
+ be
+marked as <i style=3D'mso-bidi-font-style:normal'>volatile</i> indicating t=
+hat
+changes to them not be logged.</p>
+
+<p class=3DText>To avoid large log files, V-Worlds can write out its entire=
+ state
+to a new log file (by writing out complete objects) and then the old file c=
+an be
+deleted (or archived).</p>
+
+<h1>7. Run-time Editing</h1>
+
+<p class=3DText>Another aspect of MUDs that we have adopted in V-Worlds is =
+the
+ability to perform <i style=3D'mso-bidi-font-style:normal'>live</i> editing=
+ of
+content. V-Worlds allows objects to be created and modified while those obj=
+ects
+(and others in the same environment) are in use (on the server and connected
+clients).</p>
+
+<p class=3DText>Most Web content cannot be edited in such a manner.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Web pages, for example, are usually
+authored off-line and then posted on public servers during times when users=
+ are
+not likely to be accessing them (in order to avoid missing pages or incorre=
+ct
+links during the posting process).</p>
+
+<p class=3DText>The live-editing capability of V-Worlds includes more than =
+just
+the ability to create object instances and to modify their properties. V-Wo=
+rlds
+allows methods and properties to be added and deleted from objects and obje=
+ct
+exemplars to be changed.<span style=3D'mso-spacerun:yes'>&nbsp; </span>As w=
+ith
+property changes and method invocations, V-Worlds will propagate these chan=
+ges
+to all the clients affected by the changes. (Note: in practice, these types=
+ of
+changes are usually made to exemplar objects and exemplar objects are typic=
+ally
+cached by <i style=3D'mso-bidi-font-style:normal'>all</i> client machines.<=
+span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Thus, changes to object structure =
+are
+usually replicated in all connected clients.)<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>In addition to replicating these
+changes, V-Worlds will also persist them by writing out the necessary log
+records.</p>
+
+<p class=3DText>The replication and logging of these changes occurs automat=
+ically
+as an object&#8217;s structure is maintained in its properties.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>An object&#8217;s exemplar is refe=
+renced
+by an object-valued property.<span style=3D'mso-spacerun:yes'>&nbsp; </span=
+>An
+object&#8217;s methods are kept in a &#8220;map-&#8221; (dictionary-) valued
+property.<span style=3D'mso-spacerun:yes'>&nbsp; </span>An object&#8217;s
+properties are kept in a map-valued property.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Thus, changes to an object&#8217;s
+structure are really modifications to an object&#8217;s properties.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>As V-Worlds automatically replicat=
+es and
+persists any property changes, this mechanism also replicates and persists
+changes in object structure.</p>
+
+<p class=3DText>The ability to change an object&#8217;s structure at run-ti=
+me is
+very valuable.<span style=3D'mso-spacerun:yes'>&nbsp; </span>First, it allo=
+ws
+changes to be made to an environment without having to shut down access to =
+it.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Second, it allows a system to be
+extended by content providers and, ultimately, end-users without having to
+teach them about IDL files and recompiling a complicated system.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Together, these features facilitate
+long-term operation, maintenance and enhancement of virtual environments by
+less-skilled content developers.</p>
+
+<h1>8. Security</h1>
+
+<p class=3DText>End-user object creation (including the ability to author
+methods), clearly raises security issues.<span style=3D'mso-spacerun:yes'>&=
+nbsp;
+</span>The typical scenario that we want to enable is the one that raises t=
+he
+most concern.<span style=3D'mso-spacerun:yes'>&nbsp; </span>We want to allow
+end-users to create interesting objects that can be used by others.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>In such a scenario, it is imperati=
+ve
+that a security mechanism be provided to avoid &#8220;Trojan Horses&#8221;
+(objects that look good, but do bad things).</p>
+
+<p class=3DText>The V-Worlds security mechanism is similar to that used by
+LambdaMOO.<span style=3D'mso-spacerun:yes'>&nbsp; </span>Its basic tenet is=
+ that
+code should only be able to modify objects owned by the user that wrote the
+code.<span style=3D'mso-spacerun:yes'>&nbsp; </span>Implicit in this tenet =
+are
+three requirements:</p>
+
+<p class=3DMsoBodyText><![if !supportLists]><span style=3D'font-family:Symb=
+ol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>That all methods and objects be associated w=
+ith
+an <i style=3D'mso-bidi-font-style:normal'>owner</i></p>
+
+<p class=3DMsoBodyText><![if !supportLists]><span style=3D'font-family:Symb=
+ol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>That the system be able to, internally,
+impersonate a user for the purposes of security testing</p>
+
+<p class=3DMsoBodyText style=3D'margin-bottom:8.0pt'><![if !supportLists]><=
+span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "=
+Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>That all method and property access be valid=
+ated</p>
+
+<p class=3DText>All V-Worlds objects have an <i style=3D'mso-bidi-font-styl=
+e:normal'>owner</i>
+property that references the Avatar object that created them.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Because the user has an Avatar ass=
+ociated
+with him/her, this Avatar is used to establish a current security <i
+style=3D'mso-bidi-font-style:normal'>context</i>.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>On the client, the security contex=
+t is
+always associated with the user&#8217;s Avatar object.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>On the server, each communication
+(socket) connection is associated with the Avatar of the user that establis=
+hed
+the connection (by logging in to the virtual environment).<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>When the server processes a client=
+-side
+message (e.g. a remoted method invocation or property change), the connecti=
+on
+on which the message arrives establishes the security context.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Thus, on the client, all user-inte=
+rface
+operations are treated as being initiated by the user&#8217;s Avatar. On the
+server, all operations are treated as being initiated by the Avatar associa=
+ted
+with the communications connection that received the message requesting the
+operation. </p>
+
+<p class=3DText>To prevent Trojan Horse objects, there is an additional, in=
+ternal
+mechanism somewhat like the UNIX <i style=3D'mso-bidi-font-style:normal'>se=
+tuid</i>
+mechanism that is used to explicitly establish a current security context.
+Imagine that the user clicks on an object (say a large horse) in the room a=
+nd,
+through the event mechanism tries to invoke the Horse.OnLeftClick method.<s=
+pan
+style=3D'mso-spacerun:yes'>&nbsp; </span>First, the system assures that the
+current security context (the Avatar associated with the user) has the righ=
+t to
+access the method &#8211; assume that it does (typically, methods can be
+accessed by anyone).<span style=3D'mso-spacerun:yes'>&nbsp; </span>Thus, the
+system continues with the invocation of Horse.OnLeftClick.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>At this point, V-Worlds calls its
+internal setuid mechanism to set the security context to the Avatar that
+created the Horse.OnLeftClick method &#8211; assume that this was not the
+user&#8217;s Avatar.<span style=3D'mso-spacerun:yes'>&nbsp; </span>At this =
+point,
+the system is now impersonating the Avatar that authored the method.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>If Horse.OnLeftClick tries to dama=
+ge the
+user (say by trying to change the User.Description property) it will fail.<=
+span
+style=3D'mso-spacerun:yes'>&nbsp; </span>V-Worlds will intercept the attemp=
+t to
+write to User.Description property and will determine that the current secu=
+rity
+context cannot modify that property.</p>
+
+<p class=3DText>The V-Worlds security algorithm works by intercepting all m=
+ethod
+and property accesses and assuring that the current security context has the
+necessary rights to perform the access.<span style=3D'mso-spacerun:yes'>&nb=
+sp;
+</span>In general, only the owner of an object can modify its properties.</=
+p>
+
+<p class=3DText>There are some very subtle details here that won&#8217;t be=
+ discussed
+in depth. One instance is illustrated by the following problem: it should be
+possible to create an exemplar that stores data in instances of objects own=
+ed
+by Avatars other than its creator.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>In particular, V-Worlds contains a generic state machine object
+exemplar.<span style=3D'mso-spacerun:yes'>&nbsp; </span>This exemplar is ow=
+ned by
+the &#8220;root&#8221; Avatar.<span style=3D'mso-spacerun:yes'>&nbsp; </spa=
+n>A
+user, however, needs to be able to create an instance of this exemplar (thu=
+s,
+owned by the user&#8217;s Avatar) and have that instance store state machine
+information (i.e. its current node and its transition information).<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>This would violate the rules descr=
+ibed
+above, as the state machine exemplar would be unable to update the current =
+node
+property.</p>
+
+<p class=3DText>To enable this scenario, V-Worlds allows an exemplar to acc=
+ess
+(read and write) any property that <i style=3D'mso-bidi-font-style:normal'>=
+it created</i>,
+even if that property is attached to an object with a different owner.</p>
+
+<p class=3DText>Because security is a difficult topic that may require some
+experimentation to get right, we have centralized our security policy in a =
+single
+function that is called on method and property access.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>This allows us to easily try diffe=
+rent
+policies if the existing one proves inadequate.</p>
+
+<h1>9. Implementation Details</h1>
+
+<p class=3DText>Providing a comprehensive description of how V-Worlds works=
+ would
+exceed the objectives of this paper.<span style=3D'mso-spacerun:yes'>&nbsp;
+</span>There are a few implementation aspects, however, that are worth noti=
+ng.</p>
+
+<p class=3DText>As mentioned at the top of this paper, V-Worlds is implemen=
+ted on
+top of COM.<span style=3D'mso-spacerun:yes'>&nbsp; </span>At the heart of
+V-Worlds is the <i style=3D'mso-bidi-font-style:normal'>IThing</i>
+interface.<span style=3D'mso-spacerun:yes'>&nbsp; </span>All V-Worlds objec=
+ts
+(Avatars, Rooms, Artifacts, etc.), from the COM perspective, are instances =
+of <i
+style=3D'mso-bidi-font-style:normal'>IThing.<span style=3D'mso-spacerun:yes=
+'>&nbsp;
+</span></i>The <i style=3D'mso-bidi-font-style:normal'>IThing</i> interface
+provides much of the key functionality of V-Worlds:</p>
+
+<p class=3DMsoBodyText><![if !supportLists]><span style=3D'font-family:Symb=
+ol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>The ability to add and delete methods and
+properties to an object at run-time</p>
+
+<p class=3DMsoBodyText><![if !supportLists]><span style=3D'font-family:Symb=
+ol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>The ability to access methods and properties,
+taking object inheritance into account</p>
+
+<p class=3DMsoBodyText><![if !supportLists]><span style=3D'font-family:Symb=
+ol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Object-level persistence (serializing a whole
+object)</p>
+
+<p class=3DMsoBodyText><![if !supportLists]><span style=3D'font-family:Symb=
+ol;
+mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol'><span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>The low-level properties required of all obj=
+ects
+(<i style=3D'mso-bidi-font-style:normal'>exemplar</i>, <i style=3D'mso-bidi=
+-font-style:
+normal'>owner, </i>etc.)</p>
+
+<p class=3DMsoBodyText style=3D'margin-bottom:8.0pt'><![if !supportLists]><=
+span
+style=3D'font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-fa=
+mily:
+Symbol'><span style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "=
+Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]>Easy access via OLE Automation</p>
+
+<p class=3DText>From the C++ perspective, <i style=3D'mso-bidi-font-style:n=
+ormal'>IThing
+</i>is straightforward, though awkward.<span style=3D'mso-spacerun:yes'>&nb=
+sp;
+</span>Methods and properties are added by calling <i style=3D'mso-bidi-fon=
+t-style:
+normal'>AddProperty</i> and <i style=3D'mso-bidi-font-style:normal'>AddMeth=
+od.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span></i>Properties are read and writte=
+n to
+by calling <i style=3D'mso-bidi-font-style:normal'>get_Property</i> and <i
+style=3D'mso-bidi-font-style:normal'>put_Property</i>.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Methods are invoked by calling <i
+style=3D'mso-bidi-font-style:normal'>InvokeMethod</i>.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Note that access to properties and
+methods is through helper functions. In the case of methods, invoking them =
+is
+further complicated by the requirement that arguments be packed into an OLE=
+ DISPPARAMS
+structure.</p>
+
+<p class=3DText>Although awkward, these helper functions are key to providi=
+ng
+inheritance and the ability to dynamically modify objects at run-time. Rath=
+er
+than binding statically (during compilation), accessing properties and meth=
+ods
+through these helper functions allows V-Worlds to perform late binding. The
+helper functions also enforce V-Worlds security policies and automatically
+perform any remoting (e.g. replicating property changes or invoking remote
+methods).<span style=3D'mso-spacerun:yes'>&nbsp; </span>On the server, the =
+<i
+style=3D'mso-bidi-font-style:normal'>put_Property</i> helper function is
+responsible for logging property changes.</p>
+
+<p class=3DText>From scripting languages (and anything else that uses OLE
+Automation), access to V-Worlds objects is much more straightforward.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>V-Worlds <i style=3D'mso-bidi-font=
+-style:
+normal'>IThing</i> objects implement <i style=3D'mso-bidi-font-style:normal=
+'>IDispatch</i>
+by consulting the dynamically added properties and methods in addition to t=
+he
+static OLE TypeLib information. Essentially, the implementation of IDispatch
+turns an <i style=3D'mso-bidi-font-style:normal'>x.y</i> reference into an =
+<span
+style=3D'font-family:Courier'>x.get_Property(&#8220;y&#8221;),x.put_Propert=
+y(&#8220;y&#8221;)or
+x.InvokeMethod(&#8220;y&#8221;)</span> helper function call.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Thus, the content developer can mo=
+re
+naturally access added methods and properties:</p>
+
+<p class=3Dcode style=3D'text-indent:-.25in'><span style=3D'font-size:10.0p=
+t;
+font-family:Courier'>&#8216; In VBScript<o:p></o:p></span></p>
+
+<p class=3Dcode style=3D'text-indent:-.25in'><span style=3D'font-size:10.0p=
+t;
+font-family:Courier'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3Dcode style=3D'text-indent:-.25in'><span style=3D'font-size:10.0p=
+t;
+font-family:Courier'>&#8216; add a new property and initialize it<o:p></o:p=
+></span></p>
+
+<p class=3Dcode style=3D'text-indent:-.25in'><span style=3D'font-size:10.0p=
+t;
+font-family:Courier'>foo.AddProperty &#8220;Age&#8221;, 12<o:p></o:p></span=
+></p>
+
+<p class=3Dcode style=3D'text-indent:-.25in'><span style=3D'font-size:10.0p=
+t;
+font-family:Courier'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3Dcode style=3D'text-indent:-.25in'><span style=3D'font-size:10.0p=
+t;
+font-family:Courier'>&#8216; access the property<o:p></o:p></span></p>
+
+<p class=3Dcode style=3D'text-indent:-.25in'><span style=3D'font-size:10.0p=
+t;
+font-family:Courier'>DogYears =3D foo.Age * 7<o:p></o:p></span></p>
+
+<p class=3Dcode style=3D'text-indent:-.25in'><span style=3D'font-size:10.0p=
+t;
+font-family:Courier'>foo.Age =3D DogYears<o:p></o:p></span></p>
+
+<p class=3Dcode style=3D'text-indent:-.25in'><span style=3D'font-size:10.0p=
+t;
+font-family:Courier'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3Dcode style=3D'text-indent:-.25in'><span style=3D'font-size:10.0p=
+t;
+font-family:Courier'>&#8216; add a new method<o:p></o:p></span></p>
+
+<p class=3Dcode style=3D'text-indent:-.25in'><span style=3D'font-size:10.0p=
+t;
+font-family:Courier'>bServerSide =3D True<o:p></o:p></span></p>
+
+<p class=3Dcode style=3D'text-indent:-.25in'><span style=3D'font-size:10.0p=
+t;
+font-family:Courier'>set method =3D world.CreateMethod(&#8230;, bServerSide,
+&#8230;)<o:p></o:p></span></p>
+
+<p class=3Dcode style=3D'text-indent:-.25in'><span style=3D'font-size:10.0p=
+t;
+font-family:Courier'>foo.AddMethod &#8220;newmethod&#8221;, method<o:p></o:=
+p></span></p>
+
+<p class=3Dcode style=3D'text-indent:-.25in'><span style=3D'font-size:10.0p=
+t;
+font-family:Courier'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3Dcode style=3D'text-indent:-.25in'><span style=3D'font-size:10.0p=
+t;
+font-family:Courier'>&#8216; call it<o:p></o:p></span></p>
+
+<p class=3Dcode style=3D'text-indent:-.25in'><span style=3D'font-size:10.0p=
+t;
+font-family:Courier'>foo.newmethod 7, &#8220;Bob&#8221;</span></p>
+
+<p class=3DMsoNormal style=3D'margin-left:.5in'><span style=3D'font-family:=
+"Courier New";
+mso-bidi-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<h1>10. Status</h1>
+
+<p class=3DText>The V-Worlds system has been implemented and will be releas=
+ed to
+a limited developer beta-test in the second quarter of 1998. We&#8217;re cu=
+rrently
+working with about a half dozen third party developers and universities to =
+build
+different worlds on top of the basic platform described in this paper.
+Performance improvements and optimizations are still in progress. To date, =
+we
+have built 4 test worlds on top of the V-Worlds platform and the system has
+been tested with 20 simultaneous users, and 150 simulated users.</p>
+
+<h1>11. Summary</h1>
+
+<p class=3DText>The Virtual Worlds Group has implemented a platform that
+facilitates the development of shared virtual environments.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>The platform provides features that
+handle client/server computing, persistent state management, security and e=
+ase
+of development.<span style=3D'mso-spacerun:yes'>&nbsp; </span>These feature=
+s are
+built on top of standard COM functionality. </p>
+
+<h1 style=3D'page-break-after:avoid'>12. References</h1>
+
+<p class=3DText>[Brooks86] Brooks, F.P. Walkthrough &#8211; A Dynamic Graph=
+ics
+System for Simulating Virtual Buildings &#8211; Proceedings of 1986 Worksho=
+p on
+Interactive 3D Computer Graphics (Chapel Hill, North Carolina). <i
+style=3D'mso-bidi-font-style:normal'>Computer Graphics</i>. pp. 9-21. 1986.=
+</p>
+
+<p class=3DText>[Brooks88] Brooks, F.P. Grasping Reality Through Illusion:
+Interactive Graphics Serving Science. Proceedings of SIGCHI - 1988. pp 1-11.
+1988.</p>
+
+<p class=3DText>[Curtis92] Curtis, P. Mudding: Social Phenomena in Text-Bas=
+ed
+Virtual Realities, <i style=3D'mso-bidi-font-style:normal'>Intertek </i>Vol=
+ 3.3
+1992</p>
+
+<p class=3DText>[DOOM93, QUAKE97] The <i style=3D'mso-bidi-font-style:norma=
+l'>DOOM
+and Quake </i>PC computer games, produced by Id Software, Mesquite TX, 1993,
+1997.</p>
+
+<p class=3DText>[FurryMUCK] http://www.furry.com/</p>
+
+<p class=3DText>[LambdaMOO] lambda.parc.xerox.com:8888</p>
+
+<p class=3DText>[Mitchell94] Mitchell, A.R., S. Rosen, W. Bricken, R. Marti=
+nez,
+B. Laurel, Panel on Determinants of Immersivity in Virtual Reality: Graphics
+vs. Action. <i style=3D'mso-bidi-font-style:normal'>Computer Graphics</i>, =
+p.
+496. 1994.</p>
+
+<p class=3DText>[Morningstar91] Morningstar, C., Farmer, R., &#8220;The Les=
+sons of
+Lucasfilm&#8217;s Habitat&#8221; in <i style=3D'mso-bidi-font-style:normal'=
+>Cyberspace:
+First Steps</i>, Michael Benedikt (ed), pp 273-302, MIT Press, 1991.</p>
+
+<p class=3DText>[Reid94] Reid, E. Cultural Formations in Text-Based Virtual
+Realities. Masters Thesis. English Department. University of Melbourne. 199=
+4.</p>
+
+<p class=3DText>[Sutherland65]. Sutherland. I.E. The Ultimate Display.
+Information Processing. <i style=3D'mso-bidi-font-style:normal'>Proc. IFIP
+Congress 65</i>. 506-508. 1965.</p>
+
+<p class=3DText>[Sutherland68] Sutherland I.E. A Head Mounted Three Dimensi=
+onal
+Display. <i style=3D'mso-bidi-font-style:normal'>In Fall Joint Computer
+Conference, AFIPS Conference Proceedings 33</i>. 757-764. 1968.</p>
+
+<p class=3DText>[Thorpe87] Thorpe, Jack. The New Technology of Large Scale
+Simulator Networking: Implications for Mastering the Art of Warfighting. <i
+style=3D'mso-bidi-font-style:normal'>Proceedings of the Ninth Interservice
+Industry Training Systems Conference</i>. 1987.</p>
+
+<p class=3DText>[Zyda92]. Zyda, Michael J. D.R. Pratt, JG Monahan, K.P. Wil=
+son,
+NPSNET: Constructing a 3D Virtual World. Proceedings of 1992 Symposium on
+Interactive 3D Graphics. <i style=3D'mso-bidi-font-style:normal'>Computer
+Graphics</i>. 1992.</p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_01C66DD4.B29FCFB0
+Content-Location: file:///C:/B1644598/oousenix_files/image001.wmz
+Content-Transfer-Encoding: base64
+Content-Type: image/x-wmz
+
+H4sIAAAAAAACC7VTPUvDYBC+9+5Nm1YRJ3EQ0aKj0tFCl/4DUSkOQQjiR6FtsAbBRf+Co3TubBdH
+XbvVpYMi+BMC4qhCfe/SV221gxADT+777rkjue92miBP0W3TNrL2uKMgA0BnxkrDtEQdgwm02iS2
+qeiaHHg1PowbQA60ea8oEIkKJVfh3NGT6QPwbhL7/T7AIE/BlJFL5MAL5tW1Zmija7HjCjXoHVcg
+xDMd8XEvO5NEPg9muyrmmUVbi2Yay1U1K5GMRHi3N7ztz0u/CztsodSo+NXPqSBTFx0Htg4r9QO4
+gnOKK6dlL4Ab6aYQc5unx+FezVZqGHcj55cbjV5FQ5kuFcMzN2GUyd5heGvnT1vbrVzZSsNGENQi
+DBPhXMAydYnhYQEZyXLOCmcXSo2wsu/vhhE2MQnegS4TpRgeBpqRLO/4C0pB6cQP/UaEDzoJ1i3D
+eM1leNhKMf6H9XrQCP1qhDNpy3r4fxzPXslXtkwIPcqrHnVUVmwC1u+A4eF3HwmGfQWHMeyrpxke
+fvXvKJ4xaluGMMIw9eNCJPEPm0XivxIFAAA=
+
+------=_NextPart_01C66DD4.B29FCFB0
+Content-Location: file:///C:/B1644598/oousenix_files/image002.gif
+Content-Transfer-Encoding: base64
+Content-Type: image/gif
+
+R0lGODlhMQGIAHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAEAAQAw
+AXsAhQAAAAAAAAAASAAAdABInAB0dAB0v0gAAEgASEgAdEhISEhInEh0dEh0v0icnEic33QAAHQA
+SHQAdHRInHR0AHR0SHR0dHS/33S//5xIAJxISJx0AJzf/790AL90SL+cSL+cnL//v7///9+cSN/f
+nN//v9////+/dP/fnP//v///3////wECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwb/QIBwSCwaj8ikcslsOoeBqHRKrVqv2Kz2ye16v+Cw
+eEwuewOrtHrNbrvf8Dg8YK7b7/i8fi9Ey/+AgYB0fIWGh4iJZ4KMjYyEipGSk5Rmfo6YmWyQlZ2e
+n6CXmqOOnKCnqKl6oqStg6qwsbJgrK62b6azuru7tbe/arm8w8ShwMebxcrLnb7ItsLM0tN4zs+t
+0dTa27TXyNnc4eJK1t6a4OPp6uXmmOjq8Nzs7Y3v8ffS8/SC9vj+xPrcnKCCAUWDNSkkiPjV75/D
+WQHfJFy4wqC5hg8zporoZmIaFAwgBCBgYiIKBQdGmlCRIcCAChweaZxZjGMbjxUTiFChgYPJ/wUr
+e454sCJFhJj8aCrtNQqnxRUefCp8GrUDhjRRZS7dCssmG6cHoUoVQZXD0KJHtXJda0wTWKxjy7J0
+CVMt27uUvLY6izMQRryA6+glNTcAUbuBExcavK/NX8WQFzXGFrlyHsaTg1neLDgzqcecQxfB7Bm0
+6NOkM5s+HTr15NWsN7tuDDt25dn7atuGjJue7t2Je7f7DRyw8IvFk4/2PIq48rXHvTl/vjX6tenU
+lVp/hj37zO3fvBfXQr68+fPdxStPr779GPbu45+RT79Z/fuS4OPfP5q/fz76/bdfgALeR2CB9B2I
+YHwKLthegw6KB2GE2U1I4XMWXphchhoCx/9hh7Z9CCJrIo4oWokXoqfiiiy26OKLMMYo44zn6YLi
+Hjdehk+OSPBYzT0+3hFkf0AWaaQsQwp2JDxJQrHjkuvY+GQ8TZZRJQBXvgdlOldmKYaXtEyJpJhR
+brkRmVyiqQqYYVKp5plmhsPmF12+Kaedp8w5n5tx5onnNnp2UWefgP75SaBcIOqEootKSag2jDYx
+KJ9MGupJpExgSo6l9j1Kjaab2kHjqFN8Seqppp46aqqqzsicX1++CmsY4FFGq6x/RIGrHLDV+lms
+u8bRa7Bz+HoOsMS6MWyyyiLLbDDGZrLss2tMS20a1lKr67XYOnttttp6++y23II7rrjn3sr/7Qrk
+fosus+bC+y6x7Yar7rrxJptvsPWm28267M5Lr8C79ivvveUSXLDCshqsL8MNQ/zqvgVH647EzFG8
+MMLaWlwKxqWBrJrItEWEQkpRGDCcxCjo1AYIJSm0QgcCIAUHzLli3DJFf+DcHMsoqxSHzwjJPIjJ
+YfFkM3cSd2DBYWqkMIEJURsNh9RU84qx01DHgfWvHMeBAlBpnCXR1DdZzSvSaSg9c8ppdAD3CQ6I
+dEFLJM367x9SlyDzCAoMQEEABkwk9wAiyE142VEQsMHiWod99QR+L5TV2CYorrLcm8MNOOKvSP4G
+5mUTpfkKnw/e+eJ9rS3IyVKofILKM2Mw/3vctiNuVExZhb63HCNcFTzqKmM9kUkHKU36CA6gHfnv
+wAt/1e3BW6Q01tYLRbvvdL4eNEm31z5C8VNnP5ZfbH89/AonPLB+++0XhXbvOYv+lUiNm8DX1Mf/
+HUXN8UvD157XPUCkAH8qSUgI/BeAmqnvf2bpGgElAwjSqeF97iPKAxt4vqO9Liy3C59VRGg7Dc5v
+acJiWPjEZ8KYiWAiZ1Ee2U5QAOel0H5sWKFVUPc01BHlelOLoVAkeEPoiY1saiDh/vT3w560Tlhs
+i5vp4Pa2xcXva/SboKD+4LY0nIAAH9AgBAhQOZOkRAAVEF4UBhCCMWZtDgzrIvtIggIExNEEdmjE
+wAEJQIIzptFs3KPgHyyohtPxZYx9bGAan1gsgGkMV4+MGA4r5kiS0caSucHkcDxWD02ubJIbMyK8
+OImYLVYSlJD0pHRImRRUSlKUB4MlvViptwLiS5XSwSV3aBlIU97SlRPT5Td4WT9ZDgyYGRPmMRx2
+TGPyS5nLhCZDiKnFRAEsYMgMWTZfQ80i2jJh23yNNG/BzGeG85LnzGQ6N3lKZ4bym+5a50W6CUd5
+IseeucTnLtsJT3u5M5X6HGarZsSqgcKooAZ1EUITuqIgAAA7
+
+------=_NextPart_01C66DD4.B29FCFB0
+Content-Location: file:///C:/B1644598/oousenix_files/image003.wmz
+Content-Transfer-Encoding: base64
+Content-Type: image/x-wmz
+
+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
+
+------=_NextPart_01C66DD4.B29FCFB0
+Content-Location: file:///C:/B1644598/oousenix_files/image004.gif
+Content-Transfer-Encoding: base64
+Content-Type: image/gif
+
+R0lGODlhLwFXAXcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAIAAQAt
+AVYBhgAAAAAAAAsIBQUIDQ0IBQUICwUFBQAABQsICAUAAAgIDQ0ICAsLDQ0LCwUFCAsFBQUFCwgF
+BQgFCAgFAAAFCwsFAAgIBQsLCwAFBQAFCAUABQAASAAAdABISABInAB0nAB0v0gAAEgASEgAdEhI
+AEhISEhIdEhInEh0dEh0nEh0v0icnEicv0ic33QAAHQAdHRISHRIdHRInHR0SHR0dHR0nHR0v3Sc
+nHScv3Sc33S/v3S/33S//5xIAJxISJxIdJx0AJx0SJx0nJycSJycdJycnJycv5y/nJy//5zfv5zf
+/790AL90SL90dL+cSL+cdL+cnL+/dL/fnL//v7//37///9+cSN+cdN+cnN+/dN/fnN//39////+/
+dP+/nP/fnP//v///3////wECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwf/gACCg4SFhoeI
+iYqLjI2Oj5CRkpOQAZaXmJmam5ydnp+flKKjpKWmp6iph5Zira6vsLGys7S1trQBqrq7vL2+vJi3
+wsPExbC5v8nKy8y9msbQ0dJiyM3W19jZicHT3d6z1dri4+S+rN/o6OHl7O3ukgHp8t3r7/b3+ADx
+8/zG9fkAA2bbJ8zKpRbGuiDsd0ygw4fJwhG8ZYWHqyZTbHwJwaGKlRIbiARo8TEAD4UGTXYpwSGK
+xXT/IMqcaWqirZQblHyJoYSJzhxWWnQBAUaGkxZFsyxUqLBfTJpQoyqSSKyiqzBCuCyxBKLilxxF
+nfDAqnTjyKb8nkpdy7aQzVpW/1t1ocHDZyuvYI22+KJCYZMqTBfOU9u28MN6b2mlDPBByBYhWkKM
+xBu2hEqSATr0RdjlpTrDoEEnTheXoSzCoVO/Q2xaTOnWr1Crnn1vNOzWsmnrthbT9m2GuXcL1+Yb
+VhcPXMR0/g0t+PDnzYq/WsmZR0rrIEXu5QjY823n0MP/ku6qyw4fSpYrJymUqIwgP5m7Ai++vi7y
+cnl8OZFFv2SS+uUFBFfytUKffQg6ohZ+yln0EQ9/oRRgUfAVOF+CGDLD4HJh9GBdZipQJkNkZ3kH
+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
+
+------=_NextPart_01C66DD4.B29FCFB0
+Content-Location: file:///C:/B1644598/oousenix_files/oledata.mso
+Content-Transfer-Encoding: base64
+Content-Type: application/x-mso
+
+0M8R4KGxGuEAAAAAAAAAAAAAAAAAAAAAPgADAP7/CQAGAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA
+EAAA/v///wAAAAD+////AAAAAAAAAAD/////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////9
+/////v///wMAAAAEAAAABQAAAAYAAAAHAAAACAAAAAkAAAAKAAAACwAAAAwAAAANAAAADgAAAA8A
+AAAQAAAAEQAAABIAAAATAAAAFAAAABUAAAAWAAAAFwAAABgAAAAZAAAAGgAAABsAAAAcAAAAHQAA
+AB4AAAAfAAAAIAAAAP7///8iAAAAIwAAACQAAAAlAAAAJgAAACcAAAAoAAAAKQAAACoAAAArAAAA
+LAAAAC0AAAAuAAAALwAAADAAAAAxAAAAMgAAADMAAAA0AAAANQAAADYAAAA3AAAAOAAAADkAAAA6
+AAAAOwAAADwAAAA9AAAAPgAAAD8AAABAAAAAQQAAAEIAAABDAAAARAAAAEUAAABGAAAARwAAAEgA
+AABJAAAASgAAAEsAAABMAAAATQAAAE4AAABPAAAAUAAAAFEAAABSAAAAUwAAAFQAAABVAAAA/v//
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////1IA
+bwBvAHQAIABFAG4AdAByAHkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAWAAUA//////////8BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMB2YF8PbsYB
+/v///wAAAAAAAAAAXwAxADIAMAA4ADAANwAxADUAMgA2AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAABgAAgH/////AgAAAP////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAACAAAAMjwAAAAAAABfADEAMgAwADgAMAA3ADEANQAyADcAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAACAP///////////////wAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEAAADaaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////////
+////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFgA
+AHic7bwJXBPX3jf+O7NkY8kkYRFFM2wCIias4pqwKO5sblVbCBgBRRJDEPeg4FYXbN1qXbDV2rpi
+q61abEOX28VeLy51aSuLrTtaooKgSOY9E2Jvb5/nvu/t8/9/Pu993s8zesjMyZnMnPM7v+/v+z1z
+5pyrlTW+9X736/CHbSiQYOfEIPhdHnImx8YAEM5jO8dxL7K5/9n+W22dOFFOG/ZxfvI2F+IkwkmM
+kwQnF5xccXLDyR0naVcXABlOcpwUOHng5ImTF07eOHXDyQen7jj1wMkXp5449cJJiROLkx9O/jgF
+4BSIUxBOvXEKxikEp1DnPdn/7zbT/7NbOhjwPzO2xTAoxJ8mmP9HKPjfbl5A/+bzPB7IuxOO/Jqu
+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
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+------=_NextPart_01C66DD4.B29FCFB0
+Content-Location: file:///C:/B1644598/oousenix_files/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../oousenix.htm"/>
+ <o:File HRef=3D"image001.wmz"/>
+ <o:File HRef=3D"image002.gif"/>
+ <o:File HRef=3D"image003.wmz"/>
+ <o:File HRef=3D"image004.gif"/>
+ <o:File HRef=3D"oledata.mso"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01C66DD4.B29FCFB0--
