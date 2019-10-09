@@ -2620,7 +2620,7 @@
         "primary": "Visualization"
     },
     {
-        "caption": "Semantic AnchorViz",
+        "caption": "AnchorViz",
         "img": "researchImages/anchorviz.png",
         "bibEntry": "<div class=\"csl-entry\">Suh, J., Ghorashi, S, Ramos, G., Chen, N., Drucker, S., Verwey, J. & Simard, P. (2019). AnchorViz: Facilitating Semantic Data Exploration andConcept Discovery for Interactive Machine Learning. In <i>Transactions on Interactive Intelligent Systems</i> ACM. https://doi.org/10.1145/3172944.3172950</div>",
         "tags": {
