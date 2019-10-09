@@ -1,7 +1,10 @@
 # Steven M. Drucker
+
 ##### Partner, Research Manager
+
 ## Microsoft Research
-![](http://www.steven-drucker.com/justheadmed.07d9b61e.jpg)
+
+!["HeadShot"](http://www.steven-drucker.com/justheadmed.07d9b61e.jpg)
 email: [sdrucker@microsoft.com](mailto:sdrucker@microsoft.com)
 
 web: [www.steven-drucker.com](http://steven-drucker.com/)
@@ -10,7 +13,7 @@ office: 425-703-5850
 
 vidoes: [https://www.youtube.com/channel/UCgh_BTNsTeI7MScu6e-9Yxw](https://www.youtube.com/channel/UCgh_BTNsTeI7MScu6e-9Yxw)
 
-# _Personal Profile_
+## _Personal Profile_
 
 Dr. Steven M Drucker has a 30+ year career in computer research and development focusing on graphics, interfaces, and information visualization. In the course of his research, he has developed prototypes, products, and websites; managed several groups; published over 100 papers; and filed over 130 patents.
 
@@ -20,87 +23,107 @@ Before coming to Microsoft, he received his Ph.D. from the Computer Graphics and
 
 He has demonstrated his work on stage with Satya Nadella at the Microsoft CEO Summit and with Bill Gates at the Consumer Electronics Show (CES) and Microsoft&#39;s Worldwide Marketing Conference. He has shipped numerous products including a project for visualizing large datasets and another project for gathering and acting on information collected from the web; was written up in the New York Times; filed over 130 patents; and published papers on technologies as diverse as exploratory search, information visualization, multi-user environments, online social interaction, hypermedia research, human and robot perceptual capabilities, robot learning, parallel computer graphics, spectator oriented gaming, and human interfaces for camera control.
 
-# _Education_
+## _Education_
 
 ### _1989-1994_,  **Ph.D, Massachusetts Institute of Technology - Media Lab**
+
 > Thesis title: Integlligent Camera Control for Graphical Environments: Advisor, David Zeltzer, Committee: Dr. Alex Pentland, Dr. Pattie Maes, Glorianna Davenport. Research topics included virtual environments, human computer interaction, telerobotics, and parallel computer graphic algorithms.
 
 ### _1986-1989_, **ScM. Massachusetts Institute of Technology - Artificial Intelligence Laboratory**
+
 > Thesis title: Task Level learning on a complex task: Advisors: John Hollerbach, Chris Atkeson Research topics included machine learning, robot juggling, robot hand manipulation, tactile sensing, real time vision. GPA. 5.0/5.0
 
 ### _1981-1984_,  **ScB. Brown University**
+
 > Graduated Magna Cum Laude with Honors, Sc.B. in Department of Neurosciences.
 
-# _Work Experience_
+## _Work Experience_
 
-###  _November 2018 - Present_: **Principal Researcher and Manager of the Visualization and Interactive Data Analysis (VIDA) group at Microsoft Research**
+### November 2018 - Present_: **Principal Researcher and Manager of the Visualization and Interactive Data Analysis (VIDA) group at Microsoft Research**
+
 > Exploring the intersection of HCI and data. Exploring three primary areas: the creation of tools to facilitate communication of insights in data; understanding and troubleshooting of Machine Learning models using visualization techniques; and immersive analytics - exploration of new UI strategies including AR/VR and mixed initiative interaction in the domain of visual analytics.
 
 ### _October 2010 - November 2018_: **Principal Researcher at Microsoft Research in Visualization and Interaction for Business and Entertainment (MSR VIBE)**
+
 > Working on interactive visualization technologies for understanding and communicating about infromation and data. Released SandDance, particle based visualization in PowerBI and over the web. Demonstrated on stage with Satya Nadella at the 2016 Microsoft CEO Summit. Other projects include touch interaction for visualizations, intelligent clustering, tools for understanding and debugging machine learning, and an office extensibility architecture which has been adopted as the basic extensibility mechanism for Office in 2015.
 
 ### _April 2008 - October 2010_: **Principal Researcher Microsoft Research vXTeam**
+
 > Worked on information visualization and scalable computational systems and displays. Projects included parallel algorithms for computer graphics and large display interaction for visualization.
 
 ### _April 2006 - April 2008_: **Principal Scientist Microsoft Live Labs**
+
 > Led a group focussed on user interface, information visualization, and machine learning. Shipped technologies ranging from Microsoft Thumbtack for gathering and displaying web collections, and Microsoft Pivot for visualizing collections.
 
 ### _October 1999 - March 2006_: **Senior Researcher Microsoft Next Media Group**
+
 > Directed research efforts in social computing and virtual environments.
 
 ### _June 1995 - September 1999_: **Lead-researcher Microsoft Research Virtual Worlds Group**
+
 > Worked at the intersection of interaction and media. Demonstrated photo management software for large collections of photos at CES on stage with Bill Gates. Media browsing for movie collections. Augmented television consumption.
 
 ### _June 1994 - May 1995_: **Interzone Inc., Co-founder with John Underkoffler**
+
 > Designed and implemented early wine purchase system over the World Wide Web.
 
 ### _June 1993 - March 1995_: **Medical Media Systems, Consultant**
+
 > User Interface design and graphics systems programming for Medical Computer Graphics company.
 
 ### _January 1993 - June 1994_: **MIT Media Laboratory, Teaching Assistant**
+
 > Teaching Assistant and Research Assistant in Computer Graphics and Animation..
 
 ### _June 1991, June 1992_: **NHK Japan Broadcasting, Tokyo, Consultant**
+
 > Installed and taught an experimental 3D graphics system and interfaced with 3D input device.
 
 ### _September 1986, June 1989_: **MIT Artificial Intelligence Laboratory, Research Assistant**
+
 > Developed learning algorithms for controlling a juggling robot and tactile sensing systems.
 
 ### _September 1984 - June 1986_: **Institute for Information and Scholarship - Brown University, Full-time Employee**
+
 > Developed prototype Hypertext system and implemented framework layer of Intermedia, a hypermedia system. Development platforms included UNIX 4.2 BSD on Sun Workstations, IBM PC/RTs and Apple Macintoshes.
 
 ### _June 1982 - June 1984_: **Neural Science Department - Brown University, Research Assistant**
+
 > Led to eventual honors work in plasticity in cat visual system and motion gated visual environments.
 
 ### _June 1983 - June 1984_: **Gould Laboratory, Brown University, Technical Support Staff Leader**
+
 > Leader of group of students assigned to diagnose and correct problems related to the experimental classroom of networked Apollo Workstations. Implemented interactive three-dimensional model of the human brain, later used in introductory neuroscience class.
 
-# _Key Skills_
-#### Areas of Expertise:
+## _Key Skills_
+
+#### Areas of Expertise
+
 + Information Visualization
 + Human Computer Interaction
 + Machine Learning
 
-#### Programming Languages/Environments/Frameworks:
-- C,C++,C#,Java
-- Python, Pandas, R, LISP, SQL
-- Javascript, ECMAScript,Typescript
-- DirectX, OpenGL
-- JQuery, Angular, React/Redux
+#### Programming Languages/Environments/Frameworks
 
-## Applications:
++ C,C++,C#,Java
++ Python, Pandas, R, LISP, SQL
++ Javascript, ECMAScript,Typescript
++ DirectX, OpenGL
++ JQuery, Angular, React/Redux
 
-- Tableau
-- PowerBI
-- Excel
-- Word
-- LaTeX
-- Photoshop
-- Premiere
-- Illustrator
-- AfterEffects
+#### Applications
 
-# _Bibliography_
++ Tableau
++ PowerBI
++ Excel
++ Word
++ LaTeX
++ Photoshop
++ Premiere
++ Illustrator
++ AfterEffects
+
+## _Bibliography_
 
 1. Fred Hohman, Arjun Srinivasan, **Steven M. Drucker**, TeleGam: Combining Visualization and Verbalization for Interpretable Machine Learning, in _IEEE Transactions on Visualization and Computer Graphics, 2019.
 1. Jina Suh, Soroush Ghorashi, Gonzalo Ramos, Nan-Chen Chen, **Steven Drucker**, Johan Verwey, Patrice Simard. 2019. AnchorViz: Facilitating Semantic Data Exploration and Concept Discovery for Interactive Machine Learning. In _ACM Transactions on Interactive Intelligent Systems (TiiS)_ August, 2019, Vol 10.
@@ -113,8 +136,8 @@ He has demonstrated his work on stage with Satya Nadella at the Microsoft CEO Su
 1. Yifan Wu, **Steven Drucker**, Matthai Philipose, Lenin Ravindranath Sivalingam, Querying Videos using DNN Generated Labels, in _HILDA_, 2019.
 1. Wolfgang Stuerzlinger, Tim Dwyer,  **Steven M Drucker** , Carsten Gorg, Chris North, Gerik Scheuermann. 2018. Immersive human-centered computational analytics. _Immersive Analytics_ 139–163.
 1. Wolfgang Buschell, Jian Chen, Raimund Dachselt,  **Steven M Drucker** , Tim Dwyer, Carsten Gorg, Tobias Isenberg, Andreas Kern, Chris North, Wolfgang Stuerzlinger. 2018. Interaction for Immersive Analytics. _Immersive Analytics_ 95–138.
-1. Benjamin Bach, Moritz Stefaner, Jeremy Boy,  **Steven M. Drucker ** , Lyn Bartram, Jo Wood, Barbara Tversky 2018. Narrative Design Patterns for Data-Driven Storytelling. _Data-Driven Storytelling_, 107–133. https://doi.org/10.1201/9781315281575-5
-1. **Steven M. Drucker** , Samuel Huron, Robert Kosara, Jon Schwabish, Nicholas Diakopoulos. 2018. Communicating Data to an Audience._Data-Driven Storytelling_, 107–133. https://doi.org/10.1201/9781315281575-5
+1. Benjamin Bach, Moritz Stefaner, Jeremy Boy,  **Steven M. Drucker** , Lyn Bartram, Jo Wood, Barbara Tversky 2018. Narrative Design Patterns for Data-Driven Storytelling. _Data-Driven Storytelling_, 107–133.
+1. **Steven M. Drucker** , Samuel Huron, Robert Kosara, Jon Schwabish, Nicholas Diakopoulos. 2018. Communicating Data to an Audience._Data-Driven Storytelling_, 107–133.
 1. Nan-Chen Chen, Jina Suh, Johan Verwey, Gonzalo Ramos,  **Steven M Drucker** , Patrice Simared. 2018. AnchorViz: Facilitiating classifier error discovery through interactive semantic data exploration. In _Intelligent User Interfaces._ 269-280
 1. Deokgun Park,  **Steven M. Drucker** , Niklas Elmqvist. 2018. Atom: a grammar for unit visualizations. In _IEEE Transactions on Visualization and Computer Graphics_ 24, 12: 3032-3043.
 1. Christophe Hurter, Nathalie Henry Riche,  **Steven M. Drucker** , Maxim Cordell, Richard Alligier, Romaine Vuillemot. 2018. FibreClay: Sculpting Three Dimensional Trajectories to Reveal Structural Insights. In _IEEE Transactions on Visualization and Computer Graphics_ 25, 1: 705-714.
@@ -167,7 +190,7 @@ He has demonstrated his work on stage with Satya Nadella at the Microsoft CEO Su
 1. Qing Luan,  **Steven M Drucker** , Johannes Kopf, Ying-Qing Xu, and Michael F Cohen. 2008. Annotating gigapixel images. In _Proceedings of the 21st annual ACM symposium on User interface software and technology_, 33–36.
 1. Lalatendu Satpathy, Saara Kamppari, Bridget Lewis, Ajay Prasad, Yong Woo Rhee, Benjamin Elgart, and  **Steven M Drucker**. 2008. Pixaura: supporting tentative decision making when selecting and sharing digital photos. In _Proceedings of the 22nd British HCI Group Annual Conference on People and Computers: Culture, Creativity, Interaction-Volume 2_, 87–91.
 1. Paul André,  **Steven M Drucker** , and m. c. schraefel. 2007. Informal Online Decision Making: Current Practices and Support System Design.
-1. Mira Dontcheva,  **Steven M Drucker** , David Salesin, and Michael F Cohen. 2007. Relations, cards, and search templates: user-guided web data integration and layout. In _Proceedings of the 20th annual ACM symposium on User interface software and technology_, 61–70. Best Student Paper. 
+1. Mira Dontcheva,  **Steven M Drucker** , David Salesin, and Michael F Cohen. 2007. Relations, cards, and search templates: user-guided web data integration and layout. In _Proceedings of the 20th annual ACM symposium on User interface software and technology_, 61–70. Best Student Paper.
 1. Andy Edmonds, Ryen W White, Dan Morris, and  **Steven M Drucker**. 2007. Instrumenting the dynamic web. _Journal of Web Engineering_ 6, 3: 243.
 1. Gang Hua, Paul A Viola, and  **Steven M Drucker**. 2007. Face recognition using discriminatively trained orthogonal rank one tensor projections. In _2007 IEEE Conference on Computer Vision and Pattern Recognition_, 1–8.
 1. Ryen W White and  **Steven M Drucker**. 2007. Investigating behavioral variability in web search. In _Proceedings of the 16th international conference on World Wide Web_, 21–30.
@@ -221,85 +244,90 @@ He has demonstrated his work on stage with Satya Nadella at the Microsoft CEO Su
 1. David M Siegel,  **Steven M Drucker** , and Inaki Garabieta. 1987. _Performance analysis of a tactile sensor_. IEEE.
 1. Nicole Yankelovich, Bernard Haan, and  **Steven M Drucker**. 1987. Connections in Context: The intermedia system. _Providence, Rhode Island: Institute for Research in Information and Scholarship, Brown University_.
 
-# _Press_
-- [Research Podcast-Visualizing Data and Other Big Ideas](https://www.microsoft.com/en-us/research/blog/visualizing-data-big-ideas-dr-steven-drucker/?ocid=msr_podcast_sdrucker_profile)
-- [SandDance, a web app](https://www.microsoft.com/en-us/garage/profiles/profile-sanddance.aspx)
-- [Exploring Data Visually: Microsoft SandDance](https://www.schemadesign.com/work/microsoft-sanddance)
-- [Microsoft SandDance is a beautiful data visualization tool for chart geeks](http://thenextweb.com/apps/2016/03/23/microsoft-sanddance-beautiful-data-visualization-tool-chart-geeks/)
-- [SandDance, my first impression​s and test](http://community.powerbi.com/t5/Community-Blog/SandDance-my-first-impressions-and-test/ba-p/30479#.VxkeggQntpg.twitter)
-- [A blog on modern business intelligence technologies, tools and miscellaneous things](http://analyticswithankit.blogspot.com/2016/04/sanddance-in-power-bi.html)
-- [Microsoft&#39;s New Data-Viz Tool Puts Excel Charts To Shame](http://www.fastcodesign.com/3058185/microsofts-new-data-viz-tool-puts-excel-charts-to-shame)
-- [Discover stories within data using SandDance, a new Microsoft Research project](https://blogs.microsoft.com/firehose/2016/03/22/discover-stories-within-data-using-sanddance-a-new-microsoft-research-project/)
-- [Visual Awesomeness Unlocked – SandDance](https://powerbi.microsoft.com/en-us/blog/visual-awesomeness-unlocked-sanddance/)
-- [Software Fail Watch 2016, Quarter One](http://www.tricentis.com/blog/2016/04/07/software-fail-watch-2016-quarter-one/)
-- [Microsoft SandDance lets you discover stories within data](http://www.techworm.net/2016/03/microsoft-sanddance-lets-discover-stories-within-data.html)
-- [SandDance tells the data stories that can be harder to read](http://www.fiercecio.com/story/sanddance-tells-data-stories-can-be-harder-read/2016-03-23)
-- [SandDance Aids In Finding Stories And Extracting Insight From Data](http://www.stocksdaily.net/microsoft-corporation-nasdaqmsft-sanddance-aids-in-finding-stories-and-extracting-insight-from-data/77006/)
-- [Power BI cozies up with Excel, gets other upgrades at Microsoft Data Insight Summit](http://sqlmag.com/business-intelligence/power-bi-cozies-excel-gets-other-upgrades-microsoft-data-insight-summit)
-- [Microsoft SandDance is a beautiful data visualization tool for chart geeks](http://thenextweb.com/apps/2016/03/23/microsoft-sanddance-beautiful-data-visualization-tool-chart-geeks/)
-- [Beauty and the Beastly PC: Microsoft discovers that software should be—surprise!—a thing of beauty. ](http://www.discover.com/issues/may-04/departments/emerging-technology)Steven Johnson, Discover Magazine, Vol. 25, No. 4, May, 2004.
-- [Imagining a digital future: Passion for science drives research to open new Windows, ](http://www.canada.com/vancouver/theprovince/news/archives/story.html?id=a3930671-4985-40a7-a6e5-d3c46464a41d)Jim Jamieson, The Province, April 4, 2004.
-- [Navigating Home Networks ](http://research.microsoft.com/~sdrucker/NYTimes31904.pdf)Michel Marriott, New York Times, February 19, 2004.
-- [Gates previews &#39;amazing decade.&#39; ](http://www.wired.com/news/technology/0,1282,61837,00.html?tw=wn_tophead_2)Wired Magazine, January 8, 2004.
-- [CES Keynote Speech With Bill Gates, (towards the end of transcript)](http://www.microsoft.com/billgates/speeches/2004/01-07ces.asp)CES, January, 2004.
-- [StepMail/StepPhoto ](http://research.microsoft.com/~sdrucker/Press/dance.html)Ars Electronica, 3/1/2006.
-- [Spectator: Microsoft 5000th Patent ](http://research.microsoft.com/~sdrucker/Press/spectator.mht)XGP Gaming, 3/2006
-- [At home with Microsoft Research ](http://research.microsoft.com/~sdrucker/Press/IT%20Business.mht)ca, Interview 4/13/2006)
+## _Press_
 
-# _Invited Presentations_
-- Microsoft CEO Summit Keynote Demo
-- Texas A&amp;M: Distinguished Lecturer
-- Georgia Tech (Atlanta, GA) Distinguished Lecturer
-- SFU (Vancouver, BC) Distinguished Lecturer
-- PARC (Palo Alto, California)
-- USC (LA, Calilfornia)
-- CMU (Pittsburgh, PA)
-- Stanford (Invited Speaker)
-- University of Washington, DUB speaker
-- E3 (Electronic Entertainment Exposition) &quot;Educational Game Technology&quot;
-- GDC (Game Developer Conference) &quot;MSR Graphics and Game&quot;
-- Microsoft Faculty Summit
-- Microsoft South American Faculty Summit (Brazil)
-- Microsoft South American Faculty Summit (Chile)
-- MIT CSAIL, Media Laboratory (Cambridge, MA)
-- Keynote demo, Bill Gates Presentation Consumer Electronics Show
-- Keynote demo, Bill Gates, MGB
-- Berkeley, (Berkeley, CA)
-- Kunsthochshule für Medien(Cologne, Germany)
-- GMD (Bonn, Germany)
-- NACB (Providence, RI)
-- NHK (Japan)
-- Dartmouth University (NH)
-- MERL (Cambridge, MA.)
++ [Research Podcast-Visualizing Data and Other Big Ideas](https://www.microsoft.com/en-us/research/blog/visualizing-data-big-ideas-dr-steven-drucker/?ocid=msr_podcast_sdrucker_profile)
++ [SandDance, a web app](https://www.microsoft.com/en-us/garage/profiles/profile-sanddance.aspx)
++ [Exploring Data Visually: Microsoft SandDance](https://www.schemadesign.com/work/microsoft-sanddance)
++ [Microsoft SandDance is a beautiful data visualization tool for chart geeks](http://thenextweb.com/apps/2016/03/23/microsoft-sanddance-beautiful-data-visualization-tool-chart-geeks/)
++ [SandDance, my first impression​s and test](http://community.powerbi.com/t5/Community-Blog/SandDance-my-first-impressions-and-test/ba-p/30479#.VxkeggQntpg.twitter)
++ [A blog on modern business intelligence technologies, tools and miscellaneous things](http://analyticswithankit.blogspot.com/2016/04/sanddance-in-power-bi.html)
++ [Microsoft&#39;s New Data-Viz Tool Puts Excel Charts To Shame](http://www.fastcodesign.com/3058185/microsofts-new-data-viz-tool-puts-excel-charts-to-shame)
++ [Discover stories within data using SandDance, a new Microsoft Research project](https://blogs.microsoft.com/firehose/2016/03/22/discover-stories-within-data-using-sanddance-a-new-microsoft-research-project/)
++ [Visual Awesomeness Unlocked – SandDance](https://powerbi.microsoft.com/en-us/blog/visual-awesomeness-unlocked-sanddance/)
++ [Software Fail Watch 2016, Quarter One](http://www.tricentis.com/blog/2016/04/07/software-fail-watch-2016-quarter-one/)
++ [Microsoft SandDance lets you discover stories within data](http://www.techworm.net/2016/03/microsoft-sanddance-lets-discover-stories-within-data.html)
++ [SandDance tells the data stories that can be harder to read](http://www.fiercecio.com/story/sanddance-tells-data-stories-can-be-harder-read/2016-03-23)
++ [SandDance Aids In Finding Stories And Extracting Insight From Data](http://www.stocksdaily.net/microsoft-corporation-nasdaqmsft-sanddance-aids-in-finding-stories-and-extracting-insight-from-data/77006/)
++ [Power BI cozies up with Excel, gets other upgrades at Microsoft Data Insight Summit](http://sqlmag.com/business-intelligence/power-bi-cozies-excel-gets-other-upgrades-microsoft-data-insight-summit)
++ [Microsoft SandDance is a beautiful data visualization tool for chart geeks](http://thenextweb.com/apps/2016/03/23/microsoft-sanddance-beautiful-data-visualization-tool-chart-geeks/)
++ [Beauty and the Beastly PC: Microsoft discovers that software should be—surprise!—a thing of beauty. ](http://www.discover.com/issues/may-04/departments/emerging-technology)Steven Johnson, Discover Magazine, Vol. 25, No. 4, May, 2004.
++ [Imagining a digital future: Passion for science drives research to open new Windows, ](http://www.canada.com/vancouver/theprovince/news/archives/story.html?id=a3930671-4985-40a7-a6e5-d3c46464a41d)Jim Jamieson, The Province, April 4, 2004.
++ [Navigating Home Networks ](http://research.microsoft.com/~sdrucker/NYTimes31904.pdf)Michel Marriott, New York Times, February 19, 2004.
++ [Gates previews &#39;amazing decade.&#39; ](http://www.wired.com/news/technology/0,1282,61837,00.html?tw=wn_tophead_2)Wired Magazine, January 8, 2004.
++ [CES Keynote Speech With Bill Gates, (towards the end of transcript)](http://www.microsoft.com/billgates/speeches/2004/01-07ces.asp)CES, January, 2004.
++ [StepMail/StepPhoto ](http://research.microsoft.com/~sdrucker/Press/dance.html)Ars Electronica, 3/1/2006.
++ [Spectator: Microsoft 5000th Patent ](http://research.microsoft.com/~sdrucker/Press/spectator.mht)XGP Gaming, 3/2006
++ [At home with Microsoft Research ](http://research.microsoft.com/~sdrucker/Press/IT%20Business.mht)ca, Interview 4/13/2006)
 
-# _Selected Presentations_
-- [Making Tools for Making Games](http://research.microsoft.com/~sdrucker/Presentations/Making%20Tools%20for%20Making%20Games.ppt), Presented at Education Arcade, E3, May, 2004.
-- [Creating Novel Experiences for interacting with media ](http://research.microsoft.com/~sdrucker/novel2004.ppt), Presented at Strategy Day, November, 2004
-- [Information Overload meets Information Visualization: Building user interfaces to deal with too much information ](http://research.microsoft.com/~sdrucker/Presentations/MIT2006.ppt), MIT, 2006.
-- [Dealing with your Digital &#39;Stuff&#39;: Lessons from Information Visualization for Interacting with collections ](http://research.microsoft.com/~sdrucker/Presentations/DealingWithDigitalStuff.pptx). Georgia Tech, SFU, 2012
-- [Visualization Communication. ](http://research.microsoft.com/~sdrucker/presentations/visualizationCommunication.pptx)HCIC, 2012
+## _Invited Presentations_
 
-# _Reviews and Committees_
-- iCampus Joint Steering Committee (Microsoft-MIT Educational Technology Grant)
-- Graphics Interface Program Committee
-- SIGCHI Awards Chair 2016,2017
-- SIGCHI Program Committee
-- UIST Program Committee
-- Infovis Program Committee
-- Infovis Fundraising/Exhibits Chair (2014, 2015, 2016)
-- VAST Program Committee
-- ISVC (International Symposium on Visual Computing) Program Committee
-- ISWC (International Semantic Web Conference Program Committee)
-- WWW Conference, Program Committee
-- Communications of the ACM, Guest Editor
-- IEEE CG&amp;A: Guest Editor
-- SIGGRAPH, SIGCHI, UIST, SIGCHI, TOG,WWW,IUI,TOCHI,CG&amp;A reviewer, 1995-present
-- NSERC Reviewer
-- NFS Panel Member
-- INRIA Evaluation Committee 2018
-- SIGCHI Subcommittee Chair: 2017, 2018
++ Microsoft CEO Summit Keynote Demo
++ Texas A&amp;M: Distinguished Lecturer
++ Georgia Tech (Atlanta, GA) Distinguished Lecturer
++ SFU (Vancouver, BC) Distinguished Lecturer
++ PARC (Palo Alto, California)
++ USC (LA, Calilfornia)
++ CMU (Pittsburgh, PA)
++ Stanford (Invited Speaker)
++ University of Washington, DUB speaker
++ E3 (Electronic Entertainment Exposition) &quot;Educational Game Technology&quot;
++ GDC (Game Developer Conference) &quot;MSR Graphics and Game&quot;
++ Microsoft Faculty Summit
++ Microsoft South American Faculty Summit (Brazil)
++ Microsoft South American Faculty Summit (Chile)
++ MIT CSAIL, Media Laboratory (Cambridge, MA)
++ Keynote demo, Bill Gates Presentation Consumer Electronics Show
++ Keynote demo, Bill Gates, MGB
++ Berkeley, (Berkeley, CA)
++ Kunsthochshule für Medien(Cologne, Germany)
++ GMD (Bonn, Germany)
++ NACB (Providence, RI)
++ NHK (Japan)
++ Dartmouth University (NH)
++ MERL (Cambridge, MA.)
 
-# _Granted Patents_
+## _Selected Presentations_
+
++ [Making Tools for Making Games](http://research.microsoft.com/~sdrucker/Presentations/Making%20Tools%20for%20Making%20Games.ppt), Presented at Education Arcade, E3, May, 2004.
++ [Creating Novel Experiences for interacting with media ](http://research.microsoft.com/~sdrucker/novel2004.ppt), Presented at Strategy Day, November, 2004
++ [Information Overload meets Information Visualization: Building user interfaces to deal with too much information ](http://research.microsoft.com/~sdrucker/Presentations/MIT2006.ppt), MIT, 2006.
++ [Dealing with your Digital &#39;Stuff&#39;: Lessons from Information Visualization for Interacting with collections ](http://research.microsoft.com/~sdrucker/Presentations/DealingWithDigitalStuff.pptx). Georgia Tech, SFU, 2012
++ [Visualization Communication. ](http://research.microsoft.com/~sdrucker/presentations/visualizationCommunication.pptx)HCIC, 2012
+
+## _Reviews and Committees_
+
++ iCampus Joint Steering Committee (Microsoft-MIT Educational Technology Grant)
++ Graphics Interface Program Committee
++ SIGCHI Awards Chair 2016,2017
++ SIGCHI Program Committee
++ UIST Program Committee
++ Infovis Program Committee
++ Infovis Fundraising/Exhibits Chair (2014, 2015, 2016)
++ VAST Program Committee
++ ISVC (International Symposium on Visual Computing) Program Committee
++ ISWC (International Semantic Web Conference Program Committee)
++ WWW Conference, Program Committee
++ Communications of the ACM, Guest Editor
++ IEEE CG&amp;A: Guest Editor
++ SIGGRAPH, SIGCHI, UIST, SIGCHI, TOG,WWW,IUI,TOCHI,CG&amp;A reviewer, 1995-present
++ NSERC Reviewer
++ NFS Panel Member
++ INRIA Evaluation Committee 2018
++ SIGCHI Subcommittee Chair: 2017, 2018
+
+## _Granted Patents_
+
 1. Gestures involving direct interaction with a data visualization  
 1. Progressive query computation using streaming architectures  
 1. Interactive semantic data exploration for error discovery  
@@ -389,4 +417,4 @@ He has demonstrated his work on stage with Satya Nadella at the Microsoft CEO Su
 1. Distributed Object-oriented multi-user domain with multimedia presentations  
 1. Software object security mechanism  
 1. Virtual Environment Bystander Updating in Client Server Architecture  
-1. Compression of Graphic Data Normals  
+1. Compression of Graphic Data Normals
