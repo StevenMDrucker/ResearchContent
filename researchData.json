@@ -2999,7 +2999,7 @@
     },
     {
         "caption": "TeleGam",
-        "img": "researchImages/telegam.png",
+        "img": "researchImages/telegam.PNG",
         "bibEntry": "",
         "tags": {
             "collaborators": [
@@ -3017,9 +3017,9 @@
             "publication": [
                 "VIS"
             ]
-        },
-        "pdf": "papers/telegam.pdf",
+        },        
+        "pdf": "papers/telegam-vis19.pdf",
         "abstract": "While machine learning (ML) continues to nd success in solving previously-thought hard problems, interpreting and exploring ML models remains challenging. Recent work has shown that visualizations are a powerful tool to aid debugging, analyzing, and interpreting ML models. However, depending on the complexity of the model (e.g., number of features), interpreting these visualizations can be difcult and may require additional expertise. Alternatively, textual descriptions, or verbalizations, can be a simple, yet effective way to communicate or summarize key aspects about a model, such as the overall trend in a model's predictions or comparisons between pairs of data instances. With the potential benets of visualizations and verbalizations in mind, we explore how the two can be combined to aid ML interpretability. Specically, we present a prototype system,TELEGAM , that demonstrates how visualizations and verbalizations can collectively support interactive exploration of ML models, for example, generalized additive models (GAMs). We describeTELEGAM 's interface and underlying heuristics to generate the verbalizations. We conclude by discussing how TELEGAM can serve as a platform to conduct future studies for understanding user expectations and designing novel interfaces for interpretable ML.",
         "primary": "Visualization"
-    },
+    }
 ]
