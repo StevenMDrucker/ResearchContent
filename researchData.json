@@ -2896,7 +2896,7 @@
     },
     {
         "caption": "AnchorViz2",
-        "img": "researchImages/anchorviz2.png",        
+        "img": "researchImages/anchorviz2.png",
         "bibEntry": "<div class=\"csl-entry\">Jina Suh Soroush Ghorashi Gonzalo Ramos Nan-Chen Chen Steven Drucker Johan Verwey Patrice Simard. (2019). AnchorViz: Facilitating Semantic Data Exploration and Concept Discovery for Interactive Machine Learning. <i>ACM Transactions on Interactive Intelligent Systems (TiiS) </i>. August 2019, Vol 10(1)</div>",
         "tags": {
             "collaborators": [
@@ -2925,8 +2925,8 @@
     },
     {
         "caption": "TensorWatch",
-        "img": "researchImages/TensorWatch.PNG",        
-        "bibEntry": "<div class=\"csl-entry\">Shital Shah Roland Fernandez Steven Drucker. (2019). A system for real-time interactive analysis of deep learning training. <i>Engineering Interactive Computing Systems (EICS) </i>.</div>",        
+        "img": "researchImages/TensorWatch.PNG",
+        "bibEntry": "<div class=\"csl-entry\">Shital Shah Roland Fernandez Steven Drucker. (2019). A system for real-time interactive analysis of deep learning training. <i>Engineering Interactive Computing Systems (EICS) </i>.</div>",
         "tags": {
             "collaborators": [
                 "Shah",
@@ -2955,7 +2955,7 @@
         "tags": {
             "collaborators": [
                 "Subramonyam",
-                "Adar"                
+                "Adar"
             ],
             "subject": [
                 "Information",
@@ -2975,7 +2975,7 @@
     {
         "caption": "Gather",
         "img": "researchImages/Gather.PNG",
-        "bibEntry": "<div class=\"csl-entry\">Andrew Head, Fred Hohman, Titus Barik, Steven M. Drucker, and Robert DeLine. 2019. Managing Messes in Computational Notebooks. In <i>Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19)</i>. ACM, New York, NY, USA, Paper 270, 12 pages. DOI: https://doi.org/10.1145/3290605.3300500</div>",        
+        "bibEntry": "<div class=\"csl-entry\">Andrew Head, Fred Hohman, Titus Barik, Steven M. Drucker, and Robert DeLine. 2019. Managing Messes in Computational Notebooks. In <i>Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19)</i>. ACM, New York, NY, USA, Paper 270, 12 pages. DOI: https://doi.org/10.1145/3290605.3300500</div>",
         "tags": {
             "collaborators": [
                 "Head",
@@ -3017,7 +3017,7 @@
             "publication": [
                 "VIS"
             ]
-        },        
+        },
         "pdf": "papers/telegam-vis19.pdf",
         "abstract": "While machine learning (ML) continues to nd success in solving previously-thought hard problems, interpreting and exploring ML models remains challenging. Recent work has shown that visualizations are a powerful tool to aid debugging, analyzing, and interpreting ML models. However, depending on the complexity of the model (e.g., number of features), interpreting these visualizations can be difcult and may require additional expertise. Alternatively, textual descriptions, or verbalizations, can be a simple, yet effective way to communicate or summarize key aspects about a model, such as the overall trend in a model's predictions or comparisons between pairs of data instances. With the potential benets of visualizations and verbalizations in mind, we explore how the two can be combined to aid ML interpretability. Specically, we present a prototype system,TELEGAM , that demonstrates how visualizations and verbalizations can collectively support interactive exploration of ML models, for example, generalized additive models (GAMs). We describeTELEGAM 's interface and underlying heuristics to generate the verbalizations. We conclude by discussing how TELEGAM can serve as a platform to conduct future studies for understanding user expectations and designing novel interfaces for interpretable ML.",
         "primary": "Visualization"
