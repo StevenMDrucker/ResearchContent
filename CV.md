@@ -1,6 +1,5 @@
 # Steven M. Drucker
 
-{: .MyClass}  
 ##### Partner, Research Manager
 
 ## Microsoft Research
