@@ -2869,6 +2869,135 @@
         "primary": "Visualization"
     },
     {
+        "caption": "GAMut",
+        "img": "researchImages/GAMut.PNG",
+        "bibEntry": "<div class=\"csl-entry\">Fred Hohman, Andrew Head, Rich Caruana, Robert DeLine, and Steven M. Drucker. 2019. Gamut: A Design Probe to Understand How Data Scientists Understand Machine Learning Models. In <i>Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19)</i>. ACM, New York, NY, USA, Paper 579, 13 pages. DOI: https://doi.org/10.1145/3290605.3300809</div>",
+        "tags": {
+            "collaborators": [
+                "Hohman",
+                "Head",
+                "DeLine"
+            ],
+            "subject": [
+                "Information",
+                "Visualization",
+                "ML"
+            ],
+            "year": [
+                "2019"
+            ],
+            "publication": [
+                "CHI"
+            ]
+        },
+        "pdf": "papers/19_gamut_chi.pdf",
+        "abstract": "Without good models and the right tools to interpret them, data scientists risk making decisions based on hidden biases, spurious correlations, and false generalizations. This has led to a rallying cry for model interpretability. Yet the concept of interpretability remains nebulous, such that researchers and tool designers lack actionable guidelines for how to incorporate interpretability into models and accompanying tools.  Through an iterative design process with expert machine learning researchers and practitioners, we designed a visual analytics system, GAMut, to explore how interactive interfaces could better support model interpretation. Using GAMut as a probe, we investigated why and how professional data scientists interpret models, and how interface affordances can support data scientists in answering questions about model interpretability. Our investigation showed that interpretability is not a monolithic concept: data scientists have different reasons to interpret models and tailor explanations for specific audiences, often balancing competing concerns of simplicity and completeness. Participants also asked to use GAMut in their work, highlighting its potential to help data scientists understand their own data.  ",
+        "primary": "Visualization"
+    },
+    {
+        "caption": "AnchorViz2",
+        "img": "researchImages/anchorviz2.png",        
+        "bibEntry": "<div class=\"csl-entry\">Jina Suh Soroush Ghorashi Gonzalo Ramos Nan-Chen Chen Steven Drucker Johan Verwey Patrice Simard. (2019). AnchorViz: Facilitating Semantic Data Exploration and Concept Discovery for Interactive Machine Learning. <i>ACM Transactions on Interactive Intelligent Systems (TiiS) </i>. August 2019, Vol 10(1)</div>",
+        "tags": {
+            "collaborators": [
+                "Suh",
+                "Ghorash",
+                "Ramos",
+                "Chen",
+                "Verwey",
+                "Simard"
+            ],
+            "subject": [
+                "Information",
+                "Visualization",
+                "ML"
+            ],
+            "year": [
+                "2019"
+            ],
+            "publication": [
+                "TiiS"
+            ]
+        },
+        "pdf": "papers/Tiis-AnchorViz-Suh.pdf",
+        "abstract": "When building a classifier in interactive machine learning (iML), human knowledge about the target class can be a powerful reference to make the classifier robust to unseen items. The main challenge lies in finding unlabeled items that can either help discover or refine concepts for which the current classifier has no corresponding features (i.e., it has feature blindness). Yet it is unrealistic to ask humans to come up with an exhaustive list of items, especially for rare concepts that are hard to recall. This article presents AnchorViz, an interactive visualization that facilitates the discovery of prediction errors and previously unseen concepts through human-driven semantic data exploration. By creating example-based or dictionary-based anchors representing concepts, users create a topology that (a) spreads data based on their similarity to the concepts and (b) surfaces the prediction and label inconsistencies between data points that are semantically related. Once such inconsistencies and errors are discovered, users can encode the new information as labels or features and interact with the retrained classifier to validate their actions in an iterative loop. We evaluated AnchorViz through two user studies. Our results show that AnchorViz helps users discover more prediction errors than stratified random and uncertainty sampling methods. Furthermore, during the beginning stages of a training task, an iML tool with AnchorViz can help users build classifiers comparable to the ones built with the same tool with uncertainty sampling and keyword search, but with fewer labels and more generalizable features. We discuss exploration strategies observed during the two studies and how AnchorViz supports discovering, labeling, and refining of concepts through a sensemaking loop.",
+        "primary": "Visualization"
+    },
+    {
+        "caption": "TensorWatch",
+        "img": "researchImages/TensorWatch.PNG",        
+        "bibEntry": "<div class=\"csl-entry\">Shital Shah Roland Fernandez Steven Drucker. (2019). A system for real-time interactive analysis of deep learning training. <i>Engineering Interactive Computing Systems (EICS) </i>.</div>",        
+        "tags": {
+            "collaborators": [
+                "Shah",
+                "Fernandez"
+            ],
+            "subject": [
+                "Information",
+                "Visualization",
+                "ML"
+            ],
+            "year": [
+                "2019"
+            ],
+            "publication": [
+                "EICS"
+            ]
+        },
+        "pdf": "papers/a16-shah.pdf",
+        "abstract": "Performing diagnosis or exploratory analysis during the training of deep learning models is challenging but often necessary for making a sequence of decisions guided by the incremental observations. Currently available systems for this purpose are limited to monitoring only the logged data that must be specified before the training process starts. Each time a new information is desired, a cycle of stop-change-restart is required in the training process. These limitations make interactive exploration and diagnosis tasks difficult, imposing long tedious iterations during the model development. We present a new system that enables users to perform interactive queries on live processes generating real-time information that can be rendered in multiple formats on multiple surfaces in the form of several desired visualizations simultaneously. To achieve this, we model various exploratory inspection and diagnostic tasks for deep learning training processes as specifications for streams using a map-reduce paradigm with which many data scientists are already familiar. Our design achieves generality and extensibility by defining composable primitives which is a fundamentally different approach than is used by currently available systems",
+        "primary": "Visualization"
+    },
+    {
+        "caption": "Affinity Lens",
+        "img": "researchImages/affinitylens.PNG",
+        "bibEntry": "<div class=\"csl-entry\">Hariharan Subramonyam, Steven M. Drucker, and Eytan Adar. 2019. Affinity Lens: Data-Assisted Affinity Diagramming with Augmented Reality. In <i>Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19)</i>. ACM, New York, NY, USA, Paper 398, 13 pages. DOI: https://doi.org/10.1145/3290605.3300628</div>",
+        "tags": {
+            "collaborators": [
+                "Subramonyam",
+                "Adar"                
+            ],
+            "subject": [
+                "Information",
+                "UI"
+            ],
+            "year": [
+                "2019"
+            ],
+            "publication": [
+                "CHI"
+            ]
+        },
+        "pdf": "papers/AffinityLens_CHI_19-2.pdf",
+        "abstract": "Despite the availability of software to support Affinity Diagramming (AD), practitioners still largely favor physical sticky-notes. Physical notes are easy to set-up, can be moved around in space and offer flexibility when clustering unstructured data. However, when working with mixed data sources such as surveys, designers often trade off the physicality of notes for analytical power. We propose Affinity Lens, a mobile-based augmented reality (AR) application for Data-Assisted Affinity Diagramming (DAAD). Our application provides just-in-time quantitative insights overlaid on physical notes. Affinity Lens uses several different types of AR overlays (called lenses) to help users find specific notes, cluster information, and summarize insights from clusters. Through a formative study of AD users, we developed design principles for data-assisted AD and an initial collection of lenses. Based on our prototype, we find that Affinity Lens supports easy switching between qualitative and quantitative ‘views’ of data, without surrendering the lightweight benefits of existing AD practice.",
+        "primary": "UI-Information"
+    },
+    {
+        "caption": "Gather",
+        "img": "researchImages/Gather.PNG",
+        "bibEntry": "<div class=\"csl-entry\">Andrew Head, Fred Hohman, Titus Barik, Steven M. Drucker, and Robert DeLine. 2019. Managing Messes in Computational Notebooks. In <i>Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19)</i>. ACM, New York, NY, USA, Paper 270, 12 pages. DOI: https://doi.org/10.1145/3290605.3300500</div>",        
+        "tags": {
+            "collaborators": [
+                "Head",
+                "DeLine",
+                "Hohman"
+            ],
+            "subject": [
+                "Information",
+                "Data"
+            ],
+            "year": [
+                "2019"
+            ],
+            "publication": [
+                "CHI"
+            ]
+        },
+        "pdf": "papers/managingmesses.pdf",
+        "abstract": "Data analysts use computational notebooks to write code for analyzing and visualizing data. Notebooks help analysts iteratively write analysis code by letting them interleave code with output, and selectively execute cells. However, as analysis progresses, analysts leave behind old code and outputs, and overwrite important code, producing cluttered and inconsistent notebooks. This paper introduces code gathering tools, extensions to computational notebooks that help analysts find, clean, recover, and compare versions of code in cluttered, inconsistent notebooks. The tools archive all versions of code outputs, allowing analysts to review these versions and recover the subsets of code that produced them. These subsets can serve as succinct summaries of analysis activity or starting points for new analyses. In a qualitative usability study, 12 professional analysts found the tools useful for cleaning notebooks and writing analysis code, and discovered new ways to use them, like generating personal documentation and lightweight versioning.",
+        "primary": "UI-Information"
+    },
+    {
         "caption": "TeleGam",
         "img": "researchImages/telegam.png",
         "bibEntry": "",
@@ -2893,82 +3022,4 @@
         "abstract": "While machine learning (ML) continues to nd success in solving previously-thought hard problems, interpreting and exploring ML models remains challenging. Recent work has shown that visualizations are a powerful tool to aid debugging, analyzing, and interpreting ML models. However, depending on the complexity of the model (e.g., number of features), interpreting these visualizations can be difcult and may require additional expertise. Alternatively, textual descriptions, or verbalizations, can be a simple, yet effective way to communicate or summarize key aspects about a model, such as the overall trend in a model's predictions or comparisons between pairs of data instances. With the potential benets of visualizations and verbalizations in mind, we explore how the two can be combined to aid ML interpretability. Specically, we present a prototype system,TELEGAM , that demonstrates how visualizations and verbalizations can collectively support interactive exploration of ML models, for example, generalized additive models (GAMs). We describeTELEGAM 's interface and underlying heuristics to generate the verbalizations. We conclude by discussing how TELEGAM can serve as a platform to conduct future studies for understanding user expectations and designing novel interfaces for interpretable ML.",
         "primary": "Visualization"
     },
-    {
-        "caption": "AnchorViz2",
-        "img": "researchImages/anchorviz2.png",
-        "bibEntry": "",
-        "tags": {
-            "collaborators": [
-                "Suh",
-                "Ghorash",
-                "Ramos",
-                "Chen",
-                "Verwey",
-                "Simard"
-            ],
-            "subject": [
-                "Information",
-                "Visualization",
-                "ML"
-            ],
-            "year": [
-                "2019"
-            ],
-            "publication": [
-                "TiiS"
-            ]
-        },
-        "pdf": "papers/anchorviz2.pdf",
-        "abstract": "",
-        "primary": "Visualization"
-    },
-    {
-        "caption": "TensorWatch",
-        "img": "researchImages/tenshorwatch.png",
-        "bibEntry": "",
-        "tags": {
-            "collaborators": [
-                "Shah",
-                "Fernandez"
-            ],
-            "subject": [
-                "Information",
-                "Visualization",
-                "ML"
-            ],
-            "year": [
-                "2019"
-            ],
-            "publication": [
-                "EICS"
-            ]
-        },
-        "pdf": "papers/TensorWatch.pdf",
-        "abstract": "",
-        "primary": "Visualization"
-    },
-    {
-        "caption": "GatherTest",
-        "img": "researchImages/gather.png",
-        "bibEntry": "",
-        "tags": {
-            "collaborators": [
-                "Head",
-                "DeLine"
-            ],
-            "subject": [
-                "Information",
-                "Data"
-            ],
-            "year": [
-                "2019"
-            ],
-            "publication": [
-                "CHI"
-            ]
-        },
-        "pdf": "papers/Gather.pdf",
-        "abstract": "",
-        "primary": "Data"
-    }
 ]
