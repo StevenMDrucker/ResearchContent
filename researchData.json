@@ -3000,7 +3000,7 @@
     {
         "caption": "TeleGam",
         "img": "researchImages/Telegam.PNG",
-        "bibEntry": "",
+        "bibEntry": "<div class=\"csl-entry\">Fred Hohman, Arjun Srinivasan, and Steven M. Drucker. 2019. TeleGam: Combining Visualization and Verbalization for Interpretable Machine Learning. In <i>Proceedings of the IEEE Visualization Conference</i>.IEEE, Vancouver, BC, Canada, 2019.</div>",
         "tags": {
             "collaborators": [
                 "Hohman",
