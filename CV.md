@@ -35,7 +35,7 @@ _____
 
 ### Work Experience
 
-- November 2018 - Present: **Principal Researcher and Manager of the Visualization and Interactive Data Analysis (VIDA) group at Microsoft Research**
+- November 2018 - Present: **Partner and Research Manager of the Visualization and Interactive Data Analysis (VIDA) group at Microsoft Research**
     - Exploring the intersection of HCI and data. Exploring three primary areas: the creation of tools to facilitate communication of insights in data; understanding and troubleshooting of Machine Learning models using visualization techniques; and immersive analytics - exploration of new UI strategies including AR/VR and mixed initiative interaction in the domain of visual analytics.
 
 - October 2010 - November 2018: **Principal Researcher at Microsoft Research in Visualization and Interaction for Business and Entertainment (MSR VIBE)**
