@@ -215,13 +215,13 @@ ____
 ### Press
 
 - [Research Podcast-Visualizing Data and Other Big Ideas](https://www.microsoft.com/en-us/research/blog/visualizing-data-big-ideas-dr-steven-drucker/?ocid=msr_podcast_sdrucker_profile)
-- [SandDance, a web app](https://www.microsoft.com/en-us/garage/profiles/profile-sanddance.aspx)
+- [SandDance, a web app](https://www.microsoft.com/en-us/garage/profiles/sanddance/)
 - [Exploring Data Visually: Microsoft SandDance](https://www.schemadesign.com/work/microsoft-sanddance)
 - [Microsoft SandDance is a beautiful data visualization tool for chart geeks](http://thenextweb.com/apps/2016/03/23/microsoft-sanddance-beautiful-data-visualization-tool-chart-geeks/)
 - [SandDance, my first impression​s and test](http://community.powerbi.com/t5/Community-Blog/SandDance-my-first-impressions-and-test/ba-p/30479#.VxkeggQntpg.twitter)
 - [A blog on modern business intelligence technologies, tools and miscellaneous things](http://analyticswithankit.blogspot.com/2016/04/sanddance-in-power-bi.html)
 - [Microsoft&#39;s New Data-Viz Tool Puts Excel Charts To Shame](http://www.fastcodesign.com/3058185/microsofts-new-data-viz-tool-puts-excel-charts-to-shame)
-- [Discover stories within data using SandDance, a new Microsoft Research project](https://blogs.microsoft.com/firehose/2016/03/22/discover-stories-within-data-using-sanddance-a-new-microsoft-research-project/)
+- [Discover stories within data using SandDance, a new Microsoft Research project](https://phys.org/news/2016-03-stories-sanddance-microsoft.html)
 - [Visual Awesomeness Unlocked – SandDance](https://powerbi.microsoft.com/en-us/blog/visual-awesomeness-unlocked-sanddance/)
 - [Software Fail Watch 2016, Quarter One](http://www.tricentis.com/blog/2016/04/07/software-fail-watch-2016-quarter-one/)
 - [Microsoft SandDance lets you discover stories within data](http://www.techworm.net/2016/03/microsoft-sanddance-lets-discover-stories-within-data.html)
