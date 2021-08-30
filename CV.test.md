@@ -95,6 +95,12 @@ _____
 
 ## Bibliography
 
+1. Arjun Srinivasan, Nikhila Nyapathy, Bongshin Lee, **Steven M Drucker**, John Stasko, Collecting and Characterizing Natural Language Utterances for Specifying Data Visualizations, in _ACM Proceedings of the ACM Conference on Human Factors in Computer Systems_ May, 2021.
+1. Nathaniel Weinman, **Steven M Drucker**, Titus Barik, Robert DeLine, Fork it: Supporting Stateful Alternatives in Computational Notebooks, in  _ACM Proceedings of the ACM Conference on Human Factors in Computer Systems_ May, 2021.
+1. Xiaoying Pu, Matthew Kay, **Steven M Drucker**, Jeffrey Heer, Dominik Moritz, Arvind Satyanarayan, Special interest Group on Visualization Grammars, in _ACM Extended Abstracts Proceedings of the ACM Conference on Human Factors in Computer Systems_ May, 2021.
+1. Benjamin Lee, Dave Brown, Bongshin Lee, Christophe Hurter, **Steven Drucker**, Tim Dwyer, Data Visceralization: Enabling Deeper Understanding of Data Using Virtual Reality, in _IEEE Transactions on Visualization and Computer Graphics_ January, 2021
+1. Arjun Srinivasan, Bongshin Lee, Nathalie Henry Riche, **Steven M Drucker**, Ken Hinckley, InChorus: Designing Consitent Multimodal Interactions for Data Visualization on Tablet Devices, in _ACM Proceedings of the ACM Conference on Human Factors in Computer Systems_ April, 2020.
+1. Hugo Romat, Nathalie Henry Riche, Christophe Hurter, **Steven Drucker**, Fereshteh Amini, Ken Hinckley, Dear Pictograph: Investigating the Role of Personalization and Immersion for Consuming and Enjoying Visualizations, in  _ACM Proceedings of the ACM Conference on Human Factors in Computer Systems_ April, 2020.
 1. Fred Hohman, Arjun Srinivasan, **Steven M. Drucker**, TeleGam: Combining Visualization and Verbalization for Interpretable Machine Learning, in _IEEE Transactions on Visualization and Computer Graphics, 2019.
 1. Jina Suh, Soroush Ghorashi, Gonzalo Ramos, Nan-Chen Chen, **Steven Drucker**, Johan Verwey, Patrice Simard. 2019. AnchorViz: Facilitating Semantic Data Exploration and Concept Discovery for Interactive Machine Learning. In _ACM Transactions on Interactive Intelligent Systems (TiiS)_ August, 2019, Vol 10.
 1. Shital Shah, Roland Fernandeaz, **Steven Drucker**, A system for real-time interactive analysis of deep-learning training. 2019. In _Engineering Interactive Computing Systems_, June 2019.
