@@ -4,7 +4,8 @@
 | Microsoft Research [(MSR)](http://research.microsoft.com)  | web: [www.steven-drucker.com](http://steven-drucker.com/) |
 | Visualization and Data Analytics Group [(VIDA)](http://aka.ms/msr-vida)| office: 425-703-5850 |
 |  | videos: [Videos](https://www.youtube.com/channel/UCgh_BTNsTeI7MScu6e-9Yxw) |
-------
+
+_______
 
 Profile
 ---------
@@ -20,7 +21,6 @@ Steven is well known for the diversity of his original ideas, having published r
 He is also an active leader in the academic community having served in roles ranging from Papers Chairs for ACM SIGCHI 2021 & 2022, Paper Awards Chair for ACM SIGCHI 2016 & ACM SIGCHI 2017, Subcommittee Chair for ACM SIGCHI 2017 & 2018, Associate Chair for numerous ACM UIST conferences, IUI conferences, an ACM WWW Conference, and IEEE VIS Conferences, and Sponsorship Chair for VIS 2011, 2012 & 2013. 
 
 Steven received his Ph.D. from the Computer Graphics and Animation Group at the [MIT Media Lab](https://www.media.mit.edu/) in May 1994. His thesis research was on intelligent camera control interfaces for graphical environments. Dr. Drucker graduated Magna Cum Laude with Honors in Neurosciences from [Brown University](https://www.brown.edu/) where he also worked with the Brown Graphics Group and went on to complete his masters at the Artificial Intelligence Laboratory at [MIT](https://www.csail.mit.edu/) doing research in robot learning. 
-
 
 
 ______
