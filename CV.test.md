@@ -4,7 +4,7 @@
 | Microsoft Research [(MSR)](http://research.microsoft.com)  | web: [www.steven-drucker.com](http://steven-drucker.com/) |
 | Visualization and Data Analytics Group [(VIDA)](http://aka.ms/msr-vida)| office: 425-703-5850 |
 |  | videos: [Videos](https://www.youtube.com/channel/UCgh_BTNsTeI7MScu6e-9Yxw) |
---------------------    ------------------
+------
 
 Profile
 ---------
