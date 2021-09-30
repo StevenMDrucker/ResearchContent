@@ -150,7 +150,7 @@ Xiaoying Pu, Matthew Kay, **Steven M Drucker**, Jeffrey Heer, Dominik Moritz, Ar
 #### 2021
 Benjamin Lee, Dave Brown, Bongshin Lee, Christophe Hurter, **Steven Drucker**, Tim Dwyer, Data Visceralization: Enabling Deeper Understanding of Data Using Virtual Reality, in _IEEE Transactions on Visualization and Computer Graphics_ January, 2021
 #### 2020
-Arjun Srinivasan, Bongshin Lee, Nathalie Henry Riche, **Steven M Drucker**, Ken Hinckley, InChorus: Designing Consitent Multimodal Interactions for Data Visualization on Tablet Devices, in _ACM Proceedings of the ACM Conference on Human Factors in Computer Systems_ April, 2020.
+Arjun Srinivasan, Bongshin Lee, Nathalie Henry Riche, **Steven M Drucker**, Ken Hinckley, InChorus: Designing Consitent Multimodal Interactions for Data Visualization on Tablet Devices, in _ACM Proceedings of the ACM Conference on Human Factors in Computer Systems_ April, 2020. Best Paper Honorable Mention.
 
 #### 2020 
 Hugo Romat, Nathalie Henry Riche, Christophe Hurter, **Steven Drucker**, Fereshteh Amini, Ken Hinckley, Dear Pictograph: Investigating the Role of Personalization and Immersion for Consuming and Enjoying Visualizations, in  _ACM Proceedings of the ACM Conference on Human Factors in Computer Systems_ April, 2020.
