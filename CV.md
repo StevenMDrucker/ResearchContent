@@ -398,7 +398,7 @@ Nathaniel Weinman, University of California, Berkeley
 ##### 2019
 Katherine Ye,  Carnegie Mellon University
 ##### 2019
-Almahmoud, Jumana, MIT
+Jumana Almahmoud, MIT
 ##### 2019
 Benjamin Lee, Monah University,
 ##### 2018
