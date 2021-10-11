@@ -172,7 +172,7 @@ Fred Hohman, Andrew Head, Rich Caruana, Rob DeLine, **Steven Drucker**, Gamut: A
 Hariharan Subramonyam, **Steven Drucker**, Eytan Adar, Affinity Lens: Data-assisted Affinity Diagramming with Augmented Reality, In _Proceedings of the SIGCHI Conference on Human Factors in Computing Systems_, Glasgow UK, 2019. Best Paper.
 
 #### 2019
-Christophe Hurter, Nathalie Henry Riche, **Steven Drucker**, Maxime Cordell, Richard Alligier, Romain Vuillemot,  in _IEEE Transactions on Visualization and Computer Graphics_, January 2019, Vol 25(1).
+Christophe Hurter, Nathalie Henry Riche, **Steven Drucker**, Maxime Cordell, Richard Alligier, Romain Vuillemot, Sculpting Three Dimensional Trajectories to Reveal Structural Insights, in _IEEE Transactions on Visualization and Computer Graphics_, January 2019, Vol 25(1).
 #### 2018
 Arjun Srinivasan, Matthew Brehmer, Bongshin Lee, and **Steven Drucker**. What’s the Difference?: Evaluating Variants of Multi-Series Bar Charts for Visual Comparison Tasks, ACM Conference on Human Factors in Computing Systems (CHI), 2018.
 #### 2018
