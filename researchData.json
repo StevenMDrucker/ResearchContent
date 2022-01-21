@@ -21,7 +21,7 @@
                 "MastersThesis"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/tasklevel.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/tasklevel.pdf",
         "abstract": "We report on a preliminary investigation of task-level learning, an approach to learning from practice. We have a programmaed a robot to juggle a single ball in three dimensions by batting it upwards with a large paddle. The robot uses a real-time binary vision system to track the ball and measure its performance. Task-level learning consists of building a model of performance errors at the task level during practice, and using that model to refine task-level commands. A polynomial surface was fit to the errors in where the ball went after each hit, and this task model is used to refine how the ball is hit. This application of task-level learning dramatically increased the number of consecutive hits the robot could execute before the ball was hit out of range of the paddle.",
         "primary": "Robotics"
     },
@@ -50,7 +50,7 @@
                 "SIGGRAPH"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/photomontage.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/photomontage.pdf",
         "video": "http://grail.cs.washington.edu/projects/photomontage/video.avi",
         "abstract": "We describe an interactive, computer-assisted framework for combining parts of a set of photographs into a single composite picture, a process we call 'digital photomontage.' Our framework makes use of two techniques primarily: graph-cut optimization, to choose good seams within the constituent images so that they can be combined as seamlessly as possible; and gradient-domain fusion, a process based on Poisson equations, to further reduce any remaining visible artifacts in the composite. Also central to the framework is a suite of interactive tools that allow the user to specify a variety of high-level image objectives, either globally across the image, or locally through a painting-style interface. Image objectives are applied independently at each pixel location and generally involve a function of the pixel values (such as 'maximum contrast') drawn from that same location in the set of source images. Typically, a user applies a series of image objectives iteratively in order to create a finished composite. The power of this framework lies in its generality; we show how it can be used for a wide variety of applications, including 'selective composites' (for instance, group photos in which everyone looks their best), relighting, extended depth of field, panoramic stitching, clean-plate production, stroboscopic visualization of movement, and time-lapse mosaics.",
         "primary": "Photos"
@@ -104,7 +104,7 @@
                 "SIGCHI"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/pn2048-amershi-fixed.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/pn2048-amershi-fixed.pdf",
         "video": "http://research.microsoft.com/en-us/um/people/sdrucker/video/squeries_v1.0.mp4",
         "abstract": "Model building in machine learning is an iterative process. The performance analysis and debugging step typically involves a disruptive cognitive switch from model building to error analysis, discouraging an informed approach to model building. We present ModelTracker, an interactive visualization that subsumes information contained in numerous traditional summary statistics and graphs while displaying example-level performance and enabling direct error examination and debugging. Usage analysis from machine learning practitioners building real models with  ModelTracker over six months shows ModelTracker is used often and throughout model building. A controlled experiment focusing on ModelTracker???s debugging capabilities shows participants prefer ModelTracker over traditional tools without a loss in model performance.",
         "primary": "Machine Learning"
@@ -129,7 +129,7 @@
                 "Internal Report"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/vidido.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/vidido.pdf",
         "abstract": "Existing group decision support systems are too complex to support lightweight, informal decision making made popular by the amount of information available on the Web. From an examination of related work, an online survey and a formative study to examine how people currently use the Web for decision support, we present a set of design recommendations towards the development of an informal Web decision support tool.",
         "primary": "UI-Information"
     },
@@ -153,7 +153,7 @@
                 "ICSE"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/PID4092213.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/PID4092213.pdf",
         "abstract": "Large software organizations are transitioning to event data platforms as they culturally shift to better support datadriven decision making. This paper offers a case study at Microsoft during such a transition. Through qualitative interviews of 28 participants, and a quantitative survey of 1,823 respondents, we catalog a diverse set of activities that leverage event data sources, identify challenges in conducting these activities, and describe tensions that emerge in datadriven cultures as event data flow through these activities within the organization. We find that the use of event data span every job role in our interviews and survey, that different perspectives on event data create tensions between roles or teams, and that professionals report social and technical challenges across activities.",
         "primary": "UI-Information"
     },
@@ -181,7 +181,7 @@
                 "Sigmod"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/stat-sigmod2013-demo.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/stat-sigmod2013-demo.pdf",
         "video": "http://research.microsoft.com/en-us/people/sdrucker/ResearchContent/papers/",
         "abstract": "Exploratory analysis on big data requires us to rethink data management across the entire stack ??? from the underlying data processing techniques to the user experience. We demonstrate Stat! ??? a visualization and analytics environment that allows users to rapidly experiment with exploratory queries over big data. Data scientists can use Stat! to quickly refine to the correct query, while getting immediate feedback after processing a fraction of the data. Stat! can work with multiple processing engines in the backend; in this demo, we use Stat! with the Microsoft StreamInsight streaming engine. StreamInsight is used to generate incremental early results to queries and refine these results as more data is processed. Stat! allows data scientists to explore data, dynamically compose multiple queries to generate streams of partial results, and display partial results in both textual and visual form",
         "primary": "UI-Information"
@@ -207,7 +207,7 @@
                 "AAAI"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/iclustering-aaai-2010.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/iclustering-aaai-2010.pdf",
         "abstract": "Interactive clustering refers to situations in which a human labeler is willing to assist a learning algorithm in automatically clustering items. We present a related but somewhat different task, assisted clustering, in which a user creates explicit groups of items from a large set and wants suggestions on what items to add to each group. While the traditional approach to interactive clustering has been to use metric learning to induce a distance metric, our situation seems equally amenable to classification. Using clusterings of documents from human subjects, we found that one or the other method proved to be superior for a given cluster, but not uniformly so. We thus developed a hybrid mechanism for combining the metric learner and the classifier. We present results from a large number of trials based on human clusterings, in which we show that our combination scheme matches and often exceeds the performance of a method which exclusively uses either type of learner.",
         "primary": "Machine Learning"
     },
@@ -233,7 +233,7 @@
                 "AVI"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/design-vis.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/design-vis.pdf",
         "video": "http://research.microsoft.com/apps/pubs/default.aspx?id=208568",
         "abstract": "In recent years many popular data visualizations have emerged that are created largely by designers whose main area of expertise is not computer science. Designers generate these visualizations using a handful of design tools and environments. To better inform the development of tools intended for designers working with data, we set out to understand designers' challenges and perspectives. We interviewed professional designers, conducted observations of designers working with data in the lab, and observed designers working with data in team settings in the wild. A set of patterns emerged from these observations from which we extract a number of themes that provide a new perspective on design considerations for visualization tool creators, as well as on known engineering problems.",
         "primary": "Visualization"
@@ -260,7 +260,7 @@
                 "Infovis"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/hanpuku.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/hanpuku.pdf",
         "abstract": "A common work?ow for visualization designers begins with a generative tool, like D3 or Processing, to create the initial visualization;andproceedstoadrawingtool,likeAdobeIllustratororInkscape,foreditingandcleaning. Unfortunately,thisistypically a one-way process: once a visualization is exported from the generative tool into a drawing tool, it is dif?cult to make further, datadriven changes. In this paper, we propose a bridge model to allow designers to bring their work back from the drawing tool to re-edit in the generative tool. Our key insight is to recast this iteration challenge as a merge problem - similar to when two people are editing a document and changes between them need to reconciled. We also present a speci?c instantiation of this model, a tool called Hanpuku, which bridges between D3 scripts and Illustrator. We show several examples of visualizations that are iteratively created using Hanpuku in order to illustrate the ?exibility of the approach. We further describe several hypothetical tools that bridge between other visualization tools to emphasize the generality of the model.",
         "primary": "Visualization"
     },
@@ -338,7 +338,7 @@
                 "InternalReport"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/flatland.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/flatland.pdf",
         "abstract": "Computer intra- and internets are widely used for client-server application such as web browsers. With the exception of e-mail, however, the same networks are seldom used for distributed, client-client or client-server-client applications. Such applications are difficult to develop and debug, and require a supporting infrastructure that is not readily available from existing systems. Flatland is a rapid prototyping environment that provides the underlying infrastructure and makes it easy to create and debug distributed internet application prototypes. In addition to the infrastructure needed for a distributed application, Flatland includes safe implementations of the most common sources of distributed application bugs, asynchronous operation and updating. Flatland also supports streaming audio-video and down-level clients.",
         "primary": "Social"
     },
@@ -362,7 +362,7 @@
                 "SIGCHI"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/demowiz.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/demowiz.pdf",
         "abstract": "Showing a live software demonstration during a talk can be engaging, but it is often not easy: presenters may struggle with (or worry about) unexpected software crashes and  encounter issues such as mismatched screen resolutions or faulty network connectivity.  Furthermore, it can be difficult to recall the steps to show while talking and operating the  system all at the same time. An alternative is to present with pre-recorded screencast videos. It is, however, challenging to precisely match the narration to the video when using existing video players. We introduce DemoWiz, a video presentation system that provides an increased awareness of upcoming actions through glanceable visualizations. DemoWiz supports better control of timing by overlaying visual cues and enabling lightweight editing. A user study shows that our design significantly improves the presenters??? perceived ease of narration and timing compared to a system without visualizations that was similar to a standard playback control. Furthermore, nine (out of ten) participants preferred DemoWiz over the standard playback control with the last expressing no preference.",
         "primary": "Presentation"
     },
@@ -386,7 +386,7 @@
                 "InternalReport"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/tr-2000-81.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/tr-2000-81.pdf",
         "abstract": "As we begin to create synthetic characters (avatars) for computer users, it is important to pay attention to both the look and the behavior of the avatar's eyes. In this paper we present behavior models of eye gaze patterns in the context of real-time verbal communication. We apply these eye gaze models to simulate eye movements in a computer-generated avatar in a number of task settings. We also report the results of an experiment that we conducted to assess whether our eye gaze model induces changes in the eye gaze behavior of an individual who is conversing with an avatar.",
         "primary": "Graphics"
     },
@@ -412,7 +412,7 @@
                 "InternalReport"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/tr-2001-95.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/tr-2001-95.pdf",
         "abstract": "We present two very low bandwidth graphically enhanced interfaces for small group voice communications. One interface presents static images of the participants that highlight when one is speaking. The other interface utilizes three-dimensional avatars that can be quickly created. Eleven groups of 4 or 5 people were presented with each enhanced interface as well as conducting a live conversation and a voice only conversation. Experiments show that both graphically enhanced interfaces improve the understandability of conversations, particular with respect to impressions that others in the group could express themselves more easily, knowing who is talking, and when to speak. Little difference was found between the two graphical interfaces. Analysis of voice tracks also revealed differences between interfaces in the length and number of medium duration silences.",
         "primary": "Social"
     },
@@ -439,7 +439,7 @@
                 "VLL/HCC"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/vlhcc06-final.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/vlhcc06-final.pdf",
         "abstract": "Modern development environments provide many features for navigating source code, yet recent studies show the developers still spend a tremendous amount of time just navigating. Since existing navigation features rely heavily on memorizing symbol names, we present a new design, called Code Thumbnails, intended to allow a developer to navigate source code by forming a spa-tial memory of it. To aid intra-file navigation, we add a thumbnail image of the file to the scrollbar, which makes any part of the file one click away. To aid inter-file navigation, we provide a desktop of file thumbnail images, which make any part of any file one click away. We did a formative evaluation of the design with eleven experienced developers and present the results.",
         "primary": "Visualization"
     },
@@ -464,7 +464,7 @@
                 "DUX"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/v4v.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/v4v.pdf",
         "video": "http://research.microsoft.com/~sdrucker/Video/v4v.avi",
         "abstract": "We present a View for the Viewer (v4v), a slide viewer that focuses on the needs of the viewer of a presentation instead of the presenter. Our design centers on representing the deck of slides as a stack embedded in a 3-D world. With only single button clicks, the viewer can quickly and easily navigate the deck of slides. We provide four types of annotation techniques and have designed a synchronization mechanism that makes it easy for the viewer to move in and out of sync with the presenter. We also supply alarms as a method for viewer notification. We evaluate our approach with a preliminary user study resulting in positive feedback about our design plus suggestions for improvements and extensions.",
         "primary": "Presentation"
@@ -491,7 +491,7 @@
                 "UIST"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/DontchevaUist07.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/DontchevaUist07.pdf",
         "video": "http://research.microsoft.com/~sdrucker/Video/DontchevaUist07.mov",
         "abstract": "in collecting and organizing Web content. First, we demonstrate an interface for creating associations between websites, which facilitate the automatic retrieval of related content. Second, we present an authoring interface that allows users to quickly merge content from many different websites into a uniform and personalized representation, which we call a card. Finally, we introduce a novel search paradigm that leverages the relationships in a card to direct search queries to extract relevant content from multipleWeb sources and fill a new series of cards instead of just returning a list of webpage URLs. Preliminary feedback from users is positive and validates our design",
         "primary": "UI-Information"
@@ -543,7 +543,7 @@
                 "UIST"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/uistPaperSummarizing.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/uistPaperSummarizing.pdf",
         "video": "http://research.microsoft.com/~sdrucker/Video/uistSummariesfinalCut.mov",
         "abstract": "We describe a system, implemented as a browser extension, that enables users to quickly and easily collect, view, and share personal Web content. Our system employs a novel interaction model, which allows a user to specify webpage extraction patterns by interactively selecting webpage elements and applying these patterns to automatically collect similar content. Further, we present a technique for creating visual summaries of the collected information by combining user labeling with predefined layout templates. These summaries are interactive in nature: depending on the behaviors encoded in their templates, they may respond to mouse events, in addition to providing a visual summary. Finally, the summaries can be saved or sent to others to continue the research at another place or time. Informal evaluation shows that our approach works well for popular websites, and that users can quickly learn this interaction model for collecting content from the Web.",
         "primary": "UI-Information"
@@ -622,7 +622,7 @@
                 "InternalReport"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/spectator.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/spectator.pdf",
         "video": "http://research.microsoft.com/~sdrucker/Video/spectator.asf",
         "abstract": "Networked multiplayer games are becoming tremendously popular. At any given moment on the Microsoft Game Zone (http://zone.msn.com), there are thousands of people playing Asheron's Call or Age of Empires. Traditional board and card games are also increasingly being played online and will continue to gain in popularity. While networked games are certainly fun for active players, there is potentially a much larger audience: spectators. In most traditional games, such as football, the number of spectators far exceeds the number of players. The key idea presented in this paper is to tap this potential by making online games engaging and entertaining to non-players watching these games. <br> The experience for spectators can be made much richer by employing techniques often used in sports broadcasting, such as a commentator providing analysis and background stories, slow motion and instance replay. For 3D games, cinematic camera movements and shot cuts be much more visually interesting than the first-person views often provided to the players. There is the potential to significantly increase the 'eyeballs' on sites such as Microsoft Game Zone. Spectators can be more easily targeted for advertising. Finally, supporting the spectator experience will help drive sales of the games themselves as casual viewers take the next step to become players. Watching others play networked games has the potential to become a vital component to an overall entertainment/media strategy. The authors of this document have already developed significant technologies needed to support the online game spectator. We propose that new resources be devoted now to carry these technologies into practice.",
         "primary": "Camera"
@@ -649,7 +649,7 @@
                 "InternalReport"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/phototriage.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/phototriage.pdf",
         "abstract": "The Photo-triage application is meant to be an essential part of the digital photography lifestyle. It can fit as a component wherever photo management is done (shell, picture-it, media-center, etc.). The central idea is to facilitate rapid, convenient categorization of one's personal photos into at least the following categories: hidden/private, majority, highlights, best and/or representative. See figure 1. This application is meant to fill an empty niche in the usage of digital photos: that is, there's no easy way add metadata to photos to mark them for printing, for sharing, or for slideshows without creating separate versions of the photos and copying into separate folders. We propose a sorting metaphor that will add implicit metadata when one first goes through the photos.",
         "primary": "Photos"
     },
@@ -694,7 +694,7 @@
                 "InternalReport"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/moving.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/moving.pdf",
         "abstract": "This paper provides a brief description of the work we have done on the V-Worlds project, a system that facilitates the creation of multi-user applications and environments. We have taken concepts originally found in object oriented Multi-User Dungeons (MOOs) and extended them to deal with more general multi-user and in particular multi-media applications. We present reasons behind the architectural decisions of the platform and show that it has been used successfully for a wide range of examples.",
         "primary": "Social"
     },
@@ -723,7 +723,7 @@
                 "InternalReport"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/spectator.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/spectator.pdf",
         "video": "http://research.microsoft.com/~sdrucker/Video/spectator3.wmv",
         "abstract": "Networked multiplayer games are becoming tremendously popular. At any given moment on the Microsoft Game Zone (http://zone.msn.com), there are thousands of people playing Asheron's Call or Age of Empires. Traditional board and card games are also increasingly being played online and will continue to gain in popularity. While networked games are certainly fun for active players, there is potentially a much larger audience: spectators. In most traditional games, such as football, the number of spectators far exceeds the number of players. The key idea presented in this paper is to tap this potential by making online games engaging and entertaining to non-players watching these games. <br> The experience for spectators can be made much richer by employing techniques often used in sports broadcasting, such as a commentator providing analysis and background stories, slow motion and instance replay. For 3D games, cinematic camera movements and shot cuts be much more visually interesting than the first-person views often provided to the players. There is the potential to significantly increase the 'eyeballs' on sites such as Microsoft Game Zone. Spectators can be more easily targeted for advertising. Finally, supporting the spectator experience will help drive sales of the games themselves as casual viewers take the next step to become players. Watching others play networked games has the potential to become a vital component to an overall entertainment/media strategy. The authors of this document have already developed significant technologies needed to support the online game spectator. We propose that new resources be devoted now to carry these technologies into practice.",
         "primary": "Camera"
@@ -749,7 +749,7 @@
                 "Interact"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/icluster_nonanonymous_sdrucker_cameraready.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/icluster_nonanonymous_sdrucker_cameraready.pdf",
         "video": "http://www.youtube.com/watch?feature=player_embedded&v=3BmO3TILucQ",
         "abstract": "Sorting and clustering large numbers of documents can be an overwhelming task: manual solutions tend to be slow, while machine learning systems often present results that don???t align well with users' intents. We created and evaluated a system for helping users sort large numbers of documents into clusters. iCluster has the capability to recommend new items for existing clusters and appropriate clusters for items. The recommendations are based on a learning model that adapts over time ??? as the user adds more items to a cluster, the system???s model improves and the recommendations become more relevant. Thirty-two subjects used iCluster to sort hundreds of data items both with and without recommendations; we found that recommendations allow users to sort items more rapidly. A pool of 161 raters then assessed the quality of the resulting clusters, finding that clusters generated with recommendations were of statistically indistinguishable quality. Both the manual and assisted methods were substantially better than a fully automatic method.",
         "primary": "Visualization"
@@ -778,7 +778,7 @@
                 "SIGCHI"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/touchvis-CHI2013-cameraready.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/touchvis-CHI2013-cameraready.pdf",
         "video": "http://research.microsoft.com/en-us/um/people/sdrucker/video/panodata.mp4.mp4",
         "abstract": "As more applications move from the desktop to touch devices like tablets, designers must wrestle with the costs of porting a design with as little revision of the UI as possible from one device to the other, or of optimizing the interaction per device. We consider the tradeoffs between two versions of a UI for working with data on a touch tablet. One interface is based on using the conventional desktop metaphor (WIMP) with a control panel, push buttons, and checkboxes where the mouse click is effectively replaced by a finger tap. The other interface (which we call FLUID) eliminates the control panel and focuses touch actions on the data visualization itself. We describe our design process and evaluation of each interface. We discuss the significantly better task performance and preference for the FLUID interface, in particular how touch design may challenge certain assumptions about the performance benefits of WIMP interfaces that do not hold on touch devices, such as the superiority of gestural vs. control panel based interaction.",
         "primary": "Visualization"
@@ -805,7 +805,7 @@
                 "Thesis"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/SIG92symp.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/SIG92symp.pdf",
         "abstract": "This paper presents a general system for camera movement upon which a wide variety of higher-level methods and applications can be built. In addition to the basic commands for camera placement, a key attribute of the CINEMA system is the ability to inquire information directly about the 3D world through which the camera is moving. With this information high-level procedures can be written that closely correspond to more natural camera specifications. Examples of some high-level procedures are presented. In addition, methods for overcoming deficiencies of this procedural approach are proposed.",
         "primary": "Camera"
     },
@@ -831,7 +831,7 @@
                 "SIGCHI"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/smartskipfinal.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/smartskipfinal.pdf",
         "video": "http://research.microsoft.com/~sdrucker/Video/smartskip2.wmv",
         "abstract": "In this paper, we describe an interface for browsing and skipping digital video content in a consumer setting; that is, sitting and watching television from a couch using a standard remote control. We compare this interface with two other interfaces that are in common use today and found that subjective satisfaction was statistically better with the new interface. Performance metrics however, like time to task completion and number of clicks were worse.",
         "primary": "Media"
@@ -858,7 +858,7 @@
                 "UIST"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/fp214-DruckerFinalSmall.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/fp214-DruckerFinalSmall.pdf",
         "video": "http://research.microsoft.com/~sdrucker/Video/pptviznew.wmv",
         "abstract": "Despite the ubiquity of slide presentations, managing multiple presentations remains a challenge. Understanding how multiple versions of a presentation are related to one another, assembling new presentations from existing presentations, and collaborating to create and edit presentations are difficult tasks. <br>  In this paper, we explore techniques for comparing and managing multiple slide presentations. We propose a general comparison framework for computing similarities and differences between slides. Based on this framework we develop an interactive tool for visually comparing multiple presentations. The interactive visualization facilitates understanding how presentations have evolved over time. We show how the interactive tool can be used to assemble new presentations from a collection of older ones and to merge changes from multiple presentation authors.",
         "primary": "Visualization"
@@ -886,7 +886,7 @@
                 "DUX"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/vdmfinal.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/vdmfinal.pdf",
         "video": "http://research.microsoft.com/~sdrucker/Video/vdm.wmv",
         "abstract": "We present the Visual Decision Maker (VDM), an application that gives movie recommendations to groups of people sitting together. The VDM provides a TV like user experience: a stream of movie stills flows towards the center of the screen, and users press buttons on remote controls to vote on the currently selected movie. A collaborative filtering engine provides recommendations for each user and for the group as a whole based on the votes. Three principles guided our design of the VDM: shared focus, dynamic pacing, and encouraging conversations. In this paper we present the results of a four month public installation and a lab study showing how these design choices affected people's usage and people's experience of the VDM. Our results show that shared focus is important for users to feel that the group's tastes are represented in the recommendations.",
         "primary": "Media"
@@ -910,7 +910,7 @@
                 "PhotorealisticWorkshop"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/eurorendworkshop.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/eurorendworkshop.pdf",
         "abstract": "We present a data parallel algorithm for radiosity. The algorithm was designed to take advantage of large numbers of processors. It has been implemented on the Connection Machine CM2 system and scales linearly in the number of available processors over a wide range. All parts of the algorithm | form-factor computation, visibility determination, adaptive subdivision, and linear algebra solution | execute in parallel with a completely distributed database. Load balancing is achieved through processor allocation and dynamic data structures which reconfigure appropriately to match the granularity of the required calculations.",
         "primary": "Graphics"
     },
@@ -934,7 +934,7 @@
                 "InternalReport"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/tokentv.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/tokentv.pdf",
         "abstract": "TV Tokens (GUID for a specific broadcast program or movie) can be embedded in any website, EPG or email, downloaded and shared between friends to send to respective PVR's to schedule recording of show. TokenTV service (dot.NET TV) converts GUID to resolve to local schedule information needed to program the PVR. Any content based website (i.e.: IBDB.com, PBS.org, AFI.org) could have tokens to download to PVR for recording specific content.",
         "primary": "Media"
     },
@@ -1085,7 +1085,7 @@
                 "AVI"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/mediaframeAVIlong.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/mediaframeAVIlong.pdf",
         "video": "http://research.microsoft.com/~sdrucker/Video/LH%20MediaFrame%20Final.wmv",
         "abstract": "Applying personal keywords to images and video clips makes it possible to organize and retrieve them, as well as automatically create thematically related slideshows. MediaBrowser is a system designed to help users create annotations by uniting a careful choice of interface elements, an elegant and pleasing design, smooth motion and animation, and a few simple tools that are predictable and consistent. The result is a friendly, useable tool for turning shoeboxes of old photos into labeled collections that can be easily browsed, shared, and enjoyed.",
         "primary": "UI-Information"
@@ -1111,7 +1111,7 @@
                 "Thesis"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/GImuseum_wfigs.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/GImuseum_wfigs.pdf",
         "abstract": "This paper describes a framework for exploring intelligent camera controls in a 3D virtual environment. It presents a methodology for designing the underlying camera controls based on an analysis of what tasks are to be required in a specific environment. Once an underlying camera framework is built, a variety of interfaces can be connected to the framework. A virtual museum is used as a prototypical virtual environment for this work. This paper identifies some of the tasks that need to be performed in a virtual museum; presents a paradigm for encapsulating those tasks into camera modules; and describes in detail the underlying mechanisms that make up the camera module for navigating through the environment.",
         "primary": "Camera"
     },
@@ -1137,7 +1137,7 @@
                 "InternalReport"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/sanddance.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/sanddance.pdf",
         "video": "http://research.microsoft.com/~sdrucker/video/TouchViz2.mp4",
         "abstract": "SandDance is a browser based information visualization system prototype created at Microsoft Research that scales to hundreds of thousands of items. Arbitrary datatables can be loaded and results can be filtered using facets and search and displayed in a variety of layouts. Transitions between the views are animated so that users can better maintain context. Multiple linked views allow for associations between the same items in each view. Multiple devices can simultaneusly interact with each other on the same dataset.  Using principles of information visualization, users can map any attribute into the position, color, size, opacity and layout of a dataset to help reveal patterns within the data. SandDance lets you see both the individual records, and their overall structure.  SandDance focusses on natural user interaction techniques. Touch interaction is a first class citizen, allowing the entire experience to be easily operated through a touch screen. The system also understand speech commands for searching, selecting, focusing and filtering the data. A kinect system can be used to sense gestures for moving between views of the data. Collaboration is supported by allowing multiple sets of people to interact with the same dataset. Selections and filters in one system are automatically replicated to other systems viewing the data.",
         "primary": "Visualization"
@@ -1190,7 +1190,7 @@
                 "Thesis"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/SIG95symp.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/SIG95symp.pdf",
         "abstract": "In this paper, a method of encapsulating camera tasks into well defined units called camera modules is described. Through this encapsulation, camera modules can be programmed and sequenced, and thus can be used as the underlying framework for controlling the virtual camera in widely disparate types of graphical environments. Two examples of the camera framework are shown: an agent which can film a conversation between two virtual actors and a visual programming language for filming a virtual football game.",
         "primary": "Camera"
     },
@@ -1214,7 +1214,7 @@
                 "Thesis"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/thesiswbmakrs.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/thesiswbmakrs.pdf",
         "abstract": "Too often in the field of computer graphics, practitioners have been more concerned with the question of how to move a camera rather than why to move it. This thesis addresses the core question of why the camera is being placed and moved and uses answers to that question to provide a more convenient, more intelligent method for controlling virtual cameras in computer graphics. After discussing the general sorts of activities to be performed in graphical environments, this thesis then contains a derivation of some camera primitives that are required, and examines how they can be incorporated into different interfaces. A single, consistent, underlying framework for camera control across many different domains has been posited and formulated in terms of constrained optimization. Examples from different application domains demonstrate a variety of interface styles that have all been implemented on top of the underlying framework. Evaluations for each application are also given.",
         "primary": "Camera"
     },
@@ -1239,7 +1239,7 @@
                 "Camera"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/thesiswbmakrs.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/thesiswbmakrs.pdf",
         "abstract": "Too often in the field of computer graphics, practitioners have been more concerned with the question of how to move a camera rather than why to move it. This thesis addresses the core question of why the camera is being placed and moved and uses answers to that question to provide a more convenient, more intelligent method for controlling virtual cameras in computer graphics. After discussing the general sorts of activities to be performed in graphical environments, this thesis then contains a derivation of some camera primitives that are required, and examines how they can be incorporated into different interfaces. A single, consistent, underlying framework for camera control across many different domains has been posited and formulated in terms of constrained optimization. Examples from different application domains demonstrate a variety of interface styles that have all been implemented on top of the underlying framework. Evaluations for each application are also given.",
         "primary": "Camera"
     },
@@ -1268,7 +1268,7 @@
                 "TOCHI"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/a16-edge.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/a16-edge.pdf",
         "abstract": "The Slide and Canvas metaphors are two ways of helping people create visual aids for oral presentations. Although such physical metaphors help both authors and audiences make sense of material, they also constrain authoring in ways that can negatively impact presentation delivery. In this article, we derive heuristics for the design of presentation media that are independent of any underlying physical metaphors. We use these heuristics to craft a new kind of presentation medium called SlideSpace?one that combines hierarchical outlines, content collections, and design rules to automate the real-time, outline-driven synthesis of hybrid Slide-Canvas visuals. Through a qualitative study of SlideSpace use, we validate our heuristics and demonstrate that such a hybrid presentation medium can combine the advantages of existing systems while mitigating their drawbacks. Overall, we show how a heuristic design approach helped us challenge entrenched physical metaphors to create a fundamentally digital presentation medium with the potential to transform the activities of authoring, delivering, and viewing presentations.",
         "primary": "Presentation"
     },
@@ -1317,7 +1317,7 @@
                 "Interactions"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/inteactions_big_data.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/inteactions_big_data.pdf",
         "video": "http://research.microsoft.com/apps/pubs/default.aspx?id=217732",
         "abstract": "Increasingly in the 21st century,  our daily lives leave behind a  detailed digital record: our shifting  thoughts and opinions shared on  Twitter, our social relationships, our purchasing habits, our information seeking, our photos and videos - even the movements of our bodies and cars",
         "primary": "Visualization"
@@ -1344,7 +1344,7 @@
                 "Infovis"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/EVENT_2016_paper_17.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/EVENT_2016_paper_17.pdf",
         "abstract": "Event processing, analysis, and visualization are increasingly important, and common, problems as telemetry and log recording become ubiquitous. We are still learning about the space of ways to both query and see the results of sequential queries against event-logged data. In this paper, we discuss our Logan event exploration prototype, which is based on regular-expression queries and result histograms; we then discuss the many factors that vary between tools, domains, and datasets ? tradeoffs of factors such as session size, cardinality of events, and the presence of event arguments.",
         "primary": "Visualization"
     },
@@ -1368,7 +1368,7 @@
                 "CGA"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/mcg2014050022.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/mcg2014050022.pdf",
         "abstract": "Businesses are increasingly monitoring and tracking data about what it takes to keep themselves running. They collect and maintain increasingly available data, such as ? transaction and sales data stored in data warehouses, ? server log files tracking visitors, ? data from sensors tracking delays on factory floors, ? IT data logs, and ? data on their competitors and industrial sectors. Data-driven decision making?orienting business decisions around data?drives major IT initiatives across all business sectors",
         "primary": "UI-Information"
     },
@@ -1395,7 +1395,7 @@
                 "InternalReport"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/VisAVis.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/VisAVis.pdf",
         "video": "",
         "abstract": "Finding ways for information workers to easily create and modify visualizations that display their own data has been a long time goal within the visualization community. We describe Vis-a-vis, a declarative language for defining and extending visualizations directly within spreadsheets. Vis-a-vis allows users to directly bind data and formula to the visual attributes of an extensible set of visualization primitives. The visualizations that Vis-a-vis creates can be shared and modified easily, allowing users to modify existing visualizations. This approach allows users to select visualizations from a gallery, to customize them easily, or to create novel visualizations. The approach leverages familiar formulas and data from spreadsheets. We prototype a system that uses this language, and use it to build a number of standard and custom visualizations, and gather formative feedback from a small user study.",
         "primary": "Visualization"
@@ -1421,7 +1421,7 @@
                 "Infovis"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/webcharts.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/webcharts.pdf",
         "video": "",
         "abstract": "In order to use new visualizations, most toolkits require application developers to rebuild their applications and distribute new versions to users. The WebCharts Framework take a different approach by hosting Javascript from within an application and providing a standard data and events interchange.. In this way, applications can be extended dynamically, with a wide variety of visualizations. We discuss the benefits of this architectural approach, contrast it to existing techniques, and give a variety of examples and extensions of the basic system.",
         "primary": "Visualization"
@@ -1445,7 +1445,7 @@
                 "CGA"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/Exploratory_CGA.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/Exploratory_CGA.pdf",
         "video": "",
         "abstract": "Large datasets can mean slow queries, for which users must wait. Incremental visualization systems can give faster results at a cost of accuracy. This article asked analysts to use one and report on their results. Their feedback provides suggestions for alternative visualizations to represent a query still in progress.",
         "primary": "Visualization"
@@ -1473,7 +1473,7 @@
                 "SIGCHI"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/chi2012_interactive.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/chi2012_interactive.pdf",
         "video": "",
         "abstract": "Queries over large scale (petabyte) data bases often mean waiting overnight for a result to come back. Scale costs  time. Such time also means that potential avenues of  exploration are ignored because the costs are perceived to  be too high to run or even propose them. With  sampleAction we have explored whether interaction  techniques to present query results running over only  incremental samples can be presented as sufficiently  trustworthy for analysts both to make closer to real time  decisions about their queries and to be more exploratory in  their questions of the data. Our work with three teams of  analysts suggests that we can indeed accelerate and open up  the query process with such incremental visualizations.",
         "primary": "Visualization"
@@ -1573,7 +1573,7 @@
                 "SIGGRAPHAsia"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/userstudy07.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/userstudy07.pdf",
         "abstract": "We present a data-driven method to predict the performance of an image completion method. Our image completion method is based on the state-of-the-art non-parametric framework of Wexler et al. [2007]. It uses automatically derived search space constraints for patch source regions, which lead to improved texture synthesis and semantically more plausible results. These constraints also facilitate performance prediction by allowing us to correlate output quality against features of possible regions used for synthesis. We use our algorithm to first crop and then complete stitched panoramas. Our predictive ability is used to find an optimal crop shape before the completion is computed, potentially saving significant amounts of computation. Our optimized crop includes as much of the original panorama as possible while avoiding regions that can be less successfully filled in. Our predictor can also be applied for hole filling in the interior of images. In addition to extensive comparative results, we ran several user studies validating our predictive feature, good relative quality of our results against those of other state-of-the-art algorithms, and our automatic cropping algorithm.",
         "primary": "Graphics"
     },
@@ -1596,7 +1596,7 @@
                 "CVPR"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/CVPR07a.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/CVPR07a.pdf",
         "abstract": "We propose a method for face recognition based on a discriminative linear projection. In this formulation images are treated as tensors, rather than the more conventional vector of pixels. Projections are pursued sequentially and take the form of a rank one tensor, i.e., a tensor which is the outer product of a set of vectors. A novel and effective technique is proposed to ensure that the rank one tensor projections are orthogonal to one another. These constraints on the tensor projections provide a strong inductive bias and result in better generalization on small training sets. Our work is related to spectrum methods, which achieve orthogonal rank one projections by pursuing consecutive projections in the complement space of previous projections. Although this may be meaningful for applications such as reconstruction, it is less meaningful for pursuing discriminant projections. Our new scheme iteratively solves an eigenvalue problem with orthogonality constraints on one dimension, and solves unconstrained eigenvalue problems on the other dimensions. Experiments demonstrate that on small and medium sized face recognition datasets, this approach outperforms previous embedding methods. On large face datasets this approach achieves results comparable with the best, often using fewer discriminant projections.",
         "primary": "Machine Learning"
     },
@@ -1624,7 +1624,7 @@
                 "Infovis"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/narrative.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/narrative.pdf",
         "video": "http://research.microsoft.com/apps/video/default.aspx?id=188294",
         "abstract": "Conveying a narrative with visualizations often requires choosing an order in which to present visualizations. While evidence exists that narrative sequencing in traditional stories can affect comprehension and memory, little is known about how sequencing choices affect narrative visualization. We consider the forms and reactions to sequencing in narrative visualization presentations to provide a deeper understanding with a focus on linear, slideshow-style presentations. We conduct a qualitative analysis of 42 professional narrative visualizations to gain empirical knowledge on the forms that structure and sequence take. Based on the results of this study we propose a graph-driven approach for automatically identifying effective sequences in a set of visualizations to be presented linearly. Our approach identifies possible transitions in a visualization set and prioritizes local (visualization-to-visualization) transitions based on an objective function that minimizes the cost of transitions from the audience perspective. We conduct two studies to validate this function. We also expand the approach with additional knowledge of user preferences for different types of local transitions and the effects of global sequencing strategies on memory, preference, and comprehension. Our results include a relative ranking of types of visualization transitions by the audience perspective and support or memory and subjective rating benefits of visualization sequences that use parallelism as a structural device. We discuss how these insights can guide the design of narrative visualization and systems that support optimization of visualization sequence.",
         "primary": "Visualization"
@@ -1651,7 +1651,7 @@
                 "SIGCHI"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/CHI2005%20-%20Time%20Quilt%20short.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/CHI2005%20-%20Time%20Quilt%20short.pdf",
         "video": "http://research.microsoft.com/~sdrucker/video/timequilt.wmv",
         "abstract": "In the absence of manual organization of large digital photo collections, the photos' visual content and creation dates can help support time-based visual search tasks. Current zoomable photo browsers are designed to support visual searches by maximizing screenspace usage. However, their space-filling layouts fail to convey temporal order effectively. We propose a novel layout called time quilt that trades off screenspace usage for better presentation of temporal order. In an experimental comparison of space-filling, linear timeline, and time quilt layouts, participants carried out the task of finding photos in their personal photo collections averaging 4,000 items. They performed 45% faster on time quilt. Furthermore, while current zoomable photo browsers are designed for visual searches, this support does not scale to thousands of photos: individual thumbnails become less informative as they grow smaller. We found a subjective preference for the use of representative photos to provide an overview for visual searches in place of the diminishing thumbnails.",
         "primary": "Photos"
@@ -1701,7 +1701,7 @@
                 "SIGCHI"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/chidilemmas.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/chidilemmas.pdf",
         "abstract": "One of the most robust findings in the sociological literature is the positive effect of communication on cooperation and trust.  When individuals are able to communicate, cooperation increases significantly.  How does the choice of communication modality influence this effect?  We adapt the social dilemma research paradigm to quantitatively analyze different modes of communication. Using this method, we compare four forms of communication: no communication, text-chat, text-to-speech, and voice.  We found statistically significant differences between the various forms of communication, with the voice condition resulting in the highest levels of cooperation.  Our results highlight the importance of striving towards the use of more advanced forms of communication in online environments, especially where trust and cooperation are essential.  In addition, our research demonstrates the applicability of the social dilemma paradigm in testing the extent to which communication modalities promote the development of trust and cooperation.",
         "primary": "Social"
     },
@@ -1730,7 +1730,7 @@
                 "UIST"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/paper_uist_final.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/paper_uist_final.pdf",
         "abstract": "We explore creating cliplets, a form of visual media that juxtaposes still image and video segments, both spatially and temporally, to expressively abstract a moment. Much as in cinemagraphs, the tension between static and dynamic elements in a cliplet reinforces both aspects, strongly focusing the viewer's attention. Creating this type of imagery is challenging without professional tools and training. We develop a set of idioms, essentially spatiotemporal mappings, that characterize cliplet elements, and use these idioms in an interactive system to quickly compose a cliplet from ordinary handheld video. One difficulty is to avoid artifacts in the cliplet composition without resorting to extensive manual input. We address this with automatic alignment, looping optimization and feathering, simultaneous matting and compositing, and Laplacian blending. A key user-interface challenge is to provide affordances to define the parameters of the mappings from input time to output time while maintaining a focus on the cliplet being created. We demonstrate the creation of a variety of cliplet types. We also report on informal feedback as well as a more structured survey of users.",
         "primary": "Photos"
     },
@@ -1805,7 +1805,7 @@
                 "SIGGRAPHAsia"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/completion.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/completion.pdf",
         "video": "http://research.microsoft.com/apps/video/default.aspx?id=173013",
         "abstract": "We present a data-driven method to predict the performance of an image completion method. Our image completion method is based on the state-of-the-art non-parametric framework of Wexler et al. [2007]. It uses automatically derived search space constraints for patch source regions, which lead to improved texture synthesis and semantically more plausible results. These constraints also facilitate performance prediction by allowing us to correlate output quality against features of possible regions used for synthesis. We use our algorithm to first crop and then complete stitched panoramas. Our predictive ability is used to find an optimal crop shape before the completion is computed, potentially saving significant amounts of computation. Our optimized crop includes as much of the original panorama as possible while avoiding regions that can be less successfully filled in. Our predictor can also be applied for hole filling in the interior of images. In addition to extensive comparative results, we ran several user studies validating our predictive feature, good relative quality of our results against those of other state-of-the-art algorithms, and our automatic cropping algorithm.",
         "primary": "Photos"
@@ -1834,7 +1834,7 @@
                 "TKDE"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/leadlag.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/leadlag.pdf",
         "video": "",
         "abstract": "Identifying which text corpus leads in the context of a topic presents a great challenge of considerable interest to researchers. Recent research into lead-lag analysis has mainly focused on estimating the overall leads and lags between two corpora. However, real-world applications have a dire need to understand lead-lag patterns both globally and locally. In this paper, we introduce TextPioneer, an interactive visual analytics tool for investigating lead-lag across corpora from the global level to the local level. In particular, we extend an existing lead-lag analysis approach to derive two-level results. To convey multiple perspectives of the results, we have designed two visualizations, a novel hybrid tree visualization that couples a radial space-filling tree with a node-link diagram and a twisted-ladder-like visualization. We have applied our method to several corpora and the evaluation shows promise, especially in support of text comparison at different levels of detail.",
         "primary": "Visualization"
@@ -1862,7 +1862,7 @@
                 "UIST"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/uist2008annotating.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/uist2008annotating.pdf",
         "video": "http://research.microsoft.com/~sdrucker/video/Pixaura_CHI_08_v3.mov",
         "abstract": "Panning and zooming interfaces for exploring very large images containing billions of pixels (gigapixel images) have recently appeared on the internet. This paper addresses issues that arise when creating and rendering auditory and textual annotations for such images. In particular, we define a distance metric between each annotation and any view resulting from panning and zooming on the image. The distance then informs the rendering of audio annotations and text labels. We demonstrate the annotation system on a number of panoramic images.",
         "primary": "Photos"
@@ -1888,7 +1888,7 @@
                 "SIGCHI"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/ResearchContent/papers/2008CHI_Contextual_Facets.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/ResearchContent/papers/2008CHI_Contextual_Facets.pdf",
         "abstract": "We present contextual facets, a novel user interface technique for navigating websites that publish large collections of semi-structured data. Contextual facets extend traditional faceted navigation techniques by transforming webpage elements into user interface components for filtering and retrieving related webpages. To investigate users' reactions to contextual facets, we built FacetPatch, a web browser that automatically generates contextual facet interfaces. As the user browses the web, FacetPatch automatically extracts semi-structured data from collections of webpages and overlays contextual facets on top of the current page. Participants in an exploratory user evaluation of FacetPatch were enthusiastic about contextual facets and often preferred them to an existing, familiar faceted navigation interface. We discuss how we improved the design of contextual facets and FacetPatch based on the results of this study.",
         "primary": "UI-Information"
     },
@@ -1914,7 +1914,7 @@
                 "SIGCHI"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/stepUICHI06.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/stepUICHI06.pdf",
         "video": "http://research.microsoft.com/~sdrucker/Video/StepStar.wmv",
         "abstract": "While applications are typically optimized for traditional desktop interfaces using a keyboard and mouse, there are a variety of compelling reasons to consider alternative input mechanisms that require more physical exertion, including promoting fitness, preventing Repetitive Strain Injuries, and encouraging fun. We chose to explore physical interfaces based on foot motion and have built two applications with Step User Interfaces: StepMail and StepPhoto. Both support working with email and photos using the dance pad made popular by the Dance Dance Revolution (DDR) game. Results of a formative evaluation with ten participants suggest that the interactions are intuitive to learn, somewhat enjoyable, and cause participants to increase their level of exertion over sitting at a desk. Our evaluation also revealed design considerations for Step User Interfaces, including balancing effort across the body, avoiding needless exertion, and choosing target applications with care.",
         "primary": "Photos"
@@ -1942,7 +1942,7 @@
                 "Interact"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/gesture_elicitation_interactions.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/gesture_elicitation_interactions.pdf",
         "video": "",
         "abstract": "Improving methods for choosing appropriate gestures for novel user interaction techniques.",
         "primary": "UI-Information"
@@ -1973,7 +1973,7 @@
                 "UIST"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/uist2010gestalt.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/uist2010gestalt.pdf",
         "video": "http://www.youtube.com/watch?v=9XC-D2L93jA&feature=player_embedded",
         "abstract": "We present Gestalt, a development environment designed tosupport the process of applying machine learning. While traditional programming environments focus on source code, we explicitly support both code and data. Gestalt allows developers to implement a classification pipeline, analyze data as it moves through that pipeline, and easily transition between implementation and analysis. An experiment shows this significantly improves the ability of developers to find and fix bugs in machine learning systems. Our discussion of Gestalt and our experimental observations provide new insight into general-purpose support for the  achine learning process.",
         "primary": "Machine Learning"
@@ -2002,7 +2002,7 @@
                 "IJCAI"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/ijcai11.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/ijcai11.pdf",
         "video": "http://research.microsoft.com/~sdrucker/video/visavis.wmv",
         "abstract": "A human's ability to diagnose errors, gather data, and generate features in order to build better models is largely untapped. We hypothesize that analyzing results from multiple models can help people diagnose errors by understanding relationships among data, features, and algorithms. These relationships might otherwise be masked by the bias inherent to any individual model. We demonstrate this approach in our Prospect system, show how multiple models can be used to detect label noise and aid in generating new features, and validate our methods in a pair of experiments.",
         "primary": "Machine Learning"
@@ -2055,7 +2055,7 @@
                 "HCI"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/HCI_2008_TentativeDecisionsPixaurafinal.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/HCI_2008_TentativeDecisionsPixaurafinal.pdf",
         "abstract": "Current advances in digital technology promote capturing and storing more digital photos than ever. While photo collections are growing in size, the amount of time that can be devoted to viewing, managing, and sharing digital photos remains constant. Photo decision-making and selection has been identified as key to addressing this concern. After conducting exploratory research on photo decision-making including a wide-scale survey of user behaviors, detailed contextual inquiries, and longer-term diary studies, Pixaura was designed to address problems that emerged from our research. Specifically, Pixaura aims to bridge the gap between importing source photos and sharing them with others, by supporting tentative decision-making within the selection process. For this experience, the system incorporates certain core elements: 1) flexibility to experiment with relationships between photos and groups of photos, 2) the ability to closely couple photos while sharing only a subset of those photos, and 3) a tight connection between the photo selection and photo sharing space.",
         "primary": "Photos"
     },
@@ -2078,7 +2078,7 @@
                 "GI"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/GIraytrace.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/GIraytrace.pdf",
         "abstract": "We describe a new data parallel algorithm for raytracing. Load balancing is achieved through the use of processor allocation, which continually remaps available resources. In this manner heterogeneous data bases are handled without the usual problems of low resource usage. The proposed approach adapts well to both extremes: a small number of rays and a large database; a large number of rays and a small database. The algorithm scales linearly|over a wide range|in the number of rays and available processors. We present an implementation on the Connection Machine CM2 system and provide timings.",
         "primary": "Graphics"
     },
@@ -2123,7 +2123,7 @@
                 "IEEE"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/tactilesensor.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/tactilesensor.pdf",
         "abstract": "This paper discusses the design of a contact sensor for use with the Utah-MIT dexterous hand [Jacobsen, et al. 1984]. The sensor utilizes an 8x8 array of capacitive cells. This paper extends the work presented in Siegel and Garabiet [1986], and the ealier work of Boie [1984]; a more detailed design analysis, modifications to the construction process, and better performance results are shown.",
         "primary": "Robotics"
     },
@@ -2168,7 +2168,7 @@
                 "SIGCHI"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/chisoclife.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/chisoclife.pdf",
         "abstract": "This paper provides a unique quantitative analysis of the social dynamics of three chat rooms in the Microsoft V-Chat graphical chat system. Survey and behavioral data were used to study user experience and activity. 150 V-Chat participants completed a web-based survey, and data logs were collected from three V-Chat rooms over the course of 119 days. This data illustrates the usage patterns of graphical chat systems, and highlights the ways physical proxemics are translated into social interactions in online Environments. V-Chat participants actively used gestures, avatars, and movement as part of their social interactions. Analyses of clustering patterns and movement data show that avatars were used to provide nonverbal cues similar to those found in face-to-face interactions. However, use of some graphical features, in particular gestures, declined as users became more experienced with the system. These findings have implications for the design and study of online interactive environments.",
         "primary": "Social"
     },
@@ -2199,7 +2199,7 @@
                 "SIGCHI"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/2008CHI_VisualSnippets.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/2008CHI_VisualSnippets.pdf",
         "video": "http://research.microsoft.com/~sdrucker/video/facetPatchCameraReady.mov",
         "abstract": "People regularly interact with different representations of Web pages. A person looking for new information may initially find a Web page represented as a short snippet rendered by a search engine. When he wants to return to the same page the next day, the page may instead be represented by a link in his browser history. Previous research has explored how to best represent Web pages in support of specific task types, but, as we find in this paper, consistency in representation across tasks is also important. We explore how different representations are used in a variety of contexts and present a compact representation that supports both the identification of new, relevant Web pages and the re-finding of previously viewed pages.",
         "primary": "Visualization"
@@ -2228,7 +2228,7 @@
                 "SIGCHI"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/2008CHI_reform.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/2008CHI_reform.pdf",
         "video": "http://research.microsoft.com/~sdrucker/video/ThumbtackFinal/ThumbtackIntroductionVideo.wmv",
         "abstract": "There are not enough programmers to support all end user goals by building websites, mashups, and browser extensions. This paper presents reform, a system that envisions roles for both programmers and end-users in creating enhancements of existing websites that support new goals. Programmers author a traditional mashup or browser extension, but instead of writing a web scraper by hand, the reform system enables novice end users to attach the mashup to their websites of interest. reform both makes scraping easier for the programmer and carries the benefit that endusers can retarget the enhancements towards completely different web sites, using a new programming by example interface and machine learning algorithm for web data extraction. This work presents reform's architecture, algorithms, user interface, evaluation, and five example reform enabled enhancements that provide a step towards our goal of write-once apply-anywhere user interface enhancements.",
         "primary": "UI-Information"
@@ -2277,7 +2277,7 @@
                 "UIST"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/chat.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/chat.pdf",
         "abstract": "We describe some common problems experienced by users of computer-based text chat, and show how many of these problems relate to the loss of timing-specific information.  We suggest that thinking of chat as a streaming media data type might solve some of these problems.  We then present a number of alternative chat interfaces along with results from user studies comparing and contrasting them both with each other and with the standard chat interface.",
         "primary": "Social"
     },
@@ -2302,7 +2302,7 @@
                 "SIGGRAPH"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/TheCartoonAnimationFilter.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/TheCartoonAnimationFilter.pdf",
         "video": "http://research.microsoft.com/~sdrucker/Video/af.mov",
         "abstract": "We present the 'Cartoon Animation Filter', a simple filter that takes an arbitrary input motion signal and modulates it in such a way that the output motion is more 'alive' or 'animated'. The filter adds a smoothed, inverted, and (sometimes) time shifted version of the second derivative (the acceleration) of the signal back into the original signal. Almost all parameters of the filter are automated. The user only needs to set the desired strength of the filter. The beauty of the animation filter lies in its simplicity and generality. We apply the filter to motions ranging from hand drawn trajectories, to simple animations within PowerPoint presentations, to motion captured DOF curves, to video segmentation results. Experimental results show that the filtered motion exhibits anticipation, follow-through, exaggeration and squash-and-stretch effects which are not present in the original input motion data.",
         "primary": "Graphics"
@@ -2328,7 +2328,7 @@
                 "WWW"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/WhiteWWW2007.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/WhiteWWW2007.pdf",
         "abstract": "Understanding the extent to which people's search behaviors differ in terms of the interaction flow and information targeted is important in designing interfaces to help World Wide Web users search more effectively. In this paper we describe a longitudinal log-based study that investigated variability in people's interaction behavior when engaged in search-related activities on the Web. We analyze the search interactions of more than two thousand volunteer users over a five-month period, with the aim of characterizing differences in their interaction styles. The findings of our study suggest that there are dramatic differences in variability in key aspects of the interaction within and between users, and within and between the search queries they submit. Our findings also suggest two classes of extreme user navigators and explorers whose search interaction is highly consistent or highly variable. Lessons learned from these users can inform the design of tools to support effective Web-search interactions for everyone.",
         "primary": "UI-Information"
     },
@@ -2356,7 +2356,7 @@
                 "SIGCHI"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/p2877-white.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/p2877-white.pdf",
         "video": "",
         "abstract": "The model of search as a turn-taking dialogue between the user and an intermediary has remained unchanged for decades. However, there is growing interest within the search community in evolving this model to support search-driven information exploration activities. So-called exploratory search describes a class of search activities that move beyond fact retrieval toward fostering learning, investigation, and information use. Exploratory search interaction focuses on the user-system communication essential during exploratory search processes. Given this user-centered focus, the CHI conference is an ideal venue to discuss mechanisms to support exploratory searchbehaviors. Specifically, this workshop aims to gather researchers, academics, and practitioners working in human-computer interaction, information retrieval, and other related disciplines, for a discussion of the issues relating to the design and evaluation of interfaces to help users explore, learn, and use information. These are important issues with far-reaching implications for how many computer users accomplish their tasks.",
         "primary": "UI-Information"
@@ -2382,7 +2382,7 @@
                 "ACM"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/2007introacm.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/2007introacm.pdf",
         "primary": "UI-Information"
     },
     {
@@ -2427,7 +2427,7 @@
                 "InternalReport"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/collabviz.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/collabviz.pdf",
         "abstract": "There is a growing need for methods and tools to illuminate the social contexts of interaction environments created by the World Wide Web, Usenet newsgroups, email lists, and other network interaction media. We present here a framework for creating visualizations of the social connections created in and through network interaction media. Using graph-drawing methods, visualizations can be created for a range of systems that link people to people and people to objects through networks. As an example, we present an application of our methods to the Usenet to illustrate how visualization can improve existing systems.  We propose that users of network interaction media can benefit from visualizations that illuminate the interaction context generated by the rich interconnections between groups, conversations, and people in these media.",
         "primary": "Social"
     },
@@ -2452,7 +2452,7 @@
                 "ICSS"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/connintermedia.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/connintermedia.pdf",
         "abstract": "none",
         "primary": "Hypertext"
     },
@@ -2478,7 +2478,7 @@
                 "IEEE"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/intermedia1.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/intermedia1.pdf",
         "abstract": "none",
         "primary": "Hypertext"
     },
@@ -2502,7 +2502,7 @@
                 "Thesis"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/mission.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/mission.pdf",
         "abstract": "A key function of a mission planning system is to enhance and maintain situational awareness of planning personnel and aircrews who will use the system for pre-mission rehearsals and briefings. We have developed a mission planner using virtual environment technology. We provide a task level interface to computational models of aircraft, terrain, threats and targets, so that users interact directly with these models using voice and gesture recognition, 3D positional input, 3 axis force output, and intelligent camera control.",
         "primary": "Camera"
     },
@@ -2529,7 +2529,7 @@
                 "SIGCHI"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/chi2015-squeries.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/chi2015-squeries.pdf",
         "abstract": "Many different domains collect event sequence data and rely on finding and analyzing patterns within it to gain meaningful insights. Current systems that support such queries either provide limited expressiveness, hinder exploratory workflows or present interaction and visualization models which do not scale well to large and multi-faceted data sets. In this paper we present (s|qu)eries (pronounced 'Squeries'), a visual query interface for creating queries on sequences (series) of data, based on regular expressions. (s|qu)eries is a touchbased system that exposes the full expressive power of regular expressions in an approachable way and interleaves query specification with result visualizations. Being able to visually investigate the results of different query-parts supports debugging and encourages iterative query-building as well as exploratory work-flows. We validate our design and implementation through a set of informal interviews with data scientists that analyze event sequences on a daily basis.",
         "primary": "Visualization"
     },
@@ -2554,7 +2554,7 @@
                 "Infovis"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/PanoramicData.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/PanoramicData.pdf",
         "video": "",
         "abstract": "Interactively exploring multidimensional datasets requires frequent switching among a range of distinct but inter-related tasks (e.g., producing different visuals based on different column sets, calculating new variables, and observing the interactions between sets of data). Existing approaches either target specific different problem domains (e.g., data-transformation or datapresentation) or expose only limited aspects of the general exploratory process; in either case, users are forced to adopt coping strategies (e.g., arranging windows or using undo as a mechanism for comparison instead of using side-by-side displays) to compensate for the lack of an integrated suite of exploratory tools. PanoramicData (PD) addresses these problems by unifying a comprehensive set of tools for visual data exploration into a hybrid pen and touch system designed to exploit the visualization advantages of large interactive displays. PD goes beyond just familiar visualizations by including direct UI support for data transformation and aggregation, filtering and brushing. Leveraging an unbounded whiteboard metaphor, users can combine these tools like building blocks to create detailed interactive visual display networks in which each visualization can act as a filter for others. Further, by operating directly on relational-databases, PD provides an approachable visual language that exposes a broad set of the expressive power of SQL, including functionally complete logic filtering, computation of aggregates and natural table joins. To understand the implications of this novel approach, we conducted a formative user study with both data and visualization experts. The results indicated that the system provided a fluid and natural user experience for probing multi-dimensional data and was able to cover the full range of queries that the users wanted to pose",
         "primary": "Visualization"
@@ -2588,7 +2588,7 @@
                 "Book"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/immersiveinteraction.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/immersiveinteraction.pdf",
         "abstract": "In this chapter, we briefly review the development of natural user interfaces and discuss their role in providing human-computer interaction that is immersive in various ways. Then we examine some opportunities for how these technologies might be used to better support data analysis tasks. Specifically, we review and suggest some interaction design guidelines for immersive analytics. We also review some hardware setups for data visualization that are already archetypal. Finally, we look at some emerging system designs that suggest future directions",
         "primary": "Visualization"
     },
@@ -2615,7 +2615,7 @@
                 "AVI"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/timeslice.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/timeslice.pdf",
         "abstract": "Temporal events with multiple sets of metadata attributes, i.e., facets, are ubiquitous across different domains. The capabilities of efficiently viewing and comparing events data from various perspectives are critical for revealing relationships, making hypotheses, and discovering patterns. In this paper, we present TimeSlice, an interactive faceted visualization of temporal events, which allows users to easily compare and explore timelines with different attributes on a set of facets. By directly manipulating the filtering tree, a dynamic visual representation of queries and filters in the facet space, users can simultaneously browse the focused timelines and their contexts at different levels of detail, which supports efficient navigation of multi-dimensional events data. Also presented is an initial evaluation of TimeSlice with two datasets - famous deceased people and US daily flight delays.",
         "primary": "Visualization"
     },
@@ -2645,7 +2645,7 @@
                 "TIIS"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/anchorvizextended.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/AnchorViz.pdf",
         "abstract": "When building a classifier in interactive machine learning (iML), human knowledge about the target class can be a powerful reference to make the classifier robust to unseen items.         The main challenge lies in finding unlabeled items that can either help discover or refine concepts for which the current classifier has no corresponding features (i.e., it has feature blindness).  Yet it is unrealistic to ask humans to come up with an exhaustive list of items, especially for rare concepts that are hard to recall. This article presents \textit{AnchorViz}, an interactive visualization that facilitates the discovery of prediction errors and previously unseen concepts through human-driven semantic data exploration.         By creating example-based or dictionary-based anchors representing concepts, users create a topology that (a) spreads data based on their similarity to the concepts, and (b) surfaces the prediction and label inconsistencies between data points that are semantically related.         Once such inconsistencies and errors are discovered, users can encode the new information as labels or features and interact with the retrained classifier to validate their actions in an iterative loop.        We evaluated AnchorViz through two user studies.         Our results show that AnchorViz helps users discover more prediction errors than stratified random and uncertainty sampling methods.         Furthermore, during the beginning stages of a training task, an iML tool with AnchorViz can help users build classifiers comparable to the ones built with the same tool with uncertainty sampling and keyword search, but with fewer labels and more generalizable features.         We discuss exploration strategies observed during the two studies and how AnchorViz supports discovering, labeling, and refining of concepts through a sensemaking loop.",
         "primary": "Visualization"
     },
@@ -2670,7 +2670,7 @@
                 "TVCG"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/atom.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/atom.pdf",
         "abstract": "Unit visualizations are a family of visualizations where every data item is represented by a unique visual mark-a visual unit-during visual encoding. For certain datasets and tasks, unit visualizations can provide more information, better match the user's mental model, and enable novel interactions compared to traditional aggregated visualizations. Current visualization grammars cannot fully describe the unit visualization family. In this paper, we characterize the design space of unit visualizations to derive a grammar that can express them. The resulting grammar is called Atom, and is based on passing data through a series of layout operations that divide the output of previous operations recursively until the size and position of every data point can be determined. We evaluate the expressive power of the grammar by both using it to describe existing unit visualizations, as well as to suggest new unit visualizations.",
         "primary": "Visualization"
     },
@@ -2695,7 +2695,7 @@
                 "SIGCHI"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/whatsthediff.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/whatsthediff.pdf",
         "abstract": "An increasingly common approach to data analysis involves using information dashboards to visually compare changing data. However, layout constraints coupled with varying levels of visualization literacy among dashboard users make facilitating visual comparison in dashboards a challenging task. In this paper, we evaluate variants of bar charts, one of the most prevalent class of charts used in dashboards. We report an online experiment (N = 74) conducted to evaluate four alternative designs: 1) grouped bar chart, 2) grouped bar chart with difference overlays, 3) bar chart with difference overlays, and 4) difference bar chart. Results show that charts with difference overlays facilitate a wider range of comparison tasks while performing comparably to charts without them on individual tasks. Finally, we discuss the implications of our findings, with a focus on supporting visual comparison in dashboards.",
         "primary": "Visualization"
     },
@@ -2721,7 +2721,7 @@
                 "HILDA"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/Querying.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/Querying.pdf",
         "abstract": "Massive amounts of videos are generated for entertainment, security, and science, powered by a growing supply of user-produced video hosting services. Unfortunately, searching for videos is difficult due to the lack of content annotations. Recent breakthroughs in image labeling with deep neural networks (DNNs) create a unique opportunity to address this problem. While many automated end-to-end solutions have been developed, such as natural language queries, we take on a different perspective: to leverage both the development of algorithms and human capabilities. To this end, we design a query language in tandem with a user interface to help users quickly identify segments of interest from the video based on labels and corresponding bounding boxes. We combine techniques from the database and information visualization communities to help the user make sense of the object labels in spite of errors and inconsistencies.",
         "primary": "Visualization"
     },
@@ -2750,7 +2750,7 @@
                 "TVCG"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/fiberclay.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/fiberclay.pdf",
         "abstract": "Visualizing 3D trajectories to extract insights about their similarities and spatial configuration is a critical task in several domains. Air traffic controllers for example deal with large quantities of aircrafts routes to optimize safety in airspace and neuroscientists attempt to understand neuronal pathways in the human brain by visualizing bundles of fibers from DTI images. Extracting insights from masses of 3D trajectories is challenging as the multiple three dimensional lines have complex geometries, may overlap, cross or even merge with each other, making it impossible to follow individual ones in dense areas. As trajectories are inherently spatial and three dimensional, we propose FiberClay: a system to display and interact with 3D trajectories in immersive environments. FiberClay renders a large quantity of trajectories in real time using GP-GPU techniques. FiberClay also introduces a new set of interactive techniques for composing complex queries in 3D space leveraging immersive environment controllers and user position. These techniques enable an analyst to select and compare sets of trajectories with specific geometries and data properties. We conclude by discussing insights found using FiberClay with domain experts in air traffic control and neurology.",
         "primary": "Visualization"
     },
@@ -2776,7 +2776,7 @@
                 "TVCG"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/Voder.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/Voder.pdf",
         "abstract": "Recently, an increasing number of visualization systems have begun to incorporate natural language generation (NLG) capabilities into their interfaces. NLG-based visualization systems typically leverage a suite of statistical functions to automatically extract key facts about the underlying data and surface them as natural language sentences alongside visualizations. With current systems, users are typically required to read the system-generated sentences and mentally map them back to the accompanying visualization. However, depending on the features of the visualization (e.g., visualization type, data density) and the complexity of the data fact, mentally mapping facts to visualizations can be a challenging task. Furthermore, more than one visualization could be used to illustrate a single data fact. Unfortunately, current tools provide little or no support for users to explore such alternatives. In this paper, we explore how system-generated data facts can be treated as interactive widgets to help users interpret visualizations and communicate their findings. We presentVoder, a system that lets users interact with automatically-generated data facts to explore both alternative visualizations to convey a data fact as well as a set of embellishments to highlight a fact within a visualization. Leveraging data facts as interactive widgets, Voder also facilitates data fact-based visualization search. To assess Voder's design and features, we conducted a preliminary user study with 12 participants having varying levels of experience with visualization tools. Participant feedback suggested that interactive data facts aided them in interpreting visualizations. Participants also stated that the suggestions surfaced through the facts helped them explore alternative visualizations and embellishments to communicate individual data facts.",
         "primary": "Visualization"
     },
@@ -2805,7 +2805,7 @@
                 "Book"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/immersivehuman.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/immersivehuman.pdf",
         "abstract": "In this chapter we seek to elevate the role of the human in human-machine cooperative analysis through a careful consideration of immersive design principles. We consider both strategic immersion through more accessible systems as well as enhanced understanding and control through immersive interfaces that enable rapid workflows. We extend the classic sensemaking loop from visual analytics to incorporate multiple views, scenarios, people, and computational agents. We consider both sides of machine/human collaboration: allowing the human to more fluidly control the machine process; and also allowing the human to understand the results, derive insights and continue the analytic cycle. We also consider system and algorithmic implications of enabling real-time control and feedback in immersive human-centered computational analytics.",
         "primary": "Visualization"
     },
@@ -2837,7 +2837,7 @@
                 "Book"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/narrativepatterns.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/narrativepatterns.pdf",
         "abstract": "This chapter introduces the concept of narrative design patterns, that aim to facilitate the shaping of compelling data-driven stories. There are many different ways storytellers can narrate the same story, depending on their intentions and their audience. Here, the authors define and describe a set of these narrative design patterns that can be used on their own or in combination to tell data stories in a myriad of ways. The authors then analyze 18 of them, and illustrate how these patterns can help storytellers think about the stories they want to tell and the best ways to narrate them. Each pattern has a specific purpose, for example, engaging the audience, evoking empathy, or creating flow and rhythm in the story. The authors assume storytellers already know what story they want to tell, why they want to tell it, and who they want to tell it to. These patterns may not only facilitate the process of creating compelling narratives, but stimulate a wider discussion on techniques and practices for data-driven storytelling.",
         "primary": "Visualization"
     },
@@ -2864,7 +2864,7 @@
                 "Book"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/dataaudience.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/dataaudience.pdf",
         "abstract": "Communicating data in an effective and efficient story requires the content author to recognize the needs, goals, and knowledge of the intended audience. To effectively communicate ideas and concepts, content authors need to think carefully about how their work best fits the needs of the audience. Data storytellers have an ethical obligation to ensure that their visualizations do not skew or mislead interpretations unnecessarily and this intersects with the literacy level of the expected audience. An individual in the audience brings their own viewpoints, backgrounds, and experience to each and every data-driven story they consume. Whether driven by their cultural background, social position, education, or other demographic characteristics, readers carry with them their own unique set of knowledge and biases. A consistent design approach can help an audience relate to a producer's work and entice them to return. Television audiences are also fickle, often switching programs and channels within less than a second.",
         "primary": "Visualization"
     },
@@ -2890,7 +2890,7 @@
                 "CHI"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/19_gamut_chi.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/19_gamut_chi.pdf",
         "abstract": "Without good models and the right tools to interpret them, data scientists risk making decisions based on hidden biases, spurious correlations, and false generalizations. This has led to a rallying cry for model interpretability. Yet the concept of interpretability remains nebulous, such that researchers and tool designers lack actionable guidelines for how to incorporate interpretability into models and accompanying tools.  Through an iterative design process with expert machine learning researchers and practitioners, we designed a visual analytics system, GAMut, to explore how interactive interfaces could better support model interpretation. Using GAMut as a probe, we investigated why and how professional data scientists interpret models, and how interface affordances can support data scientists in answering questions about model interpretability. Our investigation showed that interpretability is not a monolithic concept: data scientists have different reasons to interpret models and tailor explanations for specific audiences, often balancing competing concerns of simplicity and completeness. Participants also asked to use GAMut in their work, highlighting its potential to help data scientists understand their own data.  ",
         "primary": "Visualization"
     },
@@ -2919,7 +2919,7 @@
                 "TiiS"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/Tiis-AnchorViz-Suh.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/Tiis-AnchorViz-Suh.pdf",
         "abstract": "When building a classifier in interactive machine learning (iML), human knowledge about the target class can be a powerful reference to make the classifier robust to unseen items. The main challenge lies in finding unlabeled items that can either help discover or refine concepts for which the current classifier has no corresponding features (i.e., it has feature blindness). Yet it is unrealistic to ask humans to come up with an exhaustive list of items, especially for rare concepts that are hard to recall. This article presents AnchorViz, an interactive visualization that facilitates the discovery of prediction errors and previously unseen concepts through human-driven semantic data exploration. By creating example-based or dictionary-based anchors representing concepts, users create a topology that (a) spreads data based on their similarity to the concepts and (b) surfaces the prediction and label inconsistencies between data points that are semantically related. Once such inconsistencies and errors are discovered, users can encode the new information as labels or features and interact with the retrained classifier to validate their actions in an iterative loop. We evaluated AnchorViz through two user studies. Our results show that AnchorViz helps users discover more prediction errors than stratified random and uncertainty sampling methods. Furthermore, during the beginning stages of a training task, an iML tool with AnchorViz can help users build classifiers comparable to the ones built with the same tool with uncertainty sampling and keyword search, but with fewer labels and more generalizable features. We discuss exploration strategies observed during the two studies and how AnchorViz supports discovering, labeling, and refining of concepts through a sensemaking loop.",
         "primary": "Visualization"
     },
@@ -2944,7 +2944,7 @@
                 "EICS"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/a16-shah.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/a16-shah.pdf",
         "abstract": "Performing diagnosis or exploratory analysis during the training of deep learning models is challenging but often necessary for making a sequence of decisions guided by the incremental observations. Currently available systems for this purpose are limited to monitoring only the logged data that must be specified before the training process starts. Each time a new information is desired, a cycle of stop-change-restart is required in the training process. These limitations make interactive exploration and diagnosis tasks difficult, imposing long tedious iterations during the model development. We present a new system that enables users to perform interactive queries on live processes generating real-time information that can be rendered in multiple formats on multiple surfaces in the form of several desired visualizations simultaneously. To achieve this, we model various exploratory inspection and diagnostic tasks for deep learning training processes as specifications for streams using a map-reduce paradigm with which many data scientists are already familiar. Our design achieves generality and extensibility by defining composable primitives which is a fundamentally different approach than is used by currently available systems",
         "primary": "Visualization"
     },
@@ -2968,7 +2968,7 @@
                 "CHI"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/AffinityLens_CHI_19-2.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/AffinityLens_CHI_19-2.pdf",
         "abstract": "Despite the availability of software to support Affinity Diagramming (AD), practitioners still largely favor physical sticky-notes. Physical notes are easy to set-up, can be moved around in space and offer flexibility when clustering unstructured data. However, when working with mixed data sources such as surveys, designers often trade off the physicality of notes for analytical power. We propose Affinity Lens, a mobile-based augmented reality (AR) application for Data-Assisted Affinity Diagramming (DAAD). Our application provides just-in-time quantitative insights overlaid on physical notes. Affinity Lens uses several different types of AR overlays (called lenses) to help users find specific notes, cluster information, and summarize insights from clusters. Through a formative study of AD users, we developed design principles for data-assisted AD and an initial collection of lenses. Based on our prototype, we find that Affinity Lens supports easy switching between qualitative and quantitative ‘views’ of data, without surrendering the lightweight benefits of existing AD practice.",
         "primary": "UI-Information"
     },
@@ -2993,7 +2993,7 @@
                 "CHI"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/managingmesses.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/managingmesses.pdf",
         "abstract": "Data analysts use computational notebooks to write code for analyzing and visualizing data. Notebooks help analysts iteratively write analysis code by letting them interleave code with output, and selectively execute cells. However, as analysis progresses, analysts leave behind old code and outputs, and overwrite important code, producing cluttered and inconsistent notebooks. This paper introduces code gathering tools, extensions to computational notebooks that help analysts find, clean, recover, and compare versions of code in cluttered, inconsistent notebooks. The tools archive all versions of code outputs, allowing analysts to review these versions and recover the subsets of code that produced them. These subsets can serve as succinct summaries of analysis activity or starting points for new analyses. In a qualitative usability study, 12 professional analysts found the tools useful for cleaning notebooks and writing analysis code, and discovered new ways to use them, like generating personal documentation and lightweight versioning.",
         "primary": "UI-Information"
     },
@@ -3018,7 +3018,7 @@
                 "VIS"
             ]
         },
-        "pdf": "https://github.com/StevenMDrucker/ResearchContent/tree/master/papers/telegam-vis19.pdf",
+        "pdf": "https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/telegam-vis19.pdf",
         "abstract": "While machine learning (ML) continues to nd success in solving previously-thought hard problems, interpreting and exploring ML models remains challenging. Recent work has shown that visualizations are a powerful tool to aid debugging, analyzing, and interpreting ML models. However, depending on the complexity of the model (e.g., number of features), interpreting these visualizations can be difcult and may require additional expertise. Alternatively, textual descriptions, or verbalizations, can be a simple, yet effective way to communicate or summarize key aspects about a model, such as the overall trend in a model's predictions or comparisons between pairs of data instances. With the potential benets of visualizations and verbalizations in mind, we explore how the two can be combined to aid ML interpretability. Specically, we present a prototype system,TELEGAM , that demonstrates how visualizations and verbalizations can collectively support interactive exploration of ML models, for example, generalized additive models (GAMs). We describeTELEGAM 's interface and underlying heuristics to generate the verbalizations. We conclude by discussing how TELEGAM can serve as a platform to conduct future studies for understanding user expectations and designing novel interfaces for interpretable ML.",
         "primary": "Visualization"
     }
