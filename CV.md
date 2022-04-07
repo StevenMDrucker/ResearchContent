@@ -97,6 +97,8 @@ _____
 
 ## Bibliography
 ### Refereed Journals and Invited Articles
+#### 2022
+Cabrera, Angel Alexander, Marco Ribeiro, Bongshin Lee, Robert DeLine, Adam Perer, **Steven M Drucker** What Did My AI Learn? How Data Scientists Make Sense of Model Behavior. To appear in _ACM Transactions on Computer-Human Interaction (TOCHI)_2022.
 #### 2020
 Boukhelifa, Nadia, Anastasia Bezerianos, Remco Chang, Christopher Collins, S. Drucker, Alexander Endert, Jessica Hullman, C. North, and Michael Sedlmair. "Challenges in Evaluating Interactive Visual Machine Learning Systems." IEEE Computer Graphics and Applications 40, no. 6 (2020): 88-96. Journal.
 #### 2018
@@ -139,6 +141,12 @@ Mira Dontcheva, **Steven M Drucker**, David Salesin, and Michael F Cohen. 2010. 
 **Steven M Drucker**. 1988. Texture from Touch. In _Natural Computation_, Whitman Richards (ed.). MIT Press. Book.
 
 ### Refereed Conferences
+#### 2022
+Subrimonyam, Hari, Eytan Adar, and **Steven M Drucker**. Composites: A Tangible Interaction Paradigm for Visual Data Analysis in Design Practice. To appear om Proceedings of the 2022 International Working Conference on Advanced Visual Interfaces_, 2022.
+#### 2022
+Epperson, Will, April Yi Wang, Robert DeLine, and **Steven M Drucker**. Strategies for Reusing and Sharing among Data Scientists in Software Teams. In Proceedings o fthe ACM/IEEE 44th International Conference on Software Engineering: Software Engineering in Practice (ICSE-SEIP 2022). 
+#### 2022
+Wang, April Yi, Will Epperson, Robert DeLine, **Steven M Drucker** Diff in the Loop: Supporting Data Comparison in Exploratory Data Analysis, in _ACM Proceedings of the ACM Conference on Human Factors in Computer Systems_ May, 2022. 
 #### 2021
 Almahmoud, Jumana, Robert DeLine, and **Steven M. Drucker**. "How Teams Communicate about the Quality of ML Models: A Case Study at an International Technology Company." Proceedings of the ACM on Human-Computer Interaction 5.GROUP (2021): 1-24.
 #### 2021
@@ -148,7 +156,7 @@ Nathaniel Weinman, **Steven M Drucker**, Titus Barik, Robert DeLine, Fork it: Su
 #### 2021
 Xiaoying Pu, Matthew Kay, **Steven M Drucker**, Jeffrey Heer, Dominik Moritz, Arvind Satyanarayan, Special interest Group on Visualization Grammars, in _ACM Extended Abstracts Proceedings of the ACM Conference on Human Factors in Computer Systems_ May, 2021.
 #### 2021
-Benjamin Lee, Dave Brown, Bongshin Lee, Christophe Hurter, **Steven Drucker**, Tim Dwyer, Data Visceralization: Enabling Deeper Understanding of Data Using Virtual Reality, in _IEEE Transactions on Visualization and Computer Graphics_ January, 2021
+Benjamin Lee, Dave Brown, Bongshin Lee, Christophe Hurter, **Steven Drucker**, Tim Dwyer, Data Visceralization: Enabling Deeper Understanding of Data Using Virtual Reality, in _IEEE Transactions on Visualization and Computer Graphics_ January, 2021. Best Paper Runner Up.
 #### 2020
 Arjun Srinivasan, Bongshin Lee, Nathalie Henry Riche, **Steven M Drucker**, Ken Hinckley, InChorus: Designing Consitent Multimodal Interactions for Data Visualization on Tablet Devices, in _ACM Proceedings of the ACM Conference on Human Factors in Computer Systems_ April, 2020. Best Paper Honorable Mention.
 
