@@ -328,7 +328,8 @@ Billy Chen, Gonzalo Ramos, Eyal Ofek, Michael Cohen, **Steven M Drucker**, and D
 #### 2007
 Paul André, **Steven M Drucker**, and m. c. schraefel. 2007. Informal Online Decision Making: Current Practices and Support System Design.
 #### 2002
-**Steven M Drucker**, Li-wei He, Michael Cohen, Curtis Wong, and Anoop Gupta. 2002. _Spectator games: A new entertainment modality of networked multiplayer games_. Microsoft Research. Technical Report.#### 2001 
+**Steven M Drucker**, Li-wei He, Michael Cohen, Curtis Wong, and Anoop Gupta. 2002. _Spectator games: A new entertainment modality of networked multiplayer games_. Microsoft Research. Technical Report.
+#### 2001 
 Harry Chesley, **Steven M Drucker**, Anoop Gupta, Greg Kimberly, and Steven White. 2001. _Flatland, Rapid prototyping of distributed internet applications_. Microsoft Research. Technical Report.
 #### 2001
 R Alex Colburn, Michael F Cohen, **Steven M Drucker**, Scott Lee Tiernan, and Anoop Gupta. 2001. Graphical enhancements for voice only conference calls. _Microsoft Corporation, Redmond, WA, Technical Report MSR-TR-2001-95_.
