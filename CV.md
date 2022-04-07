@@ -31,7 +31,7 @@ ______
 
 #### 1989-1994
 **Ph.D, Massachusetts Institute of Technology - Media Lab**
-    Thesis title: Integlligent Camera Control for Graphical Environments: Advisor, David Zeltzer, Committee: Dr. Alex Pentland, Dr. Pattie Maes, Glorianna Davenport. Research topics included virtual environments, human computer interaction, telerobotics, and parallel computer graphic algorithms.
+    Thesis title: Intelligent Camera Control for Graphical Environments: Advisor, David Zeltzer, Committee: Dr. Alex Pentland, Dr. Pattie Maes, Glorianna Davenport. Research topics included virtual environments, human computer interaction, telerobotics, and parallel computer graphic algorithms.
 
 #### 1986-1989
 **ScM. Massachusetts Institute of Technology - Artificial Intelligence Laboratory**
