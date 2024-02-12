@@ -379,6 +379,9 @@ Tinsley Galyean and **Steven M Drucker**. 1992. _Self Inflated_. Animation.
 _____
 ## Student Supervision
 ### Doctoral Committees
+##### 2023
+April Wang, University of Michigan
+Juan Antonio Trelles Trabucco, University of Illinois, Chicago
 ##### 2021
 Hariharan Subramonyam,  University of Michigan
 ##### 2021
