@@ -381,6 +381,7 @@ _____
 ### Doctoral Committees
 ##### 2023
 April Wang, University of Michigan
+
 Juan Antonio Trelles Trabucco, University of Illinois, Chicago
 ##### 2021
 Hariharan Subramonyam,  University of Michigan
