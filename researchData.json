@@ -3021,5 +3021,215 @@
         "pdf": "https://docs.google.com/viewer?url=https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/telegam-vis19.pdf",
         "abstract": "While machine learning (ML) continues to nd success in solving previously-thought hard problems, interpreting and exploring ML models remains challenging. Recent work has shown that visualizations are a powerful tool to aid debugging, analyzing, and interpreting ML models. However, depending on the complexity of the model (e.g., number of features), interpreting these visualizations can be difcult and may require additional expertise. Alternatively, textual descriptions, or verbalizations, can be a simple, yet effective way to communicate or summarize key aspects about a model, such as the overall trend in a model's predictions or comparisons between pairs of data instances. With the potential benets of visualizations and verbalizations in mind, we explore how the two can be combined to aid ML interpretability. Specically, we present a prototype system,TELEGAM , that demonstrates how visualizations and verbalizations can collectively support interactive exploration of ML models, for example, generalized additive models (GAMs). We describeTELEGAM 's interface and underlying heuristics to generate the verbalizations. We conclude by discussing how TELEGAM can serve as a platform to conduct future studies for understanding user expectations and designing novel interfaces for interpretable ML.",
         "primary": "Visualization"
+    },
+    {
+        "caption": "AIfinnity",
+        "img": "researchImages/AIfinnity.png",
+        "bibEntry": "<div class=\"csl-entry\">Angel Alexander Caqbrera, Marco Tulio Ribeiro, Bongshin Lee, Robert A. DeLine, Adam Perer, Steven M. Drucker. 2019. What Did My AI Learn? How Data Scientists Make Sense of Model Behavior. In <i>Transactions on Computer Human Interaction</i>.ACM, 2022.</div>",
+        "tags": {
+            "collaborators": [
+                "Cabrera",
+                "Ribeiro",
+                "Lee",
+                "DeLine",
+                "Perer"
+            ],
+            "subject": [
+                "Information",
+                "Visualization",
+                "ML"
+            ],
+            "year": [
+                "2022"
+            ],
+            "publication": [
+                "TOCHI"
+            ]
+        },
+        "pdf": "https://docs.google.com/viewer?url=https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/AIfinnity.pdf",
+        "abstract": "Data scientists require rich mental models of how AI systems behave to effectively train, debug, and work with them. Despite the prevalence of AI analysis tools, there is no general theory describing how people make sense of what their models have learned. We frame this process as a form of sensemaking and derive a framework describing how data scientists develop mental models of AI behavior. To evaluate the framework, we show how existing AI analysis tools fit into this sensemaking process and use it to design AIFinnity, a system for analyzing image-and-text models. Lastly, we explored how data scientists use a tool developed with the framework through a think-aloud study with 10 data scientists tasked with using AIFinnity to pick an image captioning model. We found that AIFinnity’s sensemaking workflow reflected participants’ mental processes and enabled them to discover and validate diverse AI behaviors.",        
+        "primary": "ML"
+    },
+    {
+        "caption": "NL2VIS",
+        "img": "",
+        "bibEntry": "<div class=\"csl-entry\">Arjun Srinivasan, Nikhula Nyapathy, Bongshin Lee, Steven M. Drucker, John Stasko, 2021. Collecting and Characterising Natural Language Utterances for Specifying Data Visualizations. In <i>Proceedings of the ACM Conference on Human Computer Interaction</i>.ACM SIGCHI , 2021.</div>",
+        "tags": {
+            "collaborators": [
+                "Srinivasan",
+                "Nyapathy",
+                "Lee",
+                "Stasko"
+            ],
+            "subject": [
+                "HCI",
+                "Data",
+                "Visualization"
+            ],
+            "year": [
+                "2021"
+            ],
+            "publication": [
+                "CHI"
+            ]
+        },
+        "pdf": "",
+        "abstract": "",
+        "primary": "Visualization"
+    },
+    {
+        "caption": "Data Visceralization",
+        "img": "",
+        "bibEntry": "<div class=\"csl-entry\">Benjamin Lee, Dave Brown, Bongshin Lee, Christophe Hurter, Steven M. Drucker, 2021. Data Visceralization: Enabling Deeper Understanding of Data Using Virtual Reality, In <i>IEEE Transactions on Visualization and Computer Graphics</i>.IEEE VIS, 2021.</div>",
+        "tags": {
+            "collaborators": [
+                "Lee",
+                "Brown",
+                "Lee",
+                "Hurter",
+                "Dwyer"
+            ],
+            "subject": [
+                "Graphics",
+                "HCI",
+                "Data",
+                "Visualization"
+            ],
+            "year": [
+                "2021"
+            ],
+            "publication": [
+                "Infovis"
+            ]
+        },
+        "pdf": "",
+        "abstract": "",
+        "primary": "Visualization"
+    },
+    {
+        "caption": "Fork It",
+        "img": "",
+        "bibEntry": "<div class=\"csl-entry\">Nathaniel Weinman, Steven M. Drucker, Titus Barik, Robert DeLine, 2021. Fork it: Supporting Stateful Alternatives in Computations Notebooks. In <i>Proceedings of the ACM Conference on Human Computer Interaction</i>.ACM SIGCHI , 2021.</div>",
+        "tags": {
+            "collaborators": [
+                "Weinman",
+                "Nyapathy",
+                "Lee",
+                "Stasko"
+            ],
+            "subject": [
+                "HCI",
+                "Data",
+                "Visualization"
+            ],
+            "year": [
+                "2021"
+            ],
+            "publication": [
+                "CHI"
+            ]
+        },
+        "pdf": "",
+        "abstract": "",
+        "primary": "Visualization"
+    },
+    {
+        "caption": "AI Model Communication",
+        "img": "researchImages/AIComm.png",
+        "bibEntry": "<div class=\"csl-entry\">Almahmoud, Jumana, Robert DeLine, Steven M. Drucker, 2021. How Teams Communicate about the Quality of ML Models: A Case Study at an International Technology Company. In <i>Proceedings of the ACM Conference on Human Computer Interaction Group</i>.ACM Group , 2021.</div>",
+        "tags": {
+            "collaborators": [
+                "Almahmoud",
+                "DeLine"
+            ],
+            "subject": [
+                "HCI",
+                "Data"
+            ],
+            "year": [
+                "2021"
+            ],
+            "publication": [
+                "Group"
+            ]
+        },
+        "pdf": "",
+        "abstract": "",
+        "primary": "UI-Information"
+    },
+    {
+        "caption": "ReuseStrategies",
+        "img": "researchImages/Reuse.png",
+        "bibEntry": "<div class=\"csl-entry\">Will Eperson, April Wang, Robert DeLine, Steven M. Drucker, 2022. Strategies for Reusing and Sharing among Data Scientists in Software Teams. In <i>Proceedings of the ACM/IEEE 44th International Conference on Software Engineering: Software Engineering in Practice</i>.ICSE-SEIP, 2022.</div>",
+        "tags": {
+            "collaborators": [
+                "Epperson",
+                "Yang",
+                "DeLine"
+            ],
+            "subject": [
+                "HCI",
+                "Data"
+            ],
+            "year": [
+                "2022"
+            ],
+            "publication": [
+                "ICSE"
+            ]
+        },
+        "pdf": "",
+        "abstract": "",
+        "primary": "UI-Information"
+    },
+    {
+        "caption": "DITL",
+        "img": "researchImages/DITL.png",
+        "bibEntry": "<div class=\"csl-entry\">April Wang, Will Eperson, Robert DeLine, Steven M. Drucker, 2022. Diff in the Loop: Supporting Data Comparison in Exploratory Data Analysis. In <i>Proceedings of the ACM Conference on Human Factors in Computer Systems</i>.ACM CHI, 2022.</div>",
+        "tags": {
+            "collaborators": [
+                "Yang",
+                "Epperson",
+                "DeLine"
+            ],
+            "subject": [
+                "HCI",
+                "Data"
+            ],
+            "year": [
+                "2022"
+            ],
+            "publication": [
+                "CHI"
+            ]
+        },
+        "pdf": "",
+        "abstract": "",
+        "primary": "UI-Information"
+    },
+    {
+        "caption": "Composites",
+        "img": "researchImages/Composites.png",
+        "bibEntry": "<div class=\"csl-entry\">Hariharan Subramonyam, Eytan Adar, Steven M. Drucker, 2022. Composites: A Tangible Interaction Paradigm for Visual Data Analysis in Design Practice. In <i>Advanced Visual Interfaces Conference</i>.ACM, 2022.</div>",
+        "tags": {
+            "collaborators": [
+                "Subramonyam",
+                "Adar"
+            ],
+            "subject": [
+                "Information",
+                "Visualization",
+                "HCI"
+            ],
+            "year": [
+                "2022"
+            ],
+            "publication": [
+                "AVI"
+            ]
+        },
+        "pdf": "https://docs.google.com/viewer?url=https://github.com/StevenMDrucker/ResearchContent/raw/master/papers/composites.pdf",
+        "abstract": "Conventional tools for visual analytics emphasize a linear production workflow and lack organic “work surfaces.” A better surface would simultaneously support collaborative visualization construction, data and design exploration, and reasoning. To facilitate data driven design within existing design tools such as card sorting, we introduce Composites, a tangible, augmented reality interface for constructing visualizations on large surfaces. In response to the placement of physical sticky-notes, Composites projects visualizations and data onto large surfaces. Our spatial grammar allows the designer to flexibly construct visualizations through the use of the notes. Similar to affinity-diagramming, the designer can “connect” the physical notes to data, operations, and visualizations which can then be re-arranged based on creative needs. We develop mechanisms (sticky interactions, visual hinting, etc.) to provide guiding feedback to the end-user. By leveraging low-cost technology, Composites extends a working surface to support a broad range of workflows without limiting creative design thinking. While machine learning (ML) continues to nd success in solving previously-thought hard problems, interpreting and exploring ML models remains challenging. Recent work has shown that visualizations are a powerful tool to aid debugging, analyzing, and interpreting ML models. However, depending on the complexity of the model (e.g., number of features), interpreting these visualizations can be difcult and may require additional expertise. Alternatively, textual descriptions, or verbalizations, can be a simple, yet effective way to communicate or summarize key aspects about a model, such as the overall trend in a model's predictions or comparisons between pairs of data instances. With the potential benets of visualizations and verbalizations in mind, we explore how the two can be combined to aid ML interpretability. Specically, we present a prototype system,TELEGAM , that demonstrates how visualizations and verbalizations can collectively support interactive exploration of ML models, for example, generalized additive models (GAMs). We describeTELEGAM 's interface and underlying heuristics to generate the verbalizations. We conclude by discussing how TELEGAM can serve as a platform to conduct future studies for understanding user expectations and designing novel interfaces for interpretable ML.",
+        "primary": "UI-Information"
     }
 ]
