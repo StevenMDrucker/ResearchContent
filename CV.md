@@ -141,6 +141,10 @@ Mira Dontcheva, **Steven M Drucker**, David Salesin, and Michael F Cohen. 2010. 
 **Steven M Drucker**. 1988. Texture from Touch. In _Natural Computation_, Whitman Richards (ed.). MIT Press. Book.
 
 ### Refereed Conferences
+#### 2024
+Ken Gu, Ruoxi Shang, Tim Althoff, Chenglong Wang, and **Steven M. Drucker**. 2024. How Do Analysts Understand and Verify AI-Assisted Data Analyses? In Proceedings of the CHI Conference on Human Factors in Computing Systems (CHI '24). Association for Computing Machinery, New York, NY, USA, Article 748, 1–22. https://doi.org/10.1145/3613904.3642497
+#### 2023
+McNutt, Andrew M., Chenglong Wang, Robert A. Deline, and **Steven M. Drucker**. "On the design of ai-powered code assistants for notebooks." In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, pp. 1-16. 2023.
 #### 2022
 Subrimonyam, Hari, Eytan Adar, and **Steven M Drucker**. Composites: A Tangible Interaction Paradigm for Visual Data Analysis in Design Practice. To appear om Proceedings of the 2022 International Working Conference on Advanced Visual Interfaces_, 2022.
 #### 2022
@@ -396,6 +400,18 @@ Kayur Patel, University of Washington
 ##### 2008
 Mira Dontcheva, University of Washington
 ### Interns
+##### 2024
+Sneha Gathani, University of Maryland
+##### 2024
+Luke Snyder, University of Washington
+##### 2023
+Ken Gu, University of Washington
+##### 2023
+Rouxi (Anna) Shang, University of Washington
+##### 2022
+Andrew McNutt, Univesity of Chicago
+##### 2022
+Elsie Lee-Robbins, University of Michigan
 ##### 2021
 April Wang, University of Michigan
 ##### 2021
