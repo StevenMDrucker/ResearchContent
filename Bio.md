@@ -1,4 +1,4 @@
-Dr. Steven M. Drucker is a Partner and Research Manager of the Visualization and Interactive Data Analysis (VIDA) group at Microsoft Research ([MSR](https://www.microsoft.com/en-us/research/)), and an affiliate professor at the University of Washington Computer Science and Engineering Department ([CSE](https://www.cs.washington.edu/)). In his 30+ year career, he has published over 120 academic papers, and filed over 130 patents in topics ranging from graphics and interfaces to information visualization. He was inducted into the SIGCHI Academy in 2019. 
+Dr. Steven M. Drucker was a Partner and Research Manager of the Visualization and Interactive Data Analysis (VIDA) group at Microsoft Research ([MSR](https://www.microsoft.com/en-us/research/)), and an affiliate professor at the University of Washington Computer Science and Engineering Department ([CSE](https://www.cs.washington.edu/)). In his 30+ year career, he has published over 120 academic papers, and filed over 130 patents in topics ranging from graphics and interfaces to information visualization. He was inducted into the SIGCHI Academy in 2019. 
 
 Common threads in Steven’s work are helping people discover meaning from their data, and developing methods for communicating those discoveries to other people. His analysis tools assist in both analytic and intuitive explorations of large datasets by revealing their underlying patterns and structures. His communication tools help people share their insights from this process in clear and enjoyable ways by leveraging storytelling and natural interaction techniques.
 
@@ -11,4 +11,4 @@ He is also an active leader in the academic community having served in roles ran
 Steven received his Ph.D. from the Computer Graphics and Animation Group at the [MIT Media Lab](https://www.media.mit.edu/) in May 1994. His thesis research was on intelligent camera control interfaces for graphical environments. He graduated Magna Cum Laude with Honors in Neurosciences from [Brown University](https://www.brown.edu/) where he also worked with the Brown Graphics Group and went on to complete his masters at the Artificial Intelligence Laboratory at [MIT](https://www.csail.mit.edu/) doing research in robot learning. 
 
 
-His email address is sdrucker (at) microsoft.com
+His email address is sdrucker (at) gmail.com
