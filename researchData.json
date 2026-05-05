@@ -9,9 +9,7 @@
         "Atkeson"
       ],
       "subject": [
-        "Robotics",
-        "Learning",
-        "Thesis"
+        "Robotics"
       ],
       "year": [
         "1989"
@@ -40,6 +38,7 @@
         "Cohen"
       ],
       "subject": [
+        "Creativity",
         "Graphics",
         "Photos"
       ],
@@ -93,10 +92,9 @@
         "Suh"
       ],
       "subject": [
-        "Information",
-        "Visualization",
+        "Sequences",
         "Touch",
-        "Sequences"
+        "Visualization"
       ],
       "year": [
         "2015"
@@ -120,8 +118,8 @@
         "schraefel"
       ],
       "subject": [
-        "UI",
-        "Information"
+        "Search",
+        "Web"
       ],
       "year": [
         "2007"
@@ -145,7 +143,8 @@
         "Fisher"
       ],
       "subject": [
-        "Information"
+        "Data",
+        "Visualization"
       ],
       "year": [
         "2016"
@@ -173,7 +172,8 @@
         "Platt"
       ],
       "subject": [
-        "Information"
+        "Data",
+        "Visualization"
       ],
       "year": [
         "2013"
@@ -198,7 +198,6 @@
         "Lu"
       ],
       "subject": [
-        "UI",
         "Machine Learning"
       ],
       "year": [
@@ -223,9 +222,8 @@
         "Meyer"
       ],
       "subject": [
-        "Visualization",
-        "Information",
-        "Design"
+        "Design",
+        "Visualization"
       ],
       "year": [
         "2013"
@@ -250,9 +248,8 @@
         "Meyer"
       ],
       "subject": [
-        "Information",
-        "Visualization",
-        "Design"
+        "Design",
+        "Visualization"
       ],
       "year": [
         "2017"
@@ -278,9 +275,8 @@
         "Simard"
       ],
       "subject": [
-        "Information",
-        "Visualization",
-        "Machine Learning"
+        "Machine Learning",
+        "Visualization"
       ],
       "year": [
         "2015"
@@ -330,8 +326,6 @@
         "White"
       ],
       "subject": [
-        "UI",
-        "Education",
         "Social"
       ],
       "year": [
@@ -355,7 +349,6 @@
         "Lee"
       ],
       "subject": [
-        "UI",
         "Presentation"
       ],
       "year": [
@@ -379,8 +372,8 @@
         "Cohen"
       ],
       "subject": [
-        "Graphics",
-        "Animation"
+        "Animation",
+        "Graphics"
       ],
       "year": [
         "2000"
@@ -432,8 +425,8 @@
         "Robertson"
       ],
       "subject": [
-        "Visualization",
-        "Programming"
+        "Programming",
+        "Visualization"
       ],
       "year": [
         "2006"
@@ -457,7 +450,7 @@
       ],
       "subject": [
         "Animation",
-        "UI",
+        "Creativity",
         "Presentation"
       ],
       "year": [
@@ -483,9 +476,8 @@
         "Salesin"
       ],
       "subject": [
-        "Visualization",
-        "UI",
-        "Search"
+        "Search",
+        "Visualization"
       ],
       "year": [
         "2007"
@@ -510,8 +502,8 @@
         "Cohen"
       ],
       "subject": [
-        "Information",
-        "UI"
+        "Search",
+        "Web"
       ],
       "year": [
         "2010"
@@ -534,10 +526,9 @@
         "Cohen"
       ],
       "subject": [
+        "Search",
         "Visualization",
-        "UI",
-        "Web",
-        "Search"
+        "Web"
       ],
       "year": [
         "2006"
@@ -563,8 +554,8 @@
         "Cohen"
       ],
       "subject": [
-        "UI",
-        "Information"
+        "Search",
+        "Web"
       ],
       "year": [
         "2006"
@@ -588,8 +579,8 @@
         "Cohen"
       ],
       "subject": [
-        "Information",
-        "UI"
+        "Search",
+        "Web"
       ],
       "year": [
         "2008"
@@ -614,9 +605,8 @@
         "De Mar"
       ],
       "subject": [
-        "Graphics",
-        "UI",
-        "Games"
+        "Games",
+        "Graphics"
       ],
       "year": [
         "2003"
@@ -642,7 +632,6 @@
         "De Mar"
       ],
       "subject": [
-        "UI",
         "Photos"
       ],
       "year": [
@@ -714,10 +703,8 @@
         "De Mar"
       ],
       "subject": [
-        "Graphics",
-        "UI",
         "Games",
-        "Thesis"
+        "Graphics"
       ],
       "year": [
         "2003"
@@ -740,9 +727,8 @@
         "Basu"
       ],
       "subject": [
-        "UI",
-        "Visualization",
-        "Machine Learning"
+        "Machine Learning",
+        "Visualization"
       ],
       "year": [
         "2011"
@@ -768,10 +754,8 @@
         "schraefel"
       ],
       "subject": [
-        "UI",
-        "Information",
-        "Visualization",
-        "Touch"
+        "Touch",
+        "Visualization"
       ],
       "year": [
         "2013"
@@ -795,9 +779,8 @@
         "Zeltzer"
       ],
       "subject": [
-        "Graphics",
         "Camera",
-        "Thesis"
+        "Presentation"
       ],
       "year": [
         "1992"
@@ -822,9 +805,8 @@
         "Wong"
       ],
       "subject": [
-        "UI",
-        "TV",
-        "Media"
+        "Media",
+        "TV"
       ],
       "year": [
         "2002"
@@ -848,10 +830,9 @@
         "Agrawala"
       ],
       "subject": [
-        "Visualization",
-        "UI",
         "Presentation",
-        "Temporal"
+        "Temporal",
+        "Visualization"
       ],
       "year": [
         "2006"
@@ -877,7 +858,6 @@
       ],
       "subject": [
         "Graphics",
-        "UI",
         "Movies",
         "Visualization"
       ],
@@ -925,9 +905,8 @@
         "Wong"
       ],
       "subject": [
-        "UI",
-        "TV",
-        "Media"
+        "Media",
+        "TV"
       ],
       "year": [
         "2001"
@@ -949,9 +928,8 @@
         "Wong"
       ],
       "subject": [
-        "UI",
-        "TV",
-        "Media"
+        "Media",
+        "TV"
       ],
       "year": [
         "2001"
@@ -974,9 +952,8 @@
         "Roseway"
       ],
       "subject": [
-        "UI",
-        "TV",
-        "Media"
+        "Media",
+        "TV"
       ],
       "year": [
         "2002"
@@ -998,9 +975,8 @@
         "Wong"
       ],
       "subject": [
-        "UI",
-        "Visualization",
-        "Information"
+        "Social",
+        "Visualization"
       ],
       "year": [
         "2003"
@@ -1024,10 +1000,8 @@
         "Wong"
       ],
       "subject": [
-        "UI",
-        "Information",
-        "Visualization",
-        "Movies"
+        "Movies",
+        "Visualization"
       ],
       "year": [
         "2003"
@@ -1050,7 +1024,6 @@
         "Flora"
       ],
       "subject": [
-        "UI",
         "TV"
       ],
       "year": [
@@ -1077,7 +1050,6 @@
       "subject": [
         "Graphics",
         "Photos",
-        "UI",
         "Visualization"
       ],
       "year": [
@@ -1101,9 +1073,8 @@
         "Zeltzer"
       ],
       "subject": [
-        "Graphics",
         "Camera",
-        "Thesis"
+        "Graphics"
       ],
       "year": [
         "1994"
@@ -1127,10 +1098,8 @@
         "Fisher"
       ],
       "subject": [
-        "UI",
-        "Information",
-        "Visualization",
-        "Touch"
+        "Touch",
+        "Visualization"
       ],
       "year": [
         "2013"
@@ -1157,8 +1126,7 @@
         "Lakshmiratan"
       ],
       "subject": [
-        "UI",
-        "Information",
+        "Search",
         "Web"
       ],
       "year": [
@@ -1180,9 +1148,8 @@
         "Zeltzer"
       ],
       "subject": [
-        "Graphics",
         "Camera",
-        "Thesis"
+        "Presentation"
       ],
       "year": [
         "1995"
@@ -1205,9 +1172,8 @@
         "Individual"
       ],
       "subject": [
-        "Graphics",
-        "Camera",
-        "Thesis"
+        "Games",
+        "Social"
       ],
       "year": [
         "1994"
@@ -1229,10 +1195,9 @@
         "Individual"
       ],
       "subject": [
-        "Graphics",
-        "Animation",
+        "AI",
         "Camera",
-        "Thesis"
+        "Presentation"
       ],
       "year": [
         "1994"
@@ -1259,9 +1224,7 @@
         "Lee"
       ],
       "subject": [
-        "UI",
-        "Presentation",
-        "Information"
+        "Presentation"
       ],
       "year": [
         "2016"
@@ -1285,7 +1248,8 @@
         "Morris"
       ],
       "subject": [
-        "Information"
+        "Search",
+        "Web"
       ],
       "year": [
         "2007"
@@ -1308,10 +1272,8 @@
         "Czerwinski"
       ],
       "subject": [
-        "UI",
-        "Information",
-        "Visualization",
-        "Big Data"
+        "Big Data",
+        "Visualization"
       ],
       "year": [
         "2012"
@@ -1336,9 +1298,8 @@
         "Czerwinski"
       ],
       "subject": [
-        "Information",
-        "Visualization",
-        "Sequences"
+        "Sequences",
+        "Visualization"
       ],
       "year": [
         "2016"
@@ -1361,7 +1322,6 @@
         "Drucker"
       ],
       "subject": [
-        "Information",
         "Visualization"
       ],
       "year": [
@@ -1386,10 +1346,8 @@
         "Chen"
       ],
       "subject": [
-        "UI",
-        "Information",
-        "Visualization",
-        "Design"
+        "Design",
+        "Visualization"
       ],
       "year": [
         "2011"
@@ -1414,7 +1372,6 @@
         "Ruble"
       ],
       "subject": [
-        "UI",
         "Visualization"
       ],
       "year": [
@@ -1464,10 +1421,8 @@
         "schraefel"
       ],
       "subject": [
-        "UI",
-        "Information",
-        "Visualization",
-        "Big Data"
+        "Big Data",
+        "Visualization"
       ],
       "year": [
         "2012"
@@ -1491,8 +1446,7 @@
         "Brewer"
       ],
       "subject": [
-        "UI",
-        "Information",
+        "Search",
         "Web"
       ],
       "year": [
@@ -1515,7 +1469,8 @@
         "Galyean"
       ],
       "subject": [
-        "Graphics"
+        "Graphics",
+        "Presentation"
       ],
       "year": [
         "1992"
@@ -1539,10 +1494,8 @@
         "Wong"
       ],
       "subject": [
-        "UI",
         "Media",
-        "Search",
-        "Information"
+        "Search"
       ],
       "year": [
         "2002"
@@ -1617,9 +1570,8 @@
         "Lee"
       ],
       "subject": [
-        "Information",
-        "Visualization",
-        "Presentation"
+        "Presentation",
+        "Visualization"
       ],
       "year": [
         "2013"
@@ -1644,7 +1596,6 @@
         "Wong"
       ],
       "subject": [
-        "UI",
         "Photos",
         "Visualization"
       ],
@@ -1671,9 +1622,8 @@
       ],
       "subject": [
         "Media",
-        "UI",
-        "Web",
-        "Visualization"
+        "Visualization",
+        "Web"
       ],
       "year": [
         "2010"
@@ -1724,7 +1674,7 @@
         "Uyttendaele"
       ],
       "subject": [
-        "UI",
+        "Creativity",
         "Graphics",
         "Photos"
       ],
@@ -1751,9 +1701,7 @@
         "Heer"
       ],
       "subject": [
-        "Information",
-        "Visualization",
-        "Network"
+        "Visualization"
       ],
       "year": [
         "2015"
@@ -1779,7 +1727,8 @@
         "Candy"
       ],
       "subject": [
-        "UI"
+        "Creativity",
+        "Design"
       ],
       "year": [
         "2013"
@@ -1829,9 +1778,8 @@
         "Zhou"
       ],
       "subject": [
-        "Information",
-        "Visualization",
-        "Machine Learning"
+        "Machine Learning",
+        "Visualization"
       ],
       "year": [
         "2015"
@@ -1857,9 +1805,8 @@
         "Xu"
       ],
       "subject": [
-        "Visualization",
-        "UI",
-        "Photos"
+        "Photos",
+        "Visualization"
       ],
       "year": [
         "2008"
@@ -1883,9 +1830,8 @@
         "Medynskiy"
       ],
       "subject": [
-        "UI",
-        "Information",
-        "Search"
+        "Search",
+        "Web"
       ],
       "year": [
         "2009"
@@ -1910,8 +1856,7 @@
         "Czerwinski"
       ],
       "subject": [
-        "UI",
-        "Photos"
+        "Design"
       ],
       "year": [
         "2006"
@@ -1939,7 +1884,8 @@
         "Wobbrock"
       ],
       "subject": [
-        "UI"
+        "Design",
+        "Touch"
       ],
       "year": [
         "2014"
@@ -1966,11 +1912,9 @@
         "Landay"
       ],
       "subject": [
-        "UI",
-        "Information",
-        "Visualization",
         "Machine Learning",
-        "Programming"
+        "Programming",
+        "Visualization"
       ],
       "year": [
         "2010"
@@ -1997,9 +1941,8 @@
         "Tan"
       ],
       "subject": [
-        "UI",
-        "Visualization",
-        "Machine Learning"
+        "Machine Learning",
+        "Visualization"
       ],
       "year": [
         "2011"
@@ -2025,7 +1968,8 @@
         "Fisher"
       ],
       "subject": [
-        "Information"
+        "Sequences",
+        "Visualization"
       ],
       "year": [
         "2016"
@@ -2052,7 +1996,7 @@
         "Satpathy"
       ],
       "subject": [
-        "UI",
+        "Creativity",
         "Photos"
       ],
       "year": [
@@ -2195,11 +2139,9 @@
         "Hu"
       ],
       "subject": [
-        "UI",
-        "Information",
-        "Visualization",
         "Design",
-        "Search"
+        "Search",
+        "Visualization"
       ],
       "year": [
         "2009"
@@ -2226,8 +2168,7 @@
         "Landay"
       ],
       "subject": [
-        "UI",
-        "Information",
+        "Search",
         "Web"
       ],
       "year": [
@@ -2254,7 +2195,6 @@
       ],
       "subject": [
         "Graphics",
-        "UI",
         "Social"
       ],
       "year": [
@@ -2277,7 +2217,6 @@
         "Smith"
       ],
       "subject": [
-        "UI",
         "Social"
       ],
       "year": [
@@ -2302,8 +2241,9 @@
         "Cohen"
       ],
       "subject": [
-        "Graphics",
-        "Animation"
+        "Animation",
+        "Creativity",
+        "Graphics"
       ],
       "year": [
         "2006"
@@ -2326,9 +2266,8 @@
         "White"
       ],
       "subject": [
-        "Visualization",
-        "UI",
         "Search",
+        "Visualization",
         "Web"
       ],
       "year": [
@@ -2354,9 +2293,8 @@
         "schraefel"
       ],
       "subject": [
-        "Visualization",
-        "UI",
         "Search",
+        "Visualization",
         "Web"
       ],
       "year": [
@@ -2382,7 +2320,6 @@
         "schraefel"
       ],
       "subject": [
-        "UI",
         "Search"
       ],
       "year": [
@@ -2404,7 +2341,6 @@
         "Whitted"
       ],
       "subject": [
-        "UI",
         "Visualization"
       ],
       "year": [
@@ -2427,8 +2363,8 @@
         "Smith"
       ],
       "subject": [
-        "Visualization",
-        "Social"
+        "Social",
+        "Visualization"
       ],
       "year": [
         "1999"
@@ -2451,9 +2387,8 @@
         "Haan"
       ],
       "subject": [
-        "Hyptertext",
-        "UI",
-        "Information"
+        "Hypertext",
+        "Web"
       ],
       "year": [
         "1988"
@@ -2477,9 +2412,8 @@
         "Meyrowitz"
       ],
       "subject": [
-        "Hyptertext",
-        "UI",
-        "Information"
+        "Hypertext",
+        "Web"
       ],
       "year": [
         "1988"
@@ -2501,9 +2435,8 @@
         "Zeltzer"
       ],
       "subject": [
-        "Graphics",
         "Camera",
-        "Thesis"
+        "Presentation"
       ],
       "year": [
         "1992"
@@ -2527,10 +2460,9 @@
         "DeLine"
       ],
       "subject": [
-        "Information",
-        "Visualization",
+        "Sequences",
         "Touch",
-        "Sequences"
+        "Visualization"
       ],
       "year": [
         "2015"
@@ -2553,9 +2485,8 @@
         "Zeleznik"
       ],
       "subject": [
-        "Information",
-        "Visualization",
-        "Touch"
+        "Touch",
+        "Visualization"
       ],
       "year": [
         "2014"
@@ -2586,10 +2517,8 @@
         "Stuerzlinger"
       ],
       "subject": [
-        "UI",
-        "Information",
-        "Visualization",
-        "Graphics"
+        "Graphics",
+        "Visualization"
       ],
       "year": [
         "2018"
@@ -2613,10 +2542,8 @@
         "Brinkman"
       ],
       "subject": [
-        "UI",
-        "Information",
-        "Visualization",
-        "Temporal"
+        "Temporal",
+        "Visualization"
       ],
       "year": [
         "2012"
@@ -2643,10 +2570,8 @@
         "Simard"
       ],
       "subject": [
-        "UI",
-        "Information",
-        "Visualization",
-        "ML"
+        "Machine Learning",
+        "Visualization"
       ],
       "year": [
         "2019"
@@ -2670,7 +2595,6 @@
         "Elmqvist"
       ],
       "subject": [
-        "Information",
         "Visualization"
       ],
       "year": [
@@ -2695,7 +2619,6 @@
         "Lee"
       ],
       "subject": [
-        "Information",
         "Visualization"
       ],
       "year": [
@@ -2720,8 +2643,6 @@
         "Ravindranath"
       ],
       "subject": [
-        "UI",
-        "Information",
         "Media"
       ],
       "year": [
@@ -2748,10 +2669,9 @@
         "Vuillemot"
       ],
       "subject": [
-        "UI",
-        "Information",
-        "Visualization",
-        "3D"
+        "Creativity",
+        "Design",
+        "Graphics"
       ],
       "year": [
         "2018"
@@ -2775,8 +2695,6 @@
         "Stasko"
       ],
       "subject": [
-        "UI",
-        "Information",
         "Visualization"
       ],
       "year": [
@@ -2803,10 +2721,7 @@
         "Scheuermann"
       ],
       "subject": [
-        "UI",
-        "Information",
-        "Visualization",
-        "3D"
+        "Visualization"
       ],
       "year": [
         "2018"
@@ -2836,9 +2751,8 @@
         "Tversky"
       ],
       "subject": [
-        "Information",
-        "Visualization",
-        "Communication"
+        "Presentation",
+        "Visualization"
       ],
       "year": [
         "2018"
@@ -2863,9 +2777,8 @@
         "Diakopolous"
       ],
       "subject": [
-        "Information",
-        "Visualization",
-        "Communication"
+        "Presentation",
+        "Visualization"
       ],
       "year": [
         "2018"
@@ -2889,9 +2802,8 @@
         "DeLine"
       ],
       "subject": [
-        "Information",
-        "Visualization",
-        "ML"
+        "Machine Learning",
+        "Visualization"
       ],
       "year": [
         "2019"
@@ -2918,9 +2830,8 @@
         "Simard"
       ],
       "subject": [
-        "Information",
-        "Visualization",
-        "ML"
+        "Machine Learning",
+        "Visualization"
       ],
       "year": [
         "2018"
@@ -2943,9 +2854,8 @@
         "Fernandez"
       ],
       "subject": [
-        "Information",
-        "Visualization",
-        "ML"
+        "Machine Learning",
+        "Visualization"
       ],
       "year": [
         "2019"
@@ -2968,8 +2878,9 @@
         "Adar"
       ],
       "subject": [
-        "Information",
-        "UI"
+        "AI",
+        "Creativity",
+        "Design"
       ],
       "year": [
         "2019"
@@ -2993,8 +2904,8 @@
         "Hohman"
       ],
       "subject": [
-        "Information",
-        "Data"
+        "Data",
+        "Programming"
       ],
       "year": [
         "2019"
@@ -3017,9 +2928,8 @@
         "Srinivasan"
       ],
       "subject": [
-        "Information",
-        "Visualization",
-        "ML"
+        "Machine Learning",
+        "Visualization"
       ],
       "year": [
         "2019"
@@ -3045,9 +2955,8 @@
         "Perer"
       ],
       "subject": [
-        "Information",
-        "Visualization",
-        "ML"
+        "Machine Learning",
+        "Visualization"
       ],
       "year": [
         "2022"
@@ -3072,7 +2981,6 @@
         "Stasko"
       ],
       "subject": [
-        "HCI",
         "Data",
         "Visualization"
       ],
@@ -3100,9 +3008,9 @@
         "Dwyer"
       ],
       "subject": [
-        "Graphics",
-        "HCI",
+        "Creativity",
         "Data",
+        "Graphics",
         "Visualization"
       ],
       "year": [
@@ -3127,7 +3035,6 @@
         "DeLine"
       ],
       "subject": [
-        "HCI",
         "Data",
         "Visualization"
       ],
@@ -3152,8 +3059,9 @@
         "DeLine"
       ],
       "subject": [
-        "HCI",
-        "Data"
+        "AI",
+        "Data",
+        "Machine Learning"
       ],
       "year": [
         "2021"
@@ -3177,8 +3085,8 @@
         "DeLine"
       ],
       "subject": [
-        "HCI",
-        "Data"
+        "Data",
+        "Programming"
       ],
       "year": [
         "2022"
@@ -3202,8 +3110,8 @@
         "DeLine"
       ],
       "subject": [
-        "HCI",
-        "Data"
+        "Data",
+        "Visualization"
       ],
       "year": [
         "2022"
@@ -3226,9 +3134,7 @@
         "Adar"
       ],
       "subject": [
-        "Information",
-        "Visualization",
-        "HCI"
+        "Visualization"
       ],
       "year": [
         "2022"
@@ -3252,9 +3158,8 @@
         "DeLine"
       ],
       "subject": [
-        "HCI",
-        "Data",
-        "AI"
+        "AI",
+        "Data"
       ],
       "year": [
         "2023"
@@ -3279,9 +3184,8 @@
         "Wang"
       ],
       "subject": [
-        "HCI",
-        "Data",
-        "AI"
+        "AI",
+        "Data"
       ],
       "year": [
         "2024"
@@ -3306,9 +3210,9 @@
         "Gao"
       ],
       "subject": [
-        "Visualization",
+        "AI",
         "Data",
-        "AI"
+        "Visualization"
       ],
       "year": [
         "2025"
@@ -3331,8 +3235,8 @@
         "Wang"
       ],
       "subject": [
-        "Visualization",
-        "AI"
+        "AI",
+        "Visualization"
       ],
       "year": [
         "2025"
@@ -3362,9 +3266,8 @@
         "Riche"
       ],
       "subject": [
-        "HCI",
-        "Creativity",
-        "AI"
+        "AI",
+        "Creativity"
       ],
       "year": [
         "2025"
@@ -3389,9 +3292,8 @@
         "Hinckley"
       ],
       "subject": [
-        "Visualization",
         "Touch",
-        "UI"
+        "Visualization"
       ],
       "year": [
         "2020"
@@ -3417,8 +3319,9 @@
         "Hinckley"
       ],
       "subject": [
-        "Visualization",
-        "Design"
+        "Creativity",
+        "Design",
+        "Visualization"
       ],
       "year": [
         "2020"
@@ -3447,8 +3350,8 @@
         "Sedlmair"
       ],
       "subject": [
-        "Visualization",
-        "ML"
+        "Machine Learning",
+        "Visualization"
       ],
       "year": [
         "2020"
