@@ -1,5 +1,31 @@
 [
   {
+    "caption": "PhotoDance",
+    "img": "researchImages/photodance.jpg",
+    "bibEntry": "<div class=\"csl-entry\">Drucker, S. M. (2026). <i>PhotoDance: When a Microsoft Researcher Retires and Finally Scratches a 30-Year Itch</i>. Personal research project.</div>",
+    "tags": {
+      "collaborators": [
+        "Romao"
+      ],
+      "subject": [
+        "Visualization",
+        "Graphics",
+        "Photos",
+        "Media",
+        "Data"
+      ],
+      "year": [
+        "2026"
+      ],
+      "publication": [
+        "LinkedIn"
+      ]
+    },
+    "video": "https://youtu.be/Af9nWLuhhR8",
+    "abstract": "PhotoDance is a personal photo archive explorer built for a collection of 225,000 photographs spanning 30 years. It combines two views: a Galaxy view (SandDance-style) that displays the entire collection as interactive points reorganized in real time by year, location, camera, or face identity; and a Mosaic view that composes any target image entirely from archive tiles matched by visual similarity, supporting infinite zoom. An offline AI pipeline handles deduplication, quality scoring, event clustering, GPS interpolation, face indexing, and burst collapse across 19,725 burst groups. The rendering engine uses WebGL2 with an LRU sprite atlas for smooth 60fps interaction across 189,000 points. Built with Claude Code as an architectural collaborator.",
+    "primary": "Photos"
+  },
+  {
     "caption": "Task Level Learning",
     "img": "researchImages/robotlearn.gif",
     "bibEntry": "<div class=\"csl-entry\">Aboaf, E. W., Drucker, S. M., and Atkeson, C. G. (1989). Task-level robot learning: Juggling a tennis ball more accurately. In <i>Robotics and Automation, 1989. Proceedings., 1989 IEEE International Conference on</i> (pp. 1290â1295). IEEE.</div>",
